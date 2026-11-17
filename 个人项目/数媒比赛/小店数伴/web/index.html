@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#174e48">
+  <meta name="description" content="面向个体经营者的订单体检、商品洞察与行动清单工具。">
+  <title>小店数伴 · 把订单变成下一步</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23174e48'/%3E%3Cpath d='M17 43V31h7v12zm12 0V20h7v23zm12 0V12h7v31z' fill='%23c6eed9'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <a href="#main" class="skip-link">跳转到主要内容</a>
+  <aside class="sidebar">
+    <a class="brand" href="#overview" aria-label="小店数伴，返回经营概览"><span class="brand-mark"><i></i><i></i><i></i></span><span>小店数伴<small>让每笔订单都有回响</small></span></a>
+    <div class="nav-caption">我的工作台</div>
+    <nav id="nav" aria-label="主要导航">
+      <button data-view="overview" class="active"></button>
+      <button data-view="quality"></button>
+      <button data-view="products"></button>
+      <button data-view="actions"></button>
+      <button data-view="methods"></button>
+    </nav>
+    <div class="sidebar-note"><span class="note-orbit">✦</span><strong>从数字，到下一步。</strong><p>看清订单中的线索，<br>把精力留给经营。</p></div>
+    <div class="local-indicator"><span></span> 数据在本机处理<small>版本 1.0 · 参赛演示版</small></div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><div class="breadcrumb">工作台 <span>/</span> <strong id="breadcrumb-view">经营概览</strong></div><div class="topbar-actions"><button class="quiet-button" id="sample-button">载入公开样例</button><button class="primary-button" id="upload-button"><span aria-hidden="true">＋</span> 导入订单表</button><input id="file-input" type="file" accept=".csv,.xlsx" hidden></div></header>
+    <main id="main" tabindex="-1">
+      <div class="source-strip" id="source-strip"><span class="source-badge">正在载入</span><p>读取本机公开示例数据…</p></div>
+      <div id="content" aria-live="polite"><div class="loading-card"><span class="spinner"></span><p>正在核对订单与分析口径…</p></div></div>
+    </main>
+    <footer>小店数伴 <span>·</span> 数据有依据，行动有选择。<button data-go="methods">查看数据来源与计算方法 ↗</button></footer>
+  </div>
+  <div id="toast" role="status" hidden></div>
+  <dialog id="import-dialog" aria-labelledby="import-title">
+    <form id="import-form">
+      <div class="dialog-header"><div><span class="eyebrow">IMPORT YOUR ORDERS</span><h2 id="import-title">让订单表，顺利对上号。</h2></div><button type="button" class="icon-button" id="close-import" aria-label="关闭导入">×</button></div>
+      <p id="import-file-name" class="muted"></p>
+      <div class="mapping-grid" id="mapping-fields"></div>
+      <div class="mapping-grid settings-grid"><label>金额币种<select id="currency"><option value="CNY">人民币 CNY · ¥</option><option value="GBP">英镑 GBP · £</option><option value="USD">美元 USD · $</option><option value="EUR">欧元 EUR · €</option></select></label><label>日期顺序<select id="date-order"><option value="iso">年-月-日（如2026-10-01）</option><option value="dmy">日/月/年（如31/10/2026）</option><option value="mdy">月/日/年（如10/31/2026）</option></select></label></div>
+      <label class="check-label"><input id="cancelled-prefix" type="checkbox"> 此文件中以 C 开头的订单号表示取消单</label>
+      <p class="help-text">行金额优先于“数量×单价”，请勿映射为整单金额。负数数量或金额单独列为负向记录。导入文件仅留在本机进程内存，关闭服务后清除。</p>
+      <details><summary>预览原始数据前3行</summary><div id="import-preview" class="table-scroll"></div></details>
+      <p id="import-error" class="error-text" role="alert" hidden></p>
+      <div class="dialog-footer"><button type="button" class="secondary-button" id="cancel-import">取消</button><button type="submit" class="primary-button" id="confirm-import">完成映射，开始体检 →</button></div>
+    </form>
+  </dialog>
+  <dialog id="evidence-dialog" aria-labelledby="evidence-title">
+    <div class="dialog-header"><div><span class="eyebrow">BACK TO THE ACTUAL ORDERS</span><h2 id="evidence-title">同购结论，回到真实订单。</h2></div><button type="button" class="icon-button" id="close-evidence" aria-label="关闭同购依据">×</button></div>
+    <div id="evidence-content"></div>
+  </dialog>
+</body>
+</html>

@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "examples": 8,
+  "python": "3.13.2",
+  "numpy": "2.3.5",
+  "pandas": "2.3.3",
+  "matplotlib": "3.10.0",
+  "raw_rows": 5,
+  "clean_rows": 4,
+  "city_totals": {
+    "成都": 120.0,
+    "贵阳": 200.0
+  },
+  "daily_totals": [
+    150.0,
+    170.0
+  ],
+  "linear_coefficients": [
+    0.9999999999999997,
+    1.9999999999999998
+  ],
+  "bar_direction": "vertical",
+  "barh_direction": "horizontal",
+  "figure": "E:\\Documents\\ChatGPT\\obsidian\\outputs\\利用Python进行数据分析-第2版练习-20261111\\Python数据分析2版_自编练习_柱状图方向.png",
+  "scope": "Only these eight synthetic examples; not all original book code"
+}

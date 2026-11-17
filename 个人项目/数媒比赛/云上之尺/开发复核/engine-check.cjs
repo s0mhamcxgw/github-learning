@@ -1,0 +1,14 @@
+'use strict';
+const assert=require('node:assert/strict'),path=require('node:path'),fs=require('node:fs');
+const E=require('../作品/engine.js'),checks=[];
+function test(name,fn){fn();checks.push({name,status:'passed'});console.log('PASS '+name);}
+test('公开尺度与毫米单位换算',()=>{assert.equal(E.FACTS.height,625);assert.equal(E.FACTS.span,1420);assert.equal(E.FACTS.length,2890);assert.equal(E.scaleRatio(625,2),312500);});
+test('两级六角数量与坐标唯一性',()=>{for(const [r,n]of [[8,217],[5,91]]){const pts=E.hexPack(r);assert.equal(pts.length,n);assert.equal(new Set(pts.map(p=>p.q+','+p.r)).size,n);assert.deepEqual(pts[0],{q:0,r:0,x:0,y:0});}});
+test('主缆曲线连续、对称并与两主塔相接',()=>{assert.equal(E.cableY(0),655);assert.equal(E.cableY(710),830);assert.ok(Math.abs(E.cableY(710-1e-6)-E.cableY(710+1e-6))<1e-3);for(let x=0;x<=1250;x+=2)assert.equal(E.cableY(x),E.cableY(-x));});
+test('程序地貌在场景范围有限且稳定',()=>{for(let x=-2700;x<2700;x+=71)for(let z=-3300;z<3300;z+=139){const a=E.terrainY(x,z);assert.ok(Number.isFinite(a));assert.ok(a>=-8&&a<900);assert.equal(a,E.terrainY(x,z));}});
+test('建造前序与未知构件防护',()=>{assert.equal(E.canInstall(1,'deck').ok,false);assert.equal(E.canInstall(3,'deck').ok,true);assert.equal(E.canInstall(4,'deck').ok,false);assert.equal(E.canInstall(5,'open').ok,false);assert.equal(E.canInstall(0,'invented').ok,false);for(let i=0;i<5;i++)assert.equal(E.canInstall(i,E.STAGES[i+1].need).index,i+1);});
+test('进度导入限幅、枚举白名单与噪声字段隔离',()=>{const s=E.cleanState({chapter:99,load:1e99,scale:-5,strand:500,day:0,note:'甲'.repeat(999),component:'__proto__',view:'injected',sound:true,visited:[-1,0,0,6,7,'4'],found:['cable','injected'],checks:{precision:true,malicious:true},unknown:'x'});assert.equal(s.chapter,6);assert.equal(s.load,650);assert.equal(s.scale,0);assert.equal(s.strand,216);assert.equal(s.day,1);assert.equal(s.note.length,240);assert.equal(s.component,'cable');assert.equal(s.view,'aerial');assert.equal(s.sound,false);assert.deepEqual(s.visited,[0,6]);assert.deepEqual(s.found,['cable']);assert.equal(s.unknown,undefined);assert.equal(s.checks.malicious,undefined);assert.equal(s.checks.precision,true);});
+test('非法根对象与非有限数不会穿入状态',()=>{for(const x of [null,5,[],false])assert.throws(()=>E.cleanState(x));const s=E.cleanState({offset:NaN,load:Infinity,day:'not-number'});assert.ok(Number.isFinite(s.offset));assert.ok(Number.isFinite(s.load));assert.equal(s.day,1);});
+test('解释性观测序列与手记不冒称真实工程数据',()=>{assert.equal(E.observation(1),6.3);assert.equal(E.observation(7),1.2);const s=E.initial();s.precisionAnswer='whole';const report=E.report(s);assert.ok(report.includes('不是工程观测'));assert.ok(report.includes('尚需修正'));assert.ok(report.includes('持续观测一周'));});
+const out={version:E.VERSION,checks,scope:'AI助手软件计算与状态核查，不是用户试验、工程检测或学习效果评价'};
+if(process.argv[2])fs.writeFileSync(path.resolve(process.argv[2]),JSON.stringify(out,null,2));console.log(JSON.stringify({passed:checks.length}));

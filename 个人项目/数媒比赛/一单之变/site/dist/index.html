@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#203f37">
+  <meta name="description" content="在答应一张加急订单前，看清它如何影响已有承诺。可解释的约束推演、方案比较与工时压力测试。">
+  <title>一单之变 · 可解释接单推演</title>
+  <link rel="icon" href="mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="engine.js"></script>
+  <script defer src="scenarios.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">跳至主要内容</a>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="index.html" aria-label="一单之变首页"><img src="mark.svg" alt="" width="38" height="38"><span>一单之变<small>THE PROMISE LAB</small></span></a>
+      <div class="sidebar-caption">承诺之前，先做一次推演。</div>
+      <nav id="nav" aria-label="主要导航"></nav>
+      <div class="sidebar-bottom"><span class="live-dot"></span>浏览器本地计算<br><small>合成案例 · 无需登录</small><button class="text-button" data-action="about">作品与计算边界 ↗</button></div>
+    </aside>
+    <div class="workspace">
+      <header class="topbar"><div class="breadcrumbs">创作者工作台 <span>/</span> <strong id="view-label">承诺总览</strong></div><div class="top-actions"><span class="data-badge">合成案例</span><button class="button quiet small" data-action="tour">▷ 自动导览</button><button class="button dark small" data-action="export-json">导出依据 ↗</button></div></header>
+      <main id="main" tabindex="-1" aria-busy="true"><div class="loading">正在核对约束与排程…</div></main>
+      <footer class="footer"><span>一单之变 · 可解释接单与交期推演工作台</span><span>30 分钟 / 格 · 有界离散模型 · v1.0</span></footer>
+    </div>
+  </div>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <div id="tour" hidden></div>
+  <dialog id="about"><div class="dialog-head"><span class="eyebrow">关于作品</span><button class="icon-button" data-action="close-about" aria-label="关闭">×</button></div><h2>让一次承诺，有迹可循。</h2><p>本作品围绕个体创作者接单前的取舍，连接约束输入、不可行解释、条件对比与扰动复核。现有排程和库存工具已经覆盖许多基础功能，本作品不宣称发明了排程算法或全球首创。</p><p>内置工作室、订单与工时均为原创合成案例。没有真实商户部署或用户效果证据；自动导览和浏览器测试不属于真实用户试用。</p><div class="callout">模型采用 30 分钟时间格、最多 4 天 / 16 道工序。不可中断工序、资源容量、工作日历、前置工序、最早开始和交期均为硬约束。仅找到可行解时不宣称最优；只有完整检查结束才报告不可行。压力测试是指定扰动样本的重新排程，不是现实准时概率。</div><p>全部计算在当前浏览器完成，不请求外部 API。你可以下载项目数据和推演报告；关闭页面不会把数据上传。</p><p class="muted">创作使用 AI 辅助研究、代码和文案。正式参赛的学生贡献、素材来源、AI 使用与成员信息须以实际记录为准。</p><div class="sources"><a href="https://www.odoo.com/documentation/19.0/applications/inventory_and_mrp/manufacturing/advanced_configuration/work_order_dependencies.html" target="_blank" rel="noopener noreferrer">成熟先例：Odoo 工单依赖 ↗</a><a href="https://www.craftybase.com/small-business-inventory-software" target="_blank" rel="noopener noreferrer">成熟先例：Craftybase ↗</a><a href="https://www.cmit.cn/uploadfile/2026/1012/45828.html" target="_blank" rel="noopener noreferrer">OPC 专项赛正式通知 ↗</a></div></dialog>
+  <input id="import-file" type="file" accept=".json,application/json" hidden>
+  <noscript>此作品需要启用 JavaScript。无需联网或安装依赖。</noscript>
+</body>
+</html>

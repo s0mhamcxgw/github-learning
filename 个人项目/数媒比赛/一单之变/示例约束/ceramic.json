@@ -1,0 +1,125 @@
+{
+  "id": "ceramic",
+  "name": "青禾陶艺工作室",
+  "category": "连续工时冲突",
+  "days": 3,
+  "slotMinutes": 30,
+  "summary": "三小时拉坯无法拆开做。即使总工时看似够用，也可能没有一段能兑现承诺的连续时间。",
+  "source": "本作品原创合成案例；不是实际商家、访谈或生产数据。",
+  "resources": [
+    {
+      "id": "maker",
+      "label": "主制作人",
+      "capacity": 1,
+      "calendar": "work"
+    },
+    {
+      "id": "helper",
+      "label": "假设可用的协作者",
+      "capacity": 1,
+      "calendar": "work"
+    },
+    {
+      "id": "kiln",
+      "label": "恒温定型设备",
+      "capacity": 1,
+      "calendar": "always"
+    }
+  ],
+  "orders": [
+    {
+      "id": "cup",
+      "label": "青釉杯 · 已承诺",
+      "due": 6,
+      "release": 0,
+      "isNew": false,
+      "color": "#347465"
+    },
+    {
+      "id": "plate",
+      "label": "小食碟 · 已承诺",
+      "due": 16,
+      "release": 0,
+      "isNew": false,
+      "color": "#738da2"
+    },
+    {
+      "id": "incense",
+      "label": "定制香插 · 待接新单",
+      "due": 14,
+      "release": 0,
+      "isNew": true,
+      "color": "#c86e43"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "cup-form",
+      "order": "cup",
+      "label": "青釉杯成型",
+      "duration": 4,
+      "needs": {
+        "maker": 1
+      },
+      "after": []
+    },
+    {
+      "id": "cup-set",
+      "order": "cup",
+      "label": "青釉杯定型",
+      "duration": 2,
+      "needs": {
+        "kiln": 1
+      },
+      "after": [
+        "cup-form"
+      ]
+    },
+    {
+      "id": "plate-form",
+      "order": "plate",
+      "label": "小食碟成型",
+      "duration": 2,
+      "needs": {
+        "maker": 1
+      },
+      "after": []
+    },
+    {
+      "id": "plate-set",
+      "order": "plate",
+      "label": "小食碟定型",
+      "duration": 2,
+      "needs": {
+        "kiln": 1
+      },
+      "after": [
+        "plate-form"
+      ]
+    },
+    {
+      "id": "incense-form",
+      "order": "incense",
+      "label": "香插连续成型",
+      "duration": 6,
+      "needs": {
+        "maker": 1
+      },
+      "after": [],
+      "delegate": true
+    },
+    {
+      "id": "incense-set",
+      "order": "incense",
+      "label": "香插定型",
+      "duration": 2,
+      "needs": {
+        "kiln": 1
+      },
+      "after": [
+        "incense-form"
+      ]
+    }
+  ],
+  "note": "这是工序约束的教学性抽象；“定型设备”时长不是陶瓷烧制工艺参数，不可作为生产工艺指导。"
+}

@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#182d2e"><meta name="description" content="云上之尺：以花江峡谷大桥为题，从625米走入2毫米，再回到两岸生活的离线交互叙事。"><title>云上之尺 · 625米与2毫米之间</title><link rel="icon" href="mark.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css"></head>
+<body>
+<a class="skip" href="#controls">跳到本章交互</a>
+<main id="experience" data-chapter="0">
+ <div class="sky" aria-hidden="true"></div><div id="scene" aria-label="可旋转的原创桥梁三维示意场景" role="img"></div><canvas id="micro" aria-label="主缆、索股与毫米观测示意"></canvas><canvas id="route-map" aria-label="两岸通行前后示意路径"></canvas><svg id="measure" aria-hidden="true"></svg><div class="shade" aria-hidden="true"></div>
+ <header class="masthead"><a class="brand" href="#chapter-0" aria-label="云上之尺，返回序章"><svg viewBox="0 0 42 32" aria-hidden="true"><path d="M2 26H40M9 29V5M33 29V5M2 21Q21 28 40 21M9 5Q21 30 33 5M13 17V25M21 21V26M29 17V25"/></svg><span>云上之尺<small>THE MEASURE ABOVE THE CLOUDS</small></span></a><span class="edition">花江峡谷大桥 · 交互叙事</span><div class="tools"><button id="tour" class="tool">导览</button><button id="sound" class="tool" aria-pressed="false">声音 关</button><button id="motion" class="tool" aria-pressed="false">减少动态</button><button id="library" class="tool">资料与制作 <span>↗</span></button></div></header>
+ <article class="story" id="story"><p class="eyebrow" id="chapter-label"></p><h1 id="chapter-title"></h1><p class="subtitle" id="chapter-subtitle"></p><p class="story-copy" id="chapter-text"></p><p class="source-line" id="chapter-cite"></p><button id="start" class="primary">开始丈量 <span>↗</span></button></article>
+ <div id="scene-tag" class="scene-tag"><i></i><span>程序化原创地貌 / 叙事模型</span><b id="render-mode">3D</b></div>
+ <aside class="control-panel" id="controls" tabindex="-1" aria-label="本章交互"></aside>
+ <aside class="guide-status" id="guide-status" hidden><p id="guide-copy"></p><div><button id="guide-pause">暂停导览</button><button id="guide-stop">结束并恢复我的进度</button></div><progress id="guide-progress" max="1" value="0"></progress></aside>
+ <div class="scene-hint" id="scene-hint"><span class="orbit-icon">⤢</span> 拖动旋转 · 滚轮拉近 <button id="reset-view">复位镜头</button></div>
+ <div class="chapter-footer"><p id="chapter-question"></p><button id="read-more" class="text-button">本章札记 <span>＋</span></button></div>
+ <nav class="chapters" aria-label="章节"><div id="chapter-nav"></div><span class="page-indicator" id="page-indicator"></span><button id="next" aria-label="下一章">→</button></nav>
+ <div class="toast" id="toast" role="status" aria-live="polite"></div>
+ <div id="webgl-fallback" hidden><p>当前浏览器未启用三维渲染，已切换为原创二维示意。章节、毫米练习、资料与导出仍可使用。</p></div>
+</main>
+<dialog id="book"><div class="book-top"><div><p class="eyebrow">FIELD NOTES / SOURCES / MAKING</p><h2>山河有据，创作有迹</h2></div><button id="close-book" aria-label="关闭资料">×</button></div><nav class="book-tabs" aria-label="资料分类"><button data-tab="readings" class="active">叙事札记</button><button data-tab="facts">事实与口径</button><button data-tab="sources">原始资料</button><button data-tab="making">创作与实现</button></nav><div id="book-content"></div></dialog>
+<dialog id="poster-preview"><button id="close-poster" class="close-icon" aria-label="关闭海报预览">×</button><h2>我的观察卡</h2><img id="poster-image" alt="本次探索生成的原创观察卡"><button id="download-poster" class="primary">保存 PNG 到本机</button><p>浏览器保存位置请选择 E 盘。导览不计入个人记录。</p></dialog>
+<script src="vendor/three.min.js"></script><script src="content.js"></script><script src="engine.js"></script><script src="scene.js"></script><script src="micro.js"></script><script src="app.js"></script>
+</body></html>

@@ -1,0 +1,138 @@
+{
+  "id": "leather",
+  "name": "拾光皮具工坊",
+  "category": "工时扰动与承诺余量",
+  "days": 3,
+  "slotMinutes": 30,
+  "summary": "按估计工时可以完成，不代表遇到返工或材料晚到后仍能完成。用明确的扰动检查承诺余量。",
+  "source": "本作品原创合成案例；不是实际商家、访谈或生产数据。",
+  "resources": [
+    {
+      "id": "maker",
+      "label": "主制作人",
+      "capacity": 1,
+      "calendar": "work"
+    },
+    {
+      "id": "helper",
+      "label": "假设可用的协作者",
+      "capacity": 1,
+      "calendar": "work"
+    },
+    {
+      "id": "rack",
+      "label": "独立固化架位",
+      "capacity": 1,
+      "calendar": "always"
+    }
+  ],
+  "orders": [
+    {
+      "id": "wallet",
+      "label": "短夹 · 已承诺",
+      "due": 16,
+      "release": 0,
+      "isNew": false,
+      "color": "#347465"
+    },
+    {
+      "id": "belt",
+      "label": "腰带 · 已承诺",
+      "due": 54,
+      "release": 0,
+      "isNew": false,
+      "color": "#738da2"
+    },
+    {
+      "id": "tag",
+      "label": "礼物铭牌 · 待接新单",
+      "due": 16,
+      "release": 0,
+      "isNew": true,
+      "color": "#c86e43"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "wallet-cut",
+      "order": "wallet",
+      "label": "短夹裁片",
+      "duration": 2,
+      "needs": {
+        "maker": 1
+      },
+      "after": []
+    },
+    {
+      "id": "wallet-stitch",
+      "order": "wallet",
+      "label": "短夹缝制",
+      "duration": 2,
+      "needs": {
+        "maker": 1
+      },
+      "after": [
+        "wallet-cut"
+      ]
+    },
+    {
+      "id": "belt-prep",
+      "order": "belt",
+      "label": "腰带涂饰",
+      "duration": 2,
+      "needs": {
+        "maker": 1
+      },
+      "after": []
+    },
+    {
+      "id": "belt-dry",
+      "order": "belt",
+      "label": "腰带静置固化",
+      "duration": 8,
+      "needs": {
+        "rack": 1
+      },
+      "after": [
+        "belt-prep"
+      ]
+    },
+    {
+      "id": "belt-pack",
+      "order": "belt",
+      "label": "腰带整理",
+      "duration": 1,
+      "needs": {
+        "maker": 1
+      },
+      "after": [
+        "belt-dry"
+      ]
+    },
+    {
+      "id": "tag-cut",
+      "order": "tag",
+      "label": "铭牌裁片",
+      "duration": 2,
+      "needs": {
+        "maker": 1
+      },
+      "after": [],
+      "delegate": true
+    },
+    {
+      "id": "tag-finish",
+      "order": "tag",
+      "label": "铭牌装饰",
+      "duration": 2,
+      "needs": {
+        "maker": 1
+      },
+      "after": [
+        "tag-cut"
+      ],
+      "delegate": true
+    }
+  ],
+  "note": "固化工序只占架位，人工可以并行处理其他订单。工时为合成模型值，不是工艺标准。"
+}

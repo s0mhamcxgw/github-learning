@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#121d23">
+<meta name="description" content="从一片布到一份祝愿。以贵州台江苗族背带资料为研究切口的当代交互数字叙事。">
+<title>背上的花 · 苗族背带的层叠记忆</title>
+<link rel="icon" href="mark.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css">
+<script src="engine.js" defer></script><script src="renderer.js" defer></script><script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">跳到作品</a>
+<div class="ambient" aria-hidden="true"></div><div class="grain" aria-hidden="true"></div>
+<header class="topbar"><a class="wordmark" href="#0" aria-label="背上的花首页"><svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 3 29 16 16 29 3 16Z M16 3V29M3 16H29" fill="none" stroke="currentColor"/><path d="m16 9 7 7-7 7-7-7Z" fill="currentColor"/></svg><span>背上的花</span></a><span class="edition">A WISH, IN EVERY FOLD</span><div class="top-actions"><button id="sound" class="quiet" aria-pressed="false">声音 <span>关</span></button><button id="sources" class="quiet">资料与创作 ↗</button><button id="tour" class="quiet tour-button">▷ 自动导览</button></div></header>
+<nav class="chapter-nav" id="chapter-nav" aria-label="章节"></nav>
+<main id="main" tabindex="-1">
+<section class="scene" aria-label="交互艺术场景"><div class="art-halo" aria-hidden="true"></div><canvas id="art" aria-label="原创层叠布面：可操作、可切换尺度" tabindex="0"></canvas><span class="art-index">CONTEMPORARY TEXTILE NARRATIVE</span><div class="art-caption" id="art-caption"></div><div class="scale-controls" id="scale-controls" aria-label="观看尺度"></div></section>
+<section class="copy" id="copy" aria-live="polite"></section>
+<div class="bottom-note" id="bottom-note"></div>
+</main>
+<footer class="footer"><span>一片布的来处，一份心意的去处。</span><span id="chapter-count">序 / 01</span><div class="footer-actions"><button id="motion" class="quiet" aria-pressed="false">减少动态</button><button id="prev" class="quiet" aria-label="上一章">←</button><button id="next" class="next" aria-label="下一章">靠近一朵花 <span>↗</span></button></div></footer>
+<dialog id="source-dialog"><div class="dialog-top"><span class="eyebrow">RESEARCH & CREATION</span><button class="close" data-action="close" aria-label="关闭">×</button></div><h2>每一朵花，<br>都有自己的来处。</h2><div class="source-tabs" id="source-tabs"></div><div id="source-content"></div></dialog>
+<dialog id="reset-dialog"><div class="dialog-top"><span class="eyebrow">NEW BEGINNING</span><button class="close" data-action="close-reset" aria-label="关闭">×</button></div><h2>从第一片布重新开始？</h2><p>本次叠放、心意和短句将被重置。已下载的作品卡不受影响。</p><button class="solid" data-action="confirm-reset">重新开始</button><button class="quiet" data-action="close-reset">保留当前作品</button></dialog>
+<div class="toast" id="toast" role="status"></div><div id="tourbar" class="tourbar" hidden><div><span class="eyebrow">GUIDED JOURNEY</span><strong id="tour-title"></strong><p id="tour-copy"></p></div><div><button id="tour-prev" aria-label="导览上一步">←</button><span id="tour-count"></span><button id="tour-pause">暂停</button><button id="tour-next" aria-label="导览下一步">→</button><button id="tour-end">结束</button></div></div>
+</body></html>

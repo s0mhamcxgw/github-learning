@@ -1,0 +1,29 @@
+# 敏感信息
+.env
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 数据与日志
+data/
+logs/
+*.log
+
+# 临时文件
+*.tmp
+*.bak

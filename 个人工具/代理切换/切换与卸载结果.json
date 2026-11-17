@@ -1,0 +1,23 @@
+{
+  "At": "2026-11-06T20:53:51.1378117+08:00",
+  "SystemProxyEnabled": 0,
+  "SystemProxyServer": null,
+  "UserHTTP_PROXY": "",
+  "UserHTTPS_PROXY": "",
+  "InstalledProducts": [
+    {
+      "DisplayName": "Proton VPN",
+      "DisplayVersion": "5.1.9"
+    }
+  ],
+  "ProtonMailProcessCount": 0,
+  "ProtonDriveProcessCount": 0,
+  "ProtonVpnProcessCount": 1,
+  "VerifiedDirectEgressIP": "212.102.51.119",
+  "UnauthenticatedHttpsTests": {
+    "CodexCloudBackend": 401,
+    "ChatGPTResponses": 405,
+    "OpenAIModels": 401
+  },
+  "RestoreScriptSyntaxValid": true
+}

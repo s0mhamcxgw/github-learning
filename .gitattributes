@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Preserve the original bytes and line endings of archived learning files.
+* -text

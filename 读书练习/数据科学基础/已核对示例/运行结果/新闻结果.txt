@@ -1,0 +1,10 @@
+标题：练习新闻1
+链接：https://example.invalid/news/0
+标题：练习新闻2
+链接：https://example.invalid/news/1
+标题：练习新闻3
+链接：https://example.invalid/news/2
+标题：练习新闻4
+链接：https://example.invalid/news/3
+标题：练习新闻5
+链接：https://example.invalid/news/4

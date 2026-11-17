@@ -1,0 +1,117 @@
+{
+  "id": "print",
+  "name": "两色丝印小队",
+  "category": "共享设备瓶颈",
+  "days": 3,
+  "slotMinutes": 30,
+  "summary": "多一名协作者也不一定能多接一单：只有一台印台时，设备占用仍然互斥。",
+  "source": "本作品原创合成案例；不是实际商家、访谈或生产数据。",
+  "resources": [
+    {
+      "id": "maker",
+      "label": "主制作人",
+      "capacity": 1,
+      "calendar": "work"
+    },
+    {
+      "id": "helper",
+      "label": "假设可用的协作者",
+      "capacity": 1,
+      "calendar": "work"
+    },
+    {
+      "id": "press",
+      "label": "共享印台",
+      "capacity": 1,
+      "calendar": "work"
+    }
+  ],
+  "orders": [
+    {
+      "id": "poster",
+      "label": "活动海报 · 已承诺",
+      "due": 6,
+      "release": 0,
+      "isNew": false,
+      "color": "#347465"
+    },
+    {
+      "id": "bag",
+      "label": "帆布袋 · 已承诺",
+      "due": 16,
+      "release": 0,
+      "isNew": false,
+      "color": "#738da2"
+    },
+    {
+      "id": "card",
+      "label": "纪念卡 · 待接新单",
+      "due": 6,
+      "release": 0,
+      "isNew": true,
+      "color": "#c86e43"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "poster-prep",
+      "order": "poster",
+      "label": "海报制版",
+      "duration": 1,
+      "needs": {
+        "maker": 1
+      },
+      "after": []
+    },
+    {
+      "id": "poster-print",
+      "order": "poster",
+      "label": "海报印制",
+      "duration": 4,
+      "needs": {
+        "maker": 1,
+        "press": 1
+      },
+      "after": [
+        "poster-prep"
+      ]
+    },
+    {
+      "id": "bag-print",
+      "order": "bag",
+      "label": "帆布袋印制",
+      "duration": 3,
+      "needs": {
+        "maker": 1,
+        "press": 1
+      },
+      "after": []
+    },
+    {
+      "id": "card-prep",
+      "order": "card",
+      "label": "纪念卡制版",
+      "duration": 1,
+      "needs": {
+        "maker": 1
+      },
+      "after": [],
+      "delegate": true
+    },
+    {
+      "id": "card-print",
+      "order": "card",
+      "label": "纪念卡印制",
+      "duration": 4,
+      "needs": {
+        "maker": 1,
+        "press": 1
+      },
+      "after": [
+        "card-prep"
+      ],
+      "delegate": true
+    }
+  ],
+  "note": "协作方案仅替换允许委派的人工占用，仍使用原有印台；不会假设协作者自带另一台设备。"
+}

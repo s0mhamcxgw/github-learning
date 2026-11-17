@@ -1,0 +1,235 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "作品/app.js",
+      "bytes": 34534,
+      "sha256": "74911a58b59ad31bc5fee5e4878ab68454911de088ae6fe5cc3beff15ba68204"
+    },
+    {
+      "path": "作品/content.js",
+      "bytes": 8878,
+      "sha256": "d165adbe3d07826c108ad8c3161347af2a65df267a51252c81e3246180315a05"
+    },
+    {
+      "path": "作品/engine.js",
+      "bytes": 7352,
+      "sha256": "e9bec5fbca7dcdac4bdaf58f56e78a5b597a9cd1c2f1baad6c77bd9716489b65"
+    },
+    {
+      "path": "作品/index.html",
+      "bytes": 4290,
+      "sha256": "8f36d259326d93f8d8862ce97a3bde2f407faa716d7afb9aa1c75f2be1104e8d"
+    },
+    {
+      "path": "作品/mark.svg",
+      "bytes": 262,
+      "sha256": "ff64e04665dcd0b19de721bbb4ef681879726a45505c8a832620f14049aecedc"
+    },
+    {
+      "path": "作品/micro.js",
+      "bytes": 8745,
+      "sha256": "825f9a15189c155c497c904c2c9eed012f2f827a1585813283553869f58de1e4"
+    },
+    {
+      "path": "作品/scene.js",
+      "bytes": 16183,
+      "sha256": "be39fbb57cfdc722c05f57f5c49b50a5ca86d741f92e1eedeabfa0d7c0e1b53a"
+    },
+    {
+      "path": "作品/styles.css",
+      "bytes": 19767,
+      "sha256": "465f19ecab1b72319a9e8a90c167ab4ef8deb5530010cb0d968a72c3b9b14312"
+    },
+    {
+      "path": "作品/vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d"
+    },
+    {
+      "path": "作品/vendor/three.min.js",
+      "bytes": 669884,
+      "sha256": "170c6789f43217c96b3170f4b42fafe135de7f7cd48497a4218f9757ee1d49fa"
+    },
+    {
+      "path": "作品截图/01-入云.png",
+      "bytes": 1069954,
+      "sha256": "002f3219c868d35f0ae4662bdee7e0388cfbc8ca2b219e76dded9742dbd71d34"
+    },
+    {
+      "path": "作品截图/02-量谷.png",
+      "bytes": 1051759,
+      "sha256": "d57265c59c1d6dd00c979690a113dc9858800d29fcd35020920b772416e164dc"
+    },
+    {
+      "path": "作品截图/03-寻力.png",
+      "bytes": 1071131,
+      "sha256": "018b2b035a4f7667686c8200b16f0d135e8565af46387cb68817f9ef5a7324b5"
+    },
+    {
+      "path": "作品截图/04-筑桥.png",
+      "bytes": 1014669,
+      "sha256": "c6567d8b9c45ae126f8baa6fbf10051cbb366414069f90e17f3b7e7fc9ccc63e"
+    },
+    {
+      "path": "作品截图/05-入微.png",
+      "bytes": 950120,
+      "sha256": "061c81a9cf58fbec03dc3903baf00f863c5a05bf5ff8e13da661df4836598a02"
+    },
+    {
+      "path": "作品截图/06-持续观测.png",
+      "bytes": 875101,
+      "sha256": "3871a3fc7e930154277d11f5d0ec803c34fcba3e2f4043b4a93e14a579b24d99"
+    },
+    {
+      "path": "作品截图/07-抵达.png",
+      "bytes": 940582,
+      "sha256": "6fdd92ddd23846934f0c34b16b67d0887a2e35beb79a43a3324cd069bed51f4e"
+    },
+    {
+      "path": "作品截图/08-留尺.png",
+      "bytes": 1069771,
+      "sha256": "5d3c8d5c486d8f4a226e4be4aa9354b4c3ef49aa3a3fbbd560a33f4dbe45e408"
+    },
+    {
+      "path": "作品截图/09-实际导出观察卡.png",
+      "bytes": 1168254,
+      "sha256": "f08659ff9a403b7d0e0acb55ed0394dc9c369a88670c0a4f8bbebd091f1add58"
+    },
+    {
+      "path": "作品截图/10-手机入云.png",
+      "bytes": 197888,
+      "sha256": "f9c66eaf9a3c6d0b00d3cf8e5d559e37829180b0cfac46aa1b8f39d5b56bc25c"
+    },
+    {
+      "path": "制作记录_助手实际完成.md",
+      "bytes": 1992,
+      "sha256": "b792d1bdc0efbc599463438b0b5954a832fbaf90fc05ddff52560b1adefdb30f"
+    },
+    {
+      "path": "参赛材料/01_申报文字与作品定义.md",
+      "bytes": 3046,
+      "sha256": "dddbcb1d491419a5cc2f9acc5dad41a80916074fbea5456c903ef2b2ce9043b5"
+    },
+    {
+      "path": "参赛材料/02_事实索引与资料边界.md",
+      "bytes": 4086,
+      "sha256": "debd7c3543ef46e4c2c90c66db0506d460e4f0c7915119f7cd6a4f32b1e190e9"
+    },
+    {
+      "path": "参赛材料/03_往届国奖参考与差异比较.md",
+      "bytes": 3036,
+      "sha256": "652618ed9345b3a15e885229fc2ed0470e060f0272a30d94472edabda6e4233c"
+    },
+    {
+      "path": "参赛材料/04_技术说明与复现.md",
+      "bytes": 4060,
+      "sha256": "8a88c71a84bd7677281dd7772d6147dfa4d742fe94039137d72731a5a23ca22d"
+    },
+    {
+      "path": "参赛材料/05_AI与知识产权说明.md",
+      "bytes": 3128,
+      "sha256": "281284f63959dc07d375f944ee6db6ff0c05c74d09dcf570e3083c0dad7cbdc2"
+    },
+    {
+      "path": "参赛材料/06_答辩与操作提纲.md",
+      "bytes": 3019,
+      "sha256": "36a1c4bad85b2fd0c09d3e6afe5432f8aba69b7f6245673ad73ecb28c5739ec4"
+    },
+    {
+      "path": "参赛材料/07_演示解说词.md",
+      "bytes": 5435,
+      "sha256": "37e9cf7a3fd78bdc80921b9922219e922c5c4be4f950f7d81eccc82f9e2c9f61"
+    },
+    {
+      "path": "参赛材料/作品说明_匿名核对版.pdf",
+      "bytes": 6973180,
+      "sha256": "d4e19662a29c75bdde2f0c625daf0b1c0669c5aacf54a9ade319a44f35239ffe"
+    },
+    {
+      "path": "开发复核/engine-check.cjs",
+      "bytes": 3210,
+      "sha256": "e109de4446d156ac01be0d2691132f133f7ca504df0bb2c4a3cb1cd6142cfd80"
+    },
+    {
+      "path": "开发复核/README.md",
+      "bytes": 806,
+      "sha256": "e53970fda09051acbd56f594b4e3b385387f3b7864c9548e3317a074e258e971"
+    },
+    {
+      "path": "开始使用.md",
+      "bytes": 3440,
+      "sha256": "3acac8fa0fa40b3fa0dc77f2dd289972c685e1233700d2d955764da9f7ecd9aa"
+    },
+    {
+      "path": "打开作品.html",
+      "bytes": 374,
+      "sha256": "ea085af8e7978f4d08498c2d7a22fea5e51fdb84888524430fb1643513bb4a2b"
+    },
+    {
+      "path": "正式提交_先读我.md",
+      "bytes": 1587,
+      "sha256": "0164727c125511bb6ee5e1c5c065a3a219c30d4f3796f90034f4f672a7ff6a41"
+    },
+    {
+      "path": "演示视频/云上之尺_合成解说.srt",
+      "bytes": 5386,
+      "sha256": "f96e3555e08af29f4c7b2d230d6c7997f881b9072c12ee690983ca1fab613d1b"
+    },
+    {
+      "path": "演示视频/云上之尺_实际操作演示_合成解说.mp4",
+      "bytes": 40923165,
+      "sha256": "295fc2f2b0aefa322df6ff225268fb40d34452ef188dad132bd8ca44dcb6295b"
+    },
+    {
+      "path": "现在你应该做什么.md",
+      "bytes": 5074,
+      "sha256": "db60c97fbe3186e5fec3a755ad91a99c73741d5de4656be49477f74e6f32e23f"
+    },
+    {
+      "path": "真实审阅与贡献记录.md",
+      "bytes": 1481,
+      "sha256": "52948d0ff1470d468bd8c0d2890d0f7fd2c70eca1406b5120ead4ca6ca68f544"
+    },
+    {
+      "path": "验收材料/PDF核查.json",
+      "bytes": 352,
+      "sha256": "56e8cedc6dc5585ae36929365688acf01ff88f9f804960a9395df5e9b9d90839"
+    },
+    {
+      "path": "验收材料/打包与解压核查.json",
+      "bytes": 460,
+      "sha256": "881a6281de92da4b2d39a47e351044db3644cb20e6412d35860647845dbcb99c"
+    },
+    {
+      "path": "验收材料/曲线显示修正核查.json",
+      "bytes": 936,
+      "sha256": "1aff8809f731a957977c3f669ef26e33acbcdcefb00bd6b6329b4823695935ab"
+    },
+    {
+      "path": "验收材料/浏览器核查.json",
+      "bytes": 2269,
+      "sha256": "0a38cebaf74001f538860eaa37745f98ca6e8dbc7818406e9957719a22e70c16"
+    },
+    {
+      "path": "验收材料/视频录制记录.json",
+      "bytes": 3659,
+      "sha256": "1871341072979f03379862b3848794c3145b522ab508feb04a87117be58a7daa"
+    },
+    {
+      "path": "验收材料/视频核查.json",
+      "bytes": 1628,
+      "sha256": "394300291fdde8000eca40d64de6dcf24ae7c4b7edd410625c23c071015896f4"
+    },
+    {
+      "path": "验收材料/计算与状态核查.json",
+      "bytes": 951,
+      "sha256": "080e8108ccf56c8bc77eaeb12a473a6f8396e8263274595a6e95ccdd9c277da7"
+    },
+    {
+      "path": "验收材料/验收报告.md",
+      "bytes": 1282,
+      "sha256": "319ddf61a4723238ffb273dc75934b51dfb019ea51f618d238d095fe6940b7fc"
+    }
+  ]
+}

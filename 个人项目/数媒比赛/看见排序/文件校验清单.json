@@ -1,0 +1,209 @@
+{
+  "appVersion": "1.0.0",
+  "dataVersion": "1.0.0",
+  "modelVersion": "weighted-topic-v1",
+  "date": "2026-10-15",
+  "notice": "文件一致性清单，不证明学生贡献、用户试用或已正式参赛。清单本身不列入其自身摘要。",
+  "files": [
+    {
+      "path": "app/app.js",
+      "bytes": 39471,
+      "sha256": "9eaf41414011a61cae31b56fc54ff44870c430362221698bc4d3a2ddf82217cb"
+    },
+    {
+      "path": "app/data.js",
+      "bytes": 5176,
+      "sha256": "5635492329baaf5fd764124e9be6abf27f8e59d925e53ceb22794d10984261f4"
+    },
+    {
+      "path": "app/engine.js",
+      "bytes": 10322,
+      "sha256": "17ba06647b2a62d84530c8fc1e0deddb063402e1e9088a665b265365b89a11c1"
+    },
+    {
+      "path": "app/index.html",
+      "bytes": 2380,
+      "sha256": "894b1553e173eda70ebf0b24200a7d7f43150237a1b7af0890c55285195960ce"
+    },
+    {
+      "path": "app/mark.svg",
+      "bytes": 271,
+      "sha256": "b65166c1f4ae50b3014f77800e5239d032ce66fc225acf9f61e8edea3d929f93"
+    },
+    {
+      "path": "app/styles.css",
+      "bytes": 21144,
+      "sha256": "840d61965c34fb4bb0d8db4c23e3c3953478264cfa1d80463286b47f597436fd"
+    },
+    {
+      "path": "作品截图/01_开场_桌面.png",
+      "bytes": 91933,
+      "sha256": "1526974fcd01888e5981576b53ae293ef011bc0b0ab11551672566f9d2d3ae61"
+    },
+    {
+      "path": "作品截图/02_开场_窄屏.png",
+      "bytes": 73142,
+      "sha256": "28d0253614c497622d27b54412bf8f43204c24a7626156fdedf3474ed4780fb0"
+    },
+    {
+      "path": "作品截图/03_拆开排序_实际点击.png",
+      "bytes": 137438,
+      "sha256": "551f3c5f0437c761bfe79fa5bc1f828926ac921f30e0f983b763679110b21fa6"
+    },
+    {
+      "path": "作品截图/04_平行实验_真实对照.png",
+      "bytes": 114200,
+      "sha256": "45be85527e5c0760e3f4f3c6e246a67707ce77dba81e4eaedba3de604824080f"
+    },
+    {
+      "path": "作品截图/05_报告纠错_修复后.png",
+      "bytes": 114900,
+      "sha256": "05d47cba7120a00b4e7fcdd5372336ef07b916338096b48a0181c7bf05b217c8"
+    },
+    {
+      "path": "作品截图/06_小结_真实导出.png",
+      "bytes": 99030,
+      "sha256": "d52c691f3771649a9bc58a74ed3d6780dd0e2b2e70b0f4192f66f08a7c53692b"
+    },
+    {
+      "path": "作品截图/07_拆开排序_窄屏.png",
+      "bytes": 127797,
+      "sha256": "cc240f290eb1ef55d581efab9d9ca460e5e715079e2b5180d0b8bbbc63097d4e"
+    },
+    {
+      "path": "制作过程记录.md",
+      "bytes": 3253,
+      "sha256": "19944c14089b7f0d7d743a1e4e3177b33c29d2593a055d58f054df8ed67b7f07"
+    },
+    {
+      "path": "参赛材料/00_材料索引与提交缺口.md",
+      "bytes": 5334,
+      "sha256": "278cc48f4df91adc1f00ef9691d9911e470d8b4f3104bc65f65885174df5f1ba"
+    },
+    {
+      "path": "参赛材料/01_作品介绍草稿.md",
+      "bytes": 8357,
+      "sha256": "b7bc6e5f31d2f51557417dd6d50dda02f680e7a7ab33cb9a2752ba0885b3c5b3"
+    },
+    {
+      "path": "参赛材料/02_三分钟演示分镜与口播.md",
+      "bytes": 6528,
+      "sha256": "8f26ffffacb85abfda2fffae2034f02e5ef59301793971c03d124296ac393c55"
+    },
+    {
+      "path": "参赛材料/03_答辩提纲10题.md",
+      "bytes": 7465,
+      "sha256": "842612b48485f330451153fc7842fd4e12a72134c6de595b2c004eaa477a3c4c"
+    },
+    {
+      "path": "参赛材料/04_同类比较与知识来源.md",
+      "bytes": 7250,
+      "sha256": "23a8c136823c7e53df941d6bb7c9930fed8795999ea991f78dcfedb206cdeed7"
+    },
+    {
+      "path": "参赛材料/05_AI使用与学生贡献记录.md",
+      "bytes": 5327,
+      "sha256": "12b054e9613ffe3001c5d16edcc4499f64e7cba3497ecbee45aac6c27a685709"
+    },
+    {
+      "path": "参赛材料/06_素材依赖与权利核对.md",
+      "bytes": 6250,
+      "sha256": "9c1703885a02cbde8c58af84d300af22f34f34a49e841a741102dd53610a40ba"
+    },
+    {
+      "path": "开始使用.md",
+      "bytes": 4824,
+      "sha256": "1b7289a832eaacce95de089bab0ccd6cafe0d3d8f3219df6236a7d9db2b9ce9c"
+    },
+    {
+      "path": "教师引导卡.md",
+      "bytes": 2205,
+      "sha256": "09adedbb24bda50ceaa851da82e635f01f01c280b5de6417f0d5229316ff3619"
+    },
+    {
+      "path": "演示视频/看见排序_无声功能演示.webm",
+      "bytes": 602795,
+      "sha256": "d24d493bdf8c57b1ed6274c71ffbcac91d002b5ac39d1077c6e27abc4f2fa256"
+    },
+    {
+      "path": "试用材料/01_试用说明与主持流程.md",
+      "bytes": 6734,
+      "sha256": "a6ae0771e9e601d9c77554b8529628db6df8586c346b677b46b841b5509e6958"
+    },
+    {
+      "path": "试用材料/02_前后测题本.md",
+      "bytes": 3117,
+      "sha256": "e35ab005fcdc5386f8a7a56ebcd07689924f0797bf187745c418e03178610173"
+    },
+    {
+      "path": "试用材料/03_评分与记录规则_主持人专用.md",
+      "bytes": 5519,
+      "sha256": "ae02c310e766cc4615628beef58162d5013c856f69923ef55b4de0d6d202cc1b"
+    },
+    {
+      "path": "试用材料/04_匿名原始记录空表.md",
+      "bytes": 5338,
+      "sha256": "83be7a37c639f12a04a8a4de57648a7d308960fffecad685116a5c058c718ae0"
+    },
+    {
+      "path": "试用材料/05_发现修改复查与结果报告空表.md",
+      "bytes": 5367,
+      "sha256": "2f77a0a14994785eae29528f8ea1ac365b008d48fd791d1690c5c516151f790d"
+    },
+    {
+      "path": "试用材料/06_教师与活动引导卡.md",
+      "bytes": 2792,
+      "sha256": "c4063be3ea27c40441f9f2d5f7210abdc670d9fbe5b07b08ef96879568b9a94b"
+    },
+    {
+      "path": "验收材料/browser-environment.json",
+      "bytes": 174,
+      "sha256": "2560040070a93ded746871b7701c955fb7bc96f094c581d6e71f39906b46f962"
+    },
+    {
+      "path": "验收材料/demo-recording.json",
+      "bytes": 2925,
+      "sha256": "713c450fd501d3c6dbc1c5bb88fec2f721b8a41bb541c71046c3f1d95ee5ca39"
+    },
+    {
+      "path": "验收材料/flow-results.json",
+      "bytes": 3688,
+      "sha256": "496f1a96bc2e35d3681e85fe0337287dd1b1eb396ea878622c9de521997393fd"
+    },
+    {
+      "path": "验收材料/regression-results.json",
+      "bytes": 1332,
+      "sha256": "a9d1ec62395dcbf1b10556feaf0466b06c3ff692aeb02b73765e2ad7f4e6851b"
+    },
+    {
+      "path": "验收材料/video-review.json",
+      "bytes": 1182,
+      "sha256": "4ab378e98494f1351e25bafb4ba74c6af19c9183c3187a0df07fab0d1fb5e1ce"
+    },
+    {
+      "path": "验收材料/导入导出检查.cjs",
+      "bytes": 7753,
+      "sha256": "65c44c882c2a5e398e5980d4a7955925cd97b48481a5cb629cf400aab87591b6"
+    },
+    {
+      "path": "验收材料/导入导出检查结果.txt",
+      "bytes": 915,
+      "sha256": "7966fa9ea19c6bd0c26011cf6ff25e19ce0d891796754a0089842dc832c11b55"
+    },
+    {
+      "path": "验收材料/算法检查.cjs",
+      "bytes": 11134,
+      "sha256": "ef6a74b89c6527f22d2abc5dc59ec1d1c188d97242b03a85d38396ca9a50687f"
+    },
+    {
+      "path": "验收材料/算法检查结果.txt",
+      "bytes": 1351,
+      "sha256": "36f7a21416d28195648866b0e81fbd62a050b85401f00b4c1cf274d3c0c69e35"
+    },
+    {
+      "path": "验收材料/验收报告.md",
+      "bytes": 4098,
+      "sha256": "5b98da796bb4b7346d59e35811781b2201836c0a61ff42ed10c961d63d2fd2c4"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "project": "一单之变",
+  "version": "1.0.0",
+  "sourceCommit": "912f2b5e575475ee8fcd637291d3cb9d7a8edab9",
+  "files": [
+    {
+      "path": "site/dist/app.js",
+      "bytes": 41025,
+      "sha256": "d4526cd32b47655e8c1cedc77e90d18a6b6bc2bd0253c84056d7077ba5e6435d"
+    },
+    {
+      "path": "site/dist/engine.js",
+      "bytes": 21944,
+      "sha256": "c3604d8e38732ca8d44ce0ebacef615dc2793c39e20ca98d369a490c8f66a97b"
+    },
+    {
+      "path": "site/dist/index.html",
+      "bytes": 4158,
+      "sha256": "caffde84fbc3d9ef90ddf8ef0b861d2d6a4e6a15f521bfc5ab32cb64b9e4e057"
+    },
+    {
+      "path": "site/dist/mark.svg",
+      "bytes": 343,
+      "sha256": "6cea53f1e52d237f498f3ba7f0af314c3e614911b8435fc973d3a7e959843c06"
+    },
+    {
+      "path": "site/dist/scenarios.js",
+      "bytes": 5569,
+      "sha256": "8cbf663350bebf8cf9f5bd7576b4f6129c3a1e5566f76d13297924435e0bf911"
+    },
+    {
+      "path": "site/dist/styles.css",
+      "bytes": 22311,
+      "sha256": "d6b804db62018422c41aebab76efe4167595905ac0edabeb61ff560a179567e8"
+    },
+    {
+      "path": "制作过程记录.md",
+      "bytes": 1981,
+      "sha256": "b6039ef14186e49b79e379a63083c7d86b3cc32549962b95638b1ec71c639542"
+    },
+    {
+      "path": "参赛材料/AI使用与第三方资源说明.md",
+      "bytes": 3756,
+      "sha256": "0c8364e899f6ec68ba06e90dd38327500562c97191a7746ca8c881b458f3f6e0"
+    },
+    {
+      "path": "参赛材料/assets/三种取舍.png",
+      "bytes": 26000,
+      "sha256": "789b84e7f75221476bbada76b168d5bfe890c67c144bb1e6858a0bf7f4642628"
+    },
+    {
+      "path": "参赛材料/assets/冲突与时间纸带.png",
+      "bytes": 60540,
+      "sha256": "7e702780c79dbcb15ebc2e196cb01f337d5df9407bec465ecd0b17b03c647422"
+    },
+    {
+      "path": "参赛材料/assets/指定扰动.png",
+      "bytes": 68452,
+      "sha256": "be14d1bfb7fcded3bba3fc63f1402e6364a74c570653f4ce856bda75d4b2b2e8"
+    },
+    {
+      "path": "参赛材料/OPC创新实践说明_核对稿.html",
+      "bytes": 12470,
+      "sha256": "5e4f8e3ecdb8ee4e004543d330fe4c1387d2883caa5e65bb477cc5284b2f19ae"
+    },
+    {
+      "path": "参赛材料/OPC创新实践说明_核对稿.pdf",
+      "bytes": 418638,
+      "sha256": "c8a621c98cf3b6dad4bf9e4e67f6ba034c464dfcd4a5e0271dcbd20a16f05c37"
+    },
+    {
+      "path": "参赛材料/作品介绍与申报摘要.md",
+      "bytes": 2986,
+      "sha256": "21423fff01fed99c56b783670f8160f3d64c3544544b59ed196a321a1594ca14"
+    },
+    {
+      "path": "参赛材料/创新性与成熟方案对照.md",
+      "bytes": 2416,
+      "sha256": "ea700924f0cab4137ea52798be508dae8d45a03ad726d647566b8c93a6605794"
+    },
+    {
+      "path": "参赛材料/团队分工与实际贡献核对表.md",
+      "bytes": 3101,
+      "sha256": "17a5b7ff9cd56363225903e7f3746dc2b69a57c0daae60e5e2e1522cec00141d"
+    },
+    {
+      "path": "参赛材料/技术说明与复现方法.md",
+      "bytes": 4970,
+      "sha256": "388f3724878a2b73fe7cbc1ea23118b05454610ca9e33c7436ffa3e5ab6c1e23"
+    },
+    {
+      "path": "参赛材料/提交清单.md",
+      "bytes": 2562,
+      "sha256": "a2c7ae32f39104d8a6888b50f8c9d7fcdf1adff40cae1316018cdeacd9795c8e"
+    },
+    {
+      "path": "参赛材料/答辩稿与常见问题.md",
+      "bytes": 3657,
+      "sha256": "c6c552c479b07376a12e1b0bb892145045690e77bc23ccdbcb723201440052fe"
+    },
+    {
+      "path": "开发复核/engine-check.cjs",
+      "bytes": 6030,
+      "sha256": "46b47eb5b14ecbc475a8e7e4d2bdfdf90218f23b6ac6dab120291a4f2c0d7d09"
+    },
+    {
+      "path": "开发复核/README.md",
+      "bytes": 535,
+      "sha256": "e963cadcc2f99ba59a4bffc808051f1709e899d84dcc20392c9c219707132b15"
+    },
+    {
+      "path": "开始使用.md",
+      "bytes": 3727,
+      "sha256": "859474afda746a6738a67a8ae750dfd2ee4a888a77a8fb0d291653306fcbc3f5"
+    },
+    {
+      "path": "演示视频/一单之变_评审演示_合成语音.mp4",
+      "bytes": 4062139,
+      "sha256": "ecc5cb8c61b0ec3c757a42615d8e303da80ad9c05ebc4a83ba13b9ff2b261b66"
+    },
+    {
+      "path": "示例约束/ceramic.json",
+      "bytes": 2572,
+      "sha256": "0937103b8952aab258b31ba845b5b0c9d773a0a42c095fc9e397ec95b2cd107c"
+    },
+    {
+      "path": "示例约束/leather.json",
+      "bytes": 2770,
+      "sha256": "8bffdd90bfbe6642131398e3849ee41c431529cf052628faacd1f2d456af04c7"
+    },
+    {
+      "path": "示例约束/print.json",
+      "bytes": 2404,
+      "sha256": "5e329cf970d4a3f80c58ff7b81b792ebbde8a5092236a2a6a323847597785471"
+    },
+    {
+      "path": "自动演示.html",
+      "bytes": 364,
+      "sha256": "98eea9522918cc2a3aeb8257eef0cc9b71be2ac7a2704650b16feedc461283a4"
+    },
+    {
+      "path": "设计与实现说明.md",
+      "bytes": 2821,
+      "sha256": "f564e89a0168994130c27d2dd52bec4d01e6394438e998172658b1675b015905"
+    },
+    {
+      "path": "预览图.png",
+      "bytes": 116157,
+      "sha256": "2c4936db17ad48bb47b7df776835f315e85fc6bde016421a8d0ac0a6f1c18afd"
+    },
+    {
+      "path": "验收材料/01-承诺总览.png",
+      "bytes": 161597,
+      "sha256": "a232293e99a3b5ce59f88679a0f128e16698515841f456fa575316042cf1e953"
+    },
+    {
+      "path": "验收材料/02-连续工时冲突.png",
+      "bytes": 137504,
+      "sha256": "131522fb4a3d8efba703aab21147010c6b2688874eb945c16a12c863aa883d56"
+    },
+    {
+      "path": "验收材料/03-方案比较.png",
+      "bytes": 145438,
+      "sha256": "b8aa8272ea7e19ee48d1930cd35d110b8c395e5975512f86a26e44b596867f6d"
+    },
+    {
+      "path": "验收材料/04-扰动重新排程.png",
+      "bytes": 124607,
+      "sha256": "b9cc2ee88ea5dd35d0db2bf2f26f40544489cab58a14a6774b9335f02cef9513"
+    },
+    {
+      "path": "验收材料/05-共享设备瓶颈.png",
+      "bytes": 198456,
+      "sha256": "dea5cca0dedcb4fe20dfe008f10d1ed0d436ede8cca8249d67fa94df14255384"
+    },
+    {
+      "path": "验收材料/06-约束编辑.png",
+      "bytes": 124863,
+      "sha256": "6410e5e2435bf0cd83d31da9eaab5ebaee4714f2a809e2ecc4c81fead0dd4da6"
+    },
+    {
+      "path": "验收材料/07-推演报告.png",
+      "bytes": 105461,
+      "sha256": "46af1d4060b51e9521a71143379acf37e0a92eeaaf7499863b97350aa3a08dbb"
+    },
+    {
+      "path": "验收材料/08-手机布局.png",
+      "bytes": 131364,
+      "sha256": "c35a98ae5b8f8814eeb651df59db90ab99a8949053c3435c770d13b1314b35cf"
+    },
+    {
+      "path": "验收材料/发布记录.json",
+      "bytes": 559,
+      "sha256": "b6d5a7bfe008abc6f801c948c888f211b00e3c2e854ffd7f9b2c6fa845397b96"
+    },
+    {
+      "path": "验收材料/引擎核查结果.json",
+      "bytes": 1609,
+      "sha256": "43a4fa61287262a571d01af5314ac6abe25001c7df44761abd360f38f9ed0ece"
+    },
+    {
+      "path": "验收材料/浏览器核查结果.json",
+      "bytes": 1941,
+      "sha256": "f4a18e88c8b805fe8c5c43a372e94c398131b5d4eeaa110f2a3b4e1ae02ab494"
+    },
+    {
+      "path": "验收材料/视频录制记录.json",
+      "bytes": 1870,
+      "sha256": "bada0f0ae61ba4ab3f947d44c54ef25e97427b2c41497ccb46a6840aee34b93d"
+    },
+    {
+      "path": "验收材料/视频核查结果.json",
+      "bytes": 1542,
+      "sha256": "372310774c2e6e3bac37ff6a749a8a8fe64a8a932ff35a6baaab434c97986ce0"
+    },
+    {
+      "path": "验收材料/说明书排版检查.json",
+      "bytes": 432,
+      "sha256": "c27159af3275e1bc7c7b825904d69821c4292e4a8fb070e51676d311cc89d606"
+    },
+    {
+      "path": "验收材料/验收报告.md",
+      "bytes": 2851,
+      "sha256": "f152138026fe033e1bbc5e1c92d76aaec67dfc375d465e4b236ec5445e12d173"
+    }
+  ],
+  "note": "不包含本清单自身的摘要；SHA256 供文件一致性核对，不是第三方签名。"
+}

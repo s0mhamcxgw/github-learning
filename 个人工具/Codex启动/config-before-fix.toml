@@ -1,0 +1,172 @@
+model_reasoning_effort = "high"
+service_tier = "default"
+preferred_auth_method = "chatgpt"
+notify = [ "C:\\Users\\Lenovo\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\db1cc9e06a6c48d6\\bin\\node_modules\\@oai\\sky\\bin\\windows\\codex-computer-use.exe", "turn-ended" ]
+model_provider = "openai"
+[desktop]
+followUpQueueMode = "steer"
+conversationDetailMode = "STEPS_COMMANDS"
+sansFontSize = 14
+codeFontSize = 13
+ambient-suggestions-enabled = true
+localeOverride = "zh-CN"
+
+[desktop.open-in-target-preferences]
+global = "fileManager"
+
+[desktop.open-in-target-preferences.perPath]
+'E:\Documents\ChatGPT\导' = "fileManager"
+
+[windows]
+sandbox = "elevated"
+
+[projects.'c:\users\lenovo\documents\codex\2026-09-17\ni']
+trust_level = "trusted"
+
+[projects.'c:\users\lenovo\documents\codex\2026-09-23\w']
+trust_level = "trusted"
+
+[projects.'c:\users\lenovo\documents\codex\2026-09-23\ni-s']
+trust_level = "trusted"
+
+[projects.'c:\users\lenovo\documents\codex\2026-09-23\ni']
+trust_level = "trusted"
+
+[projects.'e:\documents\chatgpt\文献阅读']
+trust_level = "trusted"
+
+[projects.'c:\users\lenovo\documents\codex\2026-09-26\files-mentioned-by-the-user-k']
+trust_level = "trusted"
+
+[projects.'c:\users\lenovo\documents\codex\2026-09-26\a']
+trust_level = "trusted"
+
+[projects.'c:\users\lenovo\documents\codex\2026-09-26\new-chat']
+trust_level = "trusted"
+
+[projects.'c:\users\lenovo\documents\codex\2026-09-26\https-www-fucheers-top-v1-https']
+trust_level = "trusted"
+
+[projects.'c:\users\lenovo\documents\codex\2026-09-27\b']
+trust_level = "trusted"
+
+[projects.'c:\users\lenovo\documents\codex\2026-09-27\x']
+trust_level = "trusted"
+
+[projects.'c:\users\lenovo\documents\codex\2026-09-27\ni']
+trust_level = "trusted"
+
+[projects.'c:\users\lenovo\documents\codex\2026-10-02\ni-sh']
+trust_level = "trusted"
+
+[projects.'c:\users\lenovo\documents\codex\2026-10-02\gei-w']
+trust_level = "trusted"
+
+[projects.'e:\documents\chatgpt\论文']
+trust_level = "trusted"
+
+[projects.'e:\documents\chatgpt\ppt制作']
+trust_level = "trusted"
+
+[projects.'e:\documents\chatgpt\电脑调试']
+trust_level = "trusted"
+
+[projects.'e:\documents\chatgpt\导']
+trust_level = "trusted"
+
+[projects.'e:\documents\chatgpt\self']
+trust_level = "trusted"
+
+[projects.'e:\documents\chatgpt\数媒比赛']
+trust_level = "trusted"
+
+[projects.'d:\devtools\npm-global']
+trust_level = "trusted"
+
+[projects.'e:\documents\chatgpt\哈哈哈']
+trust_level = "trusted"
+
+[projects.'E:\Documents\ChatGPT\大模型部署']
+trust_level = "trusted"
+
+[projects.'E:\Documents\ChatGPT\算法设计课程']
+trust_level = "trusted"
+
+[projects.'E:\Documents\ChatGPT\obsidian']
+trust_level = "trusted"
+
+[projects.'E:\Documents\ChatGPT\obsidian\我的笔记\原始资料 raw']
+trust_level = "trusted"
+
+[projects.'e:\python创建工程']
+trust_level = "trusted"
+
+[projects.'E:\Documents\ChatGPT\GitHub']
+trust_level = "trusted"
+
+[projects.'E:\Documents\ChatGPT\提示词与学习编写skill']
+trust_level = "trusted"
+
+[projects.'E:\Documents\ChatGPT\skill调用']
+trust_level = "trusted"
+
+[projects.'E:\Documents\ChatGPT\cc switch']
+trust_level = "trusted"
+
+[marketplaces.openai-primary-runtime]
+source_type = "local"
+source = '\\?\C:\Users\Lenovo\.cache\codex-runtimes\codex-primary-runtime\plugins\openai-primary-runtime'
+
+[plugins."documents@openai-primary-runtime"]
+enabled = true
+
+[plugins."pdf@openai-primary-runtime"]
+enabled = true
+
+[plugins."spreadsheets@openai-primary-runtime"]
+enabled = true
+
+[plugins."presentations@openai-primary-runtime"]
+enabled = true
+
+[plugins."template-creator@openai-primary-runtime"]
+enabled = true
+
+[mcp_servers]
+
+[mcp_servers.cua_repl]
+command = 'C:\Program Files\WindowsApps\OpenAI.Codex_26.1103.4239.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe'
+enabled = false
+
+[mcp_servers.node_repl]
+args = []
+command = 'C:\Users\Lenovo\AppData\Local\OpenAI\Codex\runtimes\cua_node\db1cc9e06a6c48d6\bin\node_repl.exe'
+env_vars = ["BROWSER_USE_ACCESS_EXECUTOR_ID", "BROWSER_USE_ACCESS_PIPE_PATH", "BROWSER_USE_ACCESS_VERIFYING_IDENTITY", "CODEX_WINDOWS_REGISTERED_CORE"]
+startup_timeout_sec = 120
+
+[mcp_servers.node_repl.env]
+NODE_REPL_NATIVE_PIPE_CONNECT_TIMEOUT_MS = "1000"
+NODE_REPL_NODE_MODULE_DIRS = 'C:\Users\Lenovo\AppData\Local\OpenAI\Codex\runtimes\cua_node\db1cc9e06a6c48d6\bin\node_modules'
+NODE_REPL_NODE_PATH = 'C:\Users\Lenovo\AppData\Local\OpenAI\Codex\runtimes\cua_node\db1cc9e06a6c48d6\bin\node.exe'
+NODE_REPL_TRUSTED_CODE_PATHS = 'C:\Users\Lenovo\.codex;C:\Users\Lenovo\AppData\Local\OpenAI\Codex\runtimes\cua_node\db1cc9e06a6c48d6\bin\node_modules'
+CODEX_HOME = 'C:\Users\Lenovo\.codex'
+BROWSER_USE_AVAILABLE_BACKENDS = "chrome,iab,mcpapps"
+BROWSER_USE_TINYSKY_ENABLED = "1"
+NODE_REPL_INSTRUCTIONS_USE_CASE_BROWSER = "Control the in-app browser in conjunction with the Browser Plugin."
+NODE_REPL_INSTRUCTIONS_USE_CASE_CHROME = "Control the Chrome browser in conjunction with the Chrome Plugin. Prefer this method of controlling Chrome over alternatives (such as Computer Use) unless the user explicitly mentions an alternative."
+BROWSER_USE_CODEX_APP_BUILD_FLAVOR = "prod"
+BROWSER_USE_CODEX_APP_VERSION = "26.1103.32239"
+NODE_REPL_TRUSTED_SERVICES = '{"browser":"C:/Users/Lenovo/.codex/plugins/cache/openai-bundled/browser/26.1103.32239/scripts/browser-service.mjs","sky":"@oai/sky/service"}'
+SKY_CUA_NATIVE_PIPE = "1"
+SKY_CUA_NATIVE_PIPE_DIRECTORY = '\\.\pipe\codex-computer-use-662c651e-9687-4754-b2d2-69f009df68c0'
+CODEX_CLI_PATH = 'C:\Users\Lenovo\AppData\Local\OpenAI\Codex\bin\f71a721e0e6193a9\codex.exe'
+NODE_REPL_UNTRUSTED_ENV_ALLOWLIST = "CODEX_WINDOWS_REGISTERED_CORE"
+
+[mcp_servers.pycharm]
+url = "http://127.0.0.1:64462/stream"
+
+[features]
+respect_system_proxy = true
+
+[tui]
+screen_reader_detection_done = true

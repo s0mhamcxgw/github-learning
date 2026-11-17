@@ -1,0 +1,15 @@
+Online Retail — UCI Machine Learning Repository
+Creator: Daqing Chen
+Citation: Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33.
+Source: https://archive.ics.uci.edu/dataset/352/online+retail
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License text: https://creativecommons.org/licenses/by/4.0/
+
+Changes for this demonstration:
+Kept all source rows dated 2011-10-01 through 2011-11-30.
+Removed CustomerID and Country. Preserved original Excel row numbers as SourceRow.
+Converted InvoiceDate to ISO text. Did not alter descriptions, quantities, or unit prices.
+Stored the derived table as UTF-8 gzip-compressed CSV.
+Full provenance and file hashes are in source.json.
+
+This is historical UK online retail data, not merchant data collected by the participating students and not representative evidence about Guizhou merchants. Currency: GBP. No currency conversion is performed.

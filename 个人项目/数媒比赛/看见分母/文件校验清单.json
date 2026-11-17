@@ -1,0 +1,212 @@
+[
+  {
+    "path": "site/.gitignore",
+    "bytes": 30,
+    "sha256": "8ffe9de56bd30c1a95cd945262d6e3ac355ada4111551dde41f67851b9f1fc55"
+  },
+  {
+    "path": "site/dist/app.js",
+    "bytes": 36719,
+    "sha256": "91739fb5fac0b60562bf2f944bbef9de98e0f63b943b876509d2c061b413c0a5"
+  },
+  {
+    "path": "site/dist/data.js",
+    "bytes": 4243,
+    "sha256": "ec9acf3c4cdb791287e4213ffc931c6e46479ca2a5362a344d476020979d2d08"
+  },
+  {
+    "path": "site/dist/engine.js",
+    "bytes": 5790,
+    "sha256": "8ded4e30bed000a6e56ee1564279d078e7cb5257a88b39568c40077fd2f83222"
+  },
+  {
+    "path": "site/dist/index.html",
+    "bytes": 3090,
+    "sha256": "50c9e891c4fb28a1b0a3d4a96c8ad6bceae9dd5c1b6aed66f4c5fe079bf09921"
+  },
+  {
+    "path": "site/dist/mark.svg",
+    "bytes": 286,
+    "sha256": "54002d4dc35d554c7afec4d2bcad3e3965bf985df115c5e7643c1823488b500c"
+  },
+  {
+    "path": "site/dist/styles.css",
+    "bytes": 20547,
+    "sha256": "294a07b27a260a68f57023b4065ff0ea286dbe813e29a6119b19b66c6a9c5a66"
+  },
+  {
+    "path": "site/package.json",
+    "bytes": 269,
+    "sha256": "7186f0cbb0c55a9ad836156e343df4d9764dd3b3f53ebf10da768505d397730b"
+  },
+  {
+    "path": "作品截图/00-作品封面.png",
+    "bytes": 40822,
+    "sha256": "efc43a851d6535d7bb365ca20f631c74745827e4f7efad440b8711ec0b35e988"
+  },
+  {
+    "path": "作品截图/01-总体比较.png",
+    "bytes": 173828,
+    "sha256": "7acab4b8039aac0b42fdd1efe4e1dfca48b35a41ad21cf0bfca45efba3a96401"
+  },
+  {
+    "path": "作品截图/02-拆开分母.png",
+    "bytes": 116096,
+    "sha256": "eec04fd1381313c1920a9da920d93fdee1fddfc6da360c6a1a29abc11ca836e0"
+  },
+  {
+    "path": "作品截图/03-统一权重.png",
+    "bytes": 149223,
+    "sha256": "52e2c842f942b2435a3123f5bdd56e23b5367b3d723634638c568fc2428adc4d"
+  },
+  {
+    "path": "作品截图/04-结论审查.png",
+    "bytes": 151982,
+    "sha256": "298512b3c1df1a93eb5430cf581a4bd0360ccac92edd398e7c1813def1bd9280"
+  },
+  {
+    "path": "作品截图/05-历史数据分层.png",
+    "bytes": 172574,
+    "sha256": "df6b83e7bb189e4dfb63c6bce67884ce00a163b47f90a009b6e4d809c9b2e710"
+  },
+  {
+    "path": "作品截图/06-历史数据重算.png",
+    "bytes": 180118,
+    "sha256": "396bf6c2f2413d8e05ae3364169f8702d40ca5e93ddf9e91cd32f55c15b3b505"
+  },
+  {
+    "path": "作品截图/07-数据台.png",
+    "bytes": 164420,
+    "sha256": "71bb48b17f7a40a1036a856b311d74fa477e1f2ab4823a6ec384250f8c9ee9af"
+  },
+  {
+    "path": "作品截图/08-手机布局.png",
+    "bytes": 113503,
+    "sha256": "1e5783da9fba274ab17bd8f62f85f3d67cdbac28281939eb0b68f6899edf427c"
+  },
+  {
+    "path": "参赛材料/AI使用与第三方资源说明.md",
+    "bytes": 3293,
+    "sha256": "eb0944b989ac404234f7261a32c603d50461475cbc988bb36e9c3be1838ca52d"
+  },
+  {
+    "path": "参赛材料/交付与提交清单.md",
+    "bytes": 2019,
+    "sha256": "32171316fc053eeba27e424d5c42e1e338f8e7a4ead7f143d423f5ab8e6b043d"
+  },
+  {
+    "path": "参赛材料/作品介绍与申报文字.md",
+    "bytes": 3112,
+    "sha256": "e6bfd7ce746d4787d036b207ff1e2b0768f0a167e64d05b0d36fd6d69d2f3b07"
+  },
+  {
+    "path": "参赛材料/作品说明.pdf",
+    "bytes": 364817,
+    "sha256": "7ee14c5164c34c7fe3999526b4fe48708387b1574ef63940a16c42b3313cafcd"
+  },
+  {
+    "path": "参赛材料/技术说明与复现方法.md",
+    "bytes": 3616,
+    "sha256": "3e4d43c224dc0b07c7f6239d86daa1e146584454b6827fdb60905c9e46290710"
+  },
+  {
+    "path": "参赛材料/真实试用与贡献记录.md",
+    "bytes": 2115,
+    "sha256": "558d3150401730931bc42d21b392599005b7fc8ccd7601ba3c7158c719dd4ac5"
+  },
+  {
+    "path": "参赛材料/答辩稿与常见问题.md",
+    "bytes": 3712,
+    "sha256": "b3c51ca8b1f11b948529532468bbcee4afe490f44b7f9afa74f30d04d2d8b4bc"
+  },
+  {
+    "path": "参赛材料/评审视频解说稿.md",
+    "bytes": 2779,
+    "sha256": "c314938607adba97952de3f8c403792d8545000cbd77430a619bdcfd52c3245b"
+  },
+  {
+    "path": "开发复核/engine-check.cjs",
+    "bytes": 4446,
+    "sha256": "0bc5df47fd91bba36a91f1794d8abb0343be9c989e6943fdd7a9f05793843293"
+  },
+  {
+    "path": "开发复核/README.md",
+    "bytes": 330,
+    "sha256": "5d5d730ba24647374af8dca6dccaecee756196ec62dbd8fefbbdaed2c40435da"
+  },
+  {
+    "path": "开始使用.md",
+    "bytes": 3228,
+    "sha256": "0c5950a15f7a7200ce9259267aa043605be0f87cc58591ab43563c40dcea0f0a"
+  },
+  {
+    "path": "打开作品.html",
+    "bytes": 306,
+    "sha256": "56e949c23ca8cab4f3d07bda3137ee5b8b86906d829497275c89f76f60459c54"
+  },
+  {
+    "path": "教学数据/1_learning.csv",
+    "bytes": 127,
+    "sha256": "f067ffceb8cb3843da29799c778418ac2da7a49b46e089e99b9ddcab84db6805"
+  },
+  {
+    "path": "教学数据/2_berkeley.csv",
+    "bytes": 287,
+    "sha256": "e5748c59d4e5d4b07ebd5e8b749149f2137517e62445d9fa2c8209e1a9f4bc65"
+  },
+  {
+    "path": "教学数据/3_service.csv",
+    "bytes": 130,
+    "sha256": "5eacf0161d3ff4435c0313e6be976cd649e61d3de6a374ddd78c54c587140b1d"
+  },
+  {
+    "path": "教学数据/来源与范围.md",
+    "bytes": 1173,
+    "sha256": "1a401ab9cb017a2245973922f63fb50e50218d81c0a724d7b167a1fad326814a"
+  },
+  {
+    "path": "正式提交/先读我.md",
+    "bytes": 631,
+    "sha256": "da9f6862cfcec76912ad460a967925d7607bed8b7d96af7a2a3e1cf3ff1a4074"
+  },
+  {
+    "path": "正式提交/看见分母_参赛匿名成果包_v1.0.zip",
+    "bytes": 1573692,
+    "sha256": "dd17526476d3474cccbd303c514637e69ef22acbba13e500101c5b3d520e93a0"
+  },
+  {
+    "path": "演示视频/看见分母_评审演示_合成语音.mp4",
+    "bytes": 13259514,
+    "sha256": "27be9142b4ea688d892e2cc680b309c0bf83309bc8326afc81e963024405714a"
+  },
+  {
+    "path": "验收材料/PDF核查.json",
+    "bytes": 197,
+    "sha256": "84c14203d9448e460c0b287cebc6f60db0136055fa7c0f0597691a692feef18c"
+  },
+  {
+    "path": "验收材料/浏览器核查.json",
+    "bytes": 1835,
+    "sha256": "48fca31c2a66af0683e36adb68b41a227731a141a2df0a209be2e9ecd93428e5"
+  },
+  {
+    "path": "验收材料/视频录制记录.json",
+    "bytes": 1369,
+    "sha256": "8fc539aade8eff9962e445ff06286a936c700e2c06910dda51a4a1d0607e5385"
+  },
+  {
+    "path": "验收材料/视频核查.json",
+    "bytes": 1740,
+    "sha256": "bfea3aaddb1cae14830d57f69f47a222f3ce9bb4ce8449ee4a264064ab7bdb10"
+  },
+  {
+    "path": "验收材料/计算核查.json",
+    "bytes": 7373,
+    "sha256": "62020cb178f465dc9bef582d1b962a46e1f6a8481f2cade18db2c8a9567c61f1"
+  },
+  {
+    "path": "验收材料/验收报告.md",
+    "bytes": 1211,
+    "sha256": "338962f7ece3e9ebf1e7bcc439d7003b529f580c776dc04fe6343fb7433bd7d5"
+  }
+]

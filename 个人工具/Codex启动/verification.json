@@ -1,0 +1,20 @@
+{
+  "binary": "C:\\Users\\Lenovo\\AppData\\Local\\OpenAI\\Codex\\bin\\f71a721e0e6193a9\\codex.exe",
+  "test": "app-server with desktop code_mode_host=true, ChatGPT auth, ephemeral conversation",
+  "started": "2026-11-08T19:49:05+0800",
+  "initialize": {
+    "userAgent": "codex_desktop/0.167.0-alpha.3.2 (Windows 10.0.26200; x86_64) dumb (codex_desktop; 1.0)",
+    "codexHome": "C:\\Users\\Lenovo\\.codex",
+    "platformFamily": "windows",
+    "platformOs": "windows"
+  },
+  "auth_type": "chatgpt",
+  "requiresOpenaiAuth": true,
+  "ephemeral": true,
+  "model": "gpt-6.1-sol",
+  "provider": "openai",
+  "turn_status": "completed",
+  "turn_error": null,
+  "reply": "CODEX_DESKTOP_CONNECTION_OK",
+  "success": true
+}

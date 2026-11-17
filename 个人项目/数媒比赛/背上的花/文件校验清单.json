@@ -1,0 +1,222 @@
+[
+  {
+    "path": "site/dist/app.js",
+    "bytes": 23034,
+    "sha256": "bc4132088293153419a35d690ccfd137fab25b7c17e619ad24b022ca3cea0b18"
+  },
+  {
+    "path": "site/dist/assets/care-scene.png",
+    "bytes": 1909915,
+    "sha256": "37e6c172784e6fa332019c1e378f7e494fc05a1bd53825e916094fe75d23a1b0"
+  },
+  {
+    "path": "site/dist/assets/textile-macro.png",
+    "bytes": 3080640,
+    "sha256": "1be0f3a44ad73d447d228cc56429df03c4615219e0b096029b8a3ff307ce734b"
+  },
+  {
+    "path": "site/dist/engine.js",
+    "bytes": 3241,
+    "sha256": "dee3a351eebf2a4c449d454b082f22612817fcc0d604c2dcaed2dad74a33012c"
+  },
+  {
+    "path": "site/dist/index.html",
+    "bytes": 3624,
+    "sha256": "362bc0931e5f7e20384b7c4d7ebea8b213b6b0f8e10f2b32dc3686612cc51310"
+  },
+  {
+    "path": "site/dist/mark.svg",
+    "bytes": 272,
+    "sha256": "e8d5da70adfd0ee5d884552dacb6b34c7ff2a4b73a9c104b38524d20e508c0f3"
+  },
+  {
+    "path": "site/dist/renderer.js",
+    "bytes": 10286,
+    "sha256": "aec60f7528dba20834114e8af0c04e2a1d95811860912751b866e2060a9df52c"
+  },
+  {
+    "path": "site/dist/styles.css",
+    "bytes": 15107,
+    "sha256": "f3a1ebfd37d90be998a1fab3612d915601245ae1284d63fb0a09aaffd448077f"
+  },
+  {
+    "path": "作品截图/01-序章.png",
+    "bytes": 1989770,
+    "sha256": "9453ff264f8713a5b9db4a4f9fed0362ac655a4d1fceaed9d38955a0ae3c364b"
+  },
+  {
+    "path": "作品截图/02-一片布.png",
+    "bytes": 1713328,
+    "sha256": "e88359d765e967a2220d12a0a77ded476e42d09d62034a7a2e1aee1a34969f6e"
+  },
+  {
+    "path": "作品截图/03-层层成花.png",
+    "bytes": 1817070,
+    "sha256": "d631b6131fdb0cf48208fe045b9e5063caf590c02b64c94d1820f12f81e41c10"
+  },
+  {
+    "path": "作品截图/04-逐层拆看.png",
+    "bytes": 1805513,
+    "sha256": "318011491cb7eb5f3366b9570f186167107b3c6c87f0bf136d286b1fe4adf232"
+  },
+  {
+    "path": "作品截图/05-微观尺度.png",
+    "bytes": 1689923,
+    "sha256": "3a1889e744da14bca2a1386f0be321297ab077407a1a9a0d1347b095c5b939d6"
+  },
+  {
+    "path": "作品截图/06-花回到背上.png",
+    "bytes": 1667322,
+    "sha256": "954dff486ed52c5d2a2f39df920e57ff4d27222498cbab8f0afa8d8b92177f6e"
+  },
+  {
+    "path": "作品截图/07-留下心意.png",
+    "bytes": 1806649,
+    "sha256": "ccc1cd3964837dea85d85fe2ad452b4c111d4f638ae6f75f0b17c16b058bb6b9"
+  },
+  {
+    "path": "作品截图/08-花有来处.png",
+    "bytes": 1812460,
+    "sha256": "5225277e00634d4025e0378488429cffa14317cb3af9994832c9fdf29a55bb8e"
+  },
+  {
+    "path": "作品截图/09-导出作品卡.png",
+    "bytes": 1355486,
+    "sha256": "9a6ad5f828254ba2bee80741deb47a86662305408ff180761f1688ec9ab12568"
+  },
+  {
+    "path": "作品截图/10-手机序章.png",
+    "bytes": 664112,
+    "sha256": "d48932c2069cc05b1e79aa7b97a031e93d73d6762670193571dfdb7723e2660c"
+  },
+  {
+    "path": "作品截图/11-手机叠放.png",
+    "bytes": 654700,
+    "sha256": "f5af8dcbf37666baf1f2c527352d69521fb283a303dd01175acd62d636c44599"
+  },
+  {
+    "path": "制作记录/实现与助手工作记录.md",
+    "bytes": 1603,
+    "sha256": "ac768a0f3bb5fc4297532fc15cbd57d213bf508c44f512575d6902d28ccfbc2a"
+  },
+  {
+    "path": "制作记录/实际生图提示词.md",
+    "bytes": 3692,
+    "sha256": "6982641bc815738282c909c650de3bc4239f7234ca49544bedd8ad8cd05d07b8"
+  },
+  {
+    "path": "参赛材料/01_文化依据与创作边界.md",
+    "bytes": 5249,
+    "sha256": "cfb4ab5ed61704db00b33c48f7d22230a039525241a5ed80d78cdac882f4c6d1"
+  },
+  {
+    "path": "参赛材料/02_作品介绍核对稿.md",
+    "bytes": 6828,
+    "sha256": "c5b67c5d68d00ccdc34c4735d64bb8bbfd7a9016fbc6dddcfb162f27b8f30853"
+  },
+  {
+    "path": "参赛材料/03_AI与第三方资源说明.md",
+    "bytes": 4512,
+    "sha256": "d8141995e97ecabf7dc0cec7ef2ada0d13648857da2c62a044249eb450cafa64"
+  },
+  {
+    "path": "参赛材料/04_真实审看与学生贡献记录.md",
+    "bytes": 2902,
+    "sha256": "37f7cf2f60dfe2b2c5e2300d549fe5274798e05e8de6d2f53c33af60c5b44780"
+  },
+  {
+    "path": "参赛材料/05_提交核对清单.md",
+    "bytes": 5695,
+    "sha256": "7ded623f223d9c72f56320c3dd274ad7cf090907c6491be83e3f174e909d87d9"
+  },
+  {
+    "path": "参赛材料/06_答辩提纲与演示方法.md",
+    "bytes": 3180,
+    "sha256": "af1fc3e20d1a522c8712c4e1d72016543c35d0783d8c3b5c4c213a3db4238e12"
+  },
+  {
+    "path": "参赛材料/07_评审演示解说词.md",
+    "bytes": 3154,
+    "sha256": "d37843d4afae79a759d86ea3eb86100f48009651b128db2862b03cd59a8701b9"
+  },
+  {
+    "path": "参赛材料/作品说明_匿名评审版.pdf",
+    "bytes": 10718147,
+    "sha256": "9c1b3539a9e5e3b7be25fa2c65a6c1a48975bd9891f4937f1f2889b20eb1d828"
+  },
+  {
+    "path": "开发复核/engine-check.cjs",
+    "bytes": 1983,
+    "sha256": "826ff3c3d60a2a518a2d978b302bccb67bd494c7160fe69343f3ee1c59ff0a17"
+  },
+  {
+    "path": "开发复核/README.md",
+    "bytes": 229,
+    "sha256": "bed1979911d4b505c17c02c49ca88d9e186df945cf89a2352f90c6468f5119ac"
+  },
+  {
+    "path": "开始使用.md",
+    "bytes": 2904,
+    "sha256": "a3b1dac6b27a43aedd785e9de3ca76b5a03d2626999b91de10a469b8d520a549"
+  },
+  {
+    "path": "打开作品.html",
+    "bytes": 450,
+    "sha256": "2e47b649416377c0d4e5c7a091d2cffd7aab28af888f37beded892b1dfe3e3c0"
+  },
+  {
+    "path": "正式提交_先读我.md",
+    "bytes": 776,
+    "sha256": "8d12f3390d86086312d87e5a9c11ef7d56453a63c64324ed91c0f9cf8f4ee355"
+  },
+  {
+    "path": "演示视频/背上的花_评审演示_合成解说.mp4",
+    "bytes": 34227538,
+    "sha256": "c722ef345af6faf56435925e82758d9fd9bea063d9a5e91b7d29d2e088976856"
+  },
+  {
+    "path": "演示视频/背上的花_评审演示_合成解说.srt",
+    "bytes": 4190,
+    "sha256": "cdda0717d584d27dc8ffe881137f74c48189cc90db1dcb26e8226999ac8fee20"
+  },
+  {
+    "path": "验收材料/PDF核查.json",
+    "bytes": 351,
+    "sha256": "7e0b70fdb5ad3ecf78aea5ad23dd999b3fd042dc4adec1e7905915dd956a7303"
+  },
+  {
+    "path": "验收材料/浏览器失败记录.json",
+    "bytes": 1921,
+    "sha256": "2cd466a1b12be735b8fbbdf166570cdc738c3ff2c097b7d54adc9851bd63840f"
+  },
+  {
+    "path": "验收材料/浏览器核查.json",
+    "bytes": 1525,
+    "sha256": "c08c04425202b5c1af05b5efe9aaca47fe25bc7d7117d42707c796fffaff9494"
+  },
+  {
+    "path": "验收材料/状态核查.json",
+    "bytes": 648,
+    "sha256": "ff8465698c01b59244ef010549e8735aa1e6c8aad4a5a5297b16c3d4888a9be4"
+  },
+  {
+    "path": "验收材料/视频录制记录.json",
+    "bytes": 2282,
+    "sha256": "ad9c10ca3d0c51f5d5e4a9ed5fd2f1f9bf20d2301f5cc1e8cd5dd8ebcaf32f27"
+  },
+  {
+    "path": "验收材料/视频核查.json",
+    "bytes": 1720,
+    "sha256": "94f7ffad80354410cc6a64df9fb493c6a74a17b48d6f3741fa211adcc80a4d47"
+  },
+  {
+    "path": "验收材料/解压入口核查.json",
+    "bytes": 202,
+    "sha256": "e909dcfe3473841081f0749a73235ed2eb107ffdf7f21ae13892dfcf0a21fbef"
+  },
+  {
+    "path": "验收材料/验收报告.md",
+    "bytes": 1594,
+    "sha256": "7bda517c02cd16cff955aac51f40fa345ee0d2e49f8572c009f89c5bf7fc802b"
+  }
+]

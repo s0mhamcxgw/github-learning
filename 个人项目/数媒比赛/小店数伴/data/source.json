@@ -1,0 +1,23 @@
+{
+  "id": "uci-retail-2011-10-11",
+  "name": "公开零售订单 · 2011年10—11月",
+  "kind": "public",
+  "currency": "GBP",
+  "currencySymbol": "£",
+  "source": "UCI Machine Learning Repository · Online Retail",
+  "sourceUrl": "https://archive.ics.uci.edu/dataset/352/online+retail",
+  "doi": "https://doi.org/10.24432/C5BW33",
+  "creator": "Daqing Chen",
+  "citation": "Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33.",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "selection": "保留原文件中2011-10-01 00:00:00至2011-11-30 23:59:59的全部行；移除CustomerID和Country；保留Excel原行号SourceRow；日期转为ISO文本，未修改数量、单价或商品名称。",
+  "limitations": "这是英国线上零售历史数据，用于功能验证；不代表贵州小店经营现状，不构成商户试用或应用成效证据。",
+  "sourceRows": 541909,
+  "rows": 145453,
+  "start": "2011-10-01",
+  "end": "2011-11-30",
+  "sourceZipSha256": "f5385cbb54bbebf7196389109c6b0621faab0c304e3702548165e71c84aede8b",
+  "derivedSha256": "300dd8a210a86b60524c7a6376848f1be346f456d456c048982c5f657c1b706c",
+  "retrievedOn": "2026-11-01"
+}

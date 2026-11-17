@@ -1,0 +1,32 @@
+# Local environments and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.npmrc
+.pypirc
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Build caches, service state and internal publishing configuration
+.next/
+.wrangler/
+.openai/
+.sites-runtime/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.tsbuildinfo
+*.log
+
+# Per-project static dist folders are intentionally included when they are
+# the only locally available version of a personal work.

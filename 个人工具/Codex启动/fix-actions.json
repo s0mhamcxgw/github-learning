@@ -1,0 +1,9 @@
+{
+  "time": "2026-11-08T19:47:33.095221+08:00",
+  "config_backup": "E:\\Documents\\ChatGPT\\skill调用\\outputs\\codex-network-fix\\config-before-fix.toml",
+  "forced_login_method": "chatgpt",
+  "model_provider": "openai",
+  "proxy": "http://127.0.0.1:10090",
+  "recommended_client": "猫猫云",
+  "requires_tun": true
+}

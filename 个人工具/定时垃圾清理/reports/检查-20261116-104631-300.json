@@ -1,0 +1,34 @@
+﻿{
+    "ScannedAt":  "2026-11-16T10:46:31",
+    "MinAgeDays":  14,
+    "Summary":  [
+                    {
+                        "Category":  "用户临时文件",
+                        "Root":  "C:\\Users\\Lenovo\\AppData\\Local\\Temp",
+                        "Files":  1146,
+                        "Bytes":  1111529613,
+                        "Size":  "1.04 GB",
+                        "EligibleFiles":  1,
+                        "EligibleBytes":  2772537,
+                        "EligibleSize":  "2.64 MB",
+                        "Errors":  2,
+                        "SkippedLinks":  3,
+                        "Status":  "部分文件夹无法读取",
+                        "AutoCleanup":  true
+                    },
+                    {
+                        "Category":  "Windows 临时文件",
+                        "Root":  "C:\\WINDOWS\\Temp",
+                        "Files":  180,
+                        "Bytes":  252926510,
+                        "Size":  "241.21 MB",
+                        "EligibleFiles":  0,
+                        "EligibleBytes":  0,
+                        "EligibleSize":  "0.0 KB",
+                        "Errors":  0,
+                        "SkippedLinks":  0,
+                        "Status":  "已扫描",
+                        "AutoCleanup":  true
+                    }
+                ]
+}

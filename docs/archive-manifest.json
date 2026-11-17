@@ -1,0 +1,3929 @@
+{
+  "archive_date": "2026-11-18",
+  "archive_type": "personal-code-snapshot",
+  "file_count": 489,
+  "code_file_count": 345,
+  "notebook_count": 87,
+  "files": [
+    {
+      "path": "AI智能体/API基础/01.测试apikey的使用.py",
+      "category": "AI智能体",
+      "bytes": 1184,
+      "source_sha256": "74940715ef89cb447a617bbdc78671a84ad412d07185bdf2edb57b00dabf0c21",
+      "archive_sha256": "9a2369570ffab5d43c0f2844952a4698451d37e22337f5b80d525f2d83fc6e00",
+      "notes": [
+        "credentials_redacted_in_archive_copy"
+      ]
+    },
+    {
+      "path": "AI智能体/API基础/02.openai的基础使用.py",
+      "category": "AI智能体",
+      "bytes": 889,
+      "source_sha256": "b482cb7bb9e66361cbe40e0f0ea94287bb77df970eee74f6adc5bedc5e76520f",
+      "archive_sha256": "0223a2157fb956b74062ad048ca9b57beab58971f82036156f2357e56ce35740",
+      "notes": [
+        "credentials_redacted_in_archive_copy"
+      ]
+    },
+    {
+      "path": "AI智能体/API基础/03.openai的流式输出.py",
+      "category": "AI智能体",
+      "bytes": 952,
+      "source_sha256": "1acb34529e1bbed3b1be136f85606a000abfdb6cadd255492fdbedbfd87d9315",
+      "archive_sha256": "35ef2322e35025e1e3d29f7a298bbc1f2df8fcd94f65434e31f2dfb51ac88e51",
+      "notes": [
+        "credentials_redacted_in_archive_copy"
+      ]
+    },
+    {
+      "path": "AI智能体/API基础/04.openai附带历史消息的模型调用.py",
+      "category": "AI智能体",
+      "bytes": 0,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "archive_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/API基础/05.提示词工程指南.py",
+      "category": "AI智能体",
+      "bytes": 1,
+      "source_sha256": "334359b90efed75da5f0ada1d5e6b256f4a6bd0aee7eb39c0f90182a021ffc8b",
+      "archive_sha256": "334359b90efed75da5f0ada1d5e6b256f4a6bd0aee7eb39c0f90182a021ffc8b",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/API基础/06.openaijson数据格式.py",
+      "category": "AI智能体",
+      "bytes": 340,
+      "source_sha256": "cf433b0f1128e76dc30f002fb90c6999ddae577e3cd7a075f8c0bb00e282b040",
+      "archive_sha256": "cf433b0f1128e76dc30f002fb90c6999ddae577e3cd7a075f8c0bb00e282b040",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/API基础/07.openailangchain的学习.py",
+      "category": "AI智能体",
+      "bytes": 29,
+      "source_sha256": "db882e3cf2fddf5719cdaf3ce2f76c831ab585c3365ece7c61310511c73f5789",
+      "archive_sha256": "db882e3cf2fddf5719cdaf3ce2f76c831ab585c3365ece7c61310511c73f5789",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/LangChain示例/.env.example",
+      "category": "AI智能体",
+      "bytes": 124,
+      "source_sha256": "0c4af93455644ed9c687fe9aaec873090534c3496c03a3367c0f0955f03345f2",
+      "archive_sha256": "0c4af93455644ed9c687fe9aaec873090534c3496c03a3367c0f0955f03345f2",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/LangChain示例/dspjz_video/旁白脚本与分镜.md",
+      "category": "AI智能体",
+      "bytes": 7403,
+      "source_sha256": "ad21f856b5c6ab0e3c0119e59b1939c16a26550aea3625c4e5574f9e57d4e025",
+      "archive_sha256": "ad21f856b5c6ab0e3c0119e59b1939c16a26550aea3625c4e5574f9e57d4e025",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/LangChain示例/langchain_llm_demo.py",
+      "category": "AI智能体",
+      "bytes": 3982,
+      "source_sha256": "861cc7b41697bd47ea99adf2a0f9090f1adf991ad9c0d25070fd61a95b73d599",
+      "archive_sha256": "861cc7b41697bd47ea99adf2a0f9090f1adf991ad9c0d25070fd61a95b73d599",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/LangChain示例/requirements.txt",
+      "category": "AI智能体",
+      "bytes": 76,
+      "source_sha256": "c2f8e78edc84600d9da364cb89b4f3cec7b19c3a8af3b560f639a55bbed41c98",
+      "archive_sha256": "c2f8e78edc84600d9da364cb89b4f3cec7b19c3a8af3b560f639a55bbed41c98",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/.gitignore",
+      "category": "AI智能体",
+      "bytes": 207,
+      "source_sha256": "498d0e700c1a5e365e1e03c53607cbd44a93fa281c061da6b0b1822897f21554",
+      "archive_sha256": "498d0e700c1a5e365e1e03c53607cbd44a93fa281c061da6b0b1822897f21554",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/PyCharm_CodeGPT_配置指南.md",
+      "category": "AI智能体",
+      "bytes": 228,
+      "source_sha256": "f3045deead06c7587f265258e3bf3107080161ae6f333c8cf6662996f9487dfc",
+      "archive_sha256": "f3045deead06c7587f265258e3bf3107080161ae6f333c8cf6662996f9487dfc",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/agents/__init__.py",
+      "category": "AI智能体",
+      "bytes": 0,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "archive_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/agents/agent_manager.py",
+      "category": "AI智能体",
+      "bytes": 3583,
+      "source_sha256": "64be1bd5346f94f41686b05fde0fa37151d404aa1eb679d1a4b798881bb2c3e7",
+      "archive_sha256": "64be1bd5346f94f41686b05fde0fa37151d404aa1eb679d1a4b798881bb2c3e7",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/agents/base.py",
+      "category": "AI智能体",
+      "bytes": 2905,
+      "source_sha256": "d456f7b3e20c81feb72645b88d4f705817cb00d1cf49475b660e451183ad0777",
+      "archive_sha256": "d456f7b3e20c81feb72645b88d4f705817cb00d1cf49475b660e451183ad0777",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/agents/coding_agent.py",
+      "category": "AI智能体",
+      "bytes": 7975,
+      "source_sha256": "ac06ce2ca354d6547551309473dd0c5a65d68649532062128e7c43ffbfcd09de",
+      "archive_sha256": "ac06ce2ca354d6547551309473dd0c5a65d68649532062128e7c43ffbfcd09de",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/agents/office_agent.py",
+      "category": "AI智能体",
+      "bytes": 6362,
+      "source_sha256": "2d35681e2fced0e3731444e3df4966d31870846a11af1fc53b4832c6650969a9",
+      "archive_sha256": "2d35681e2fced0e3731444e3df4966d31870846a11af1fc53b4832c6650969a9",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/agents/paper_agent.py",
+      "category": "AI智能体",
+      "bytes": 7286,
+      "source_sha256": "913c2f3e3db4955d87bd32414ac90ed61979f05390c013648eae71370a2f3e8d",
+      "archive_sha256": "913c2f3e3db4955d87bd32414ac90ed61979f05390c013648eae71370a2f3e8d",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/agents/video_agent.py",
+      "category": "AI智能体",
+      "bytes": 6827,
+      "source_sha256": "8e0716b87819daa96c993b5a9e97da86df372e4b95009757e9da49f515dcfe95",
+      "archive_sha256": "8e0716b87819daa96c993b5a9e97da86df372e4b95009757e9da49f515dcfe95",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/config/__init__.py",
+      "category": "AI智能体",
+      "bytes": 0,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "archive_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/config/prompts/paper_format.md",
+      "category": "AI智能体",
+      "bytes": 4164,
+      "source_sha256": "6478670e4cf6244746e068d439bcaaa53bc5ab52248ce9cf23cdb0a044019994",
+      "archive_sha256": "6478670e4cf6244746e068d439bcaaa53bc5ab52248ce9cf23cdb0a044019994",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/config/prompts/scenes/coding.md",
+      "category": "AI智能体",
+      "bytes": 1984,
+      "source_sha256": "2ded3ed79ec9ed8f62b6630f4124cac45e3731aa6aea3cd401f2363eedf87621",
+      "archive_sha256": "2ded3ed79ec9ed8f62b6630f4124cac45e3731aa6aea3cd401f2363eedf87621",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/config/prompts/scenes/office.md",
+      "category": "AI智能体",
+      "bytes": 1113,
+      "source_sha256": "33f0a6103d8f747d084ff1ffce32bdce700ec69e8fe8cfd1486880226773703f",
+      "archive_sha256": "33f0a6103d8f747d084ff1ffce32bdce700ec69e8fe8cfd1486880226773703f",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/config/prompts/scenes/paper.md",
+      "category": "AI智能体",
+      "bytes": 1407,
+      "source_sha256": "a3093438a918635c620db8a335aa19749b131d2aa90d8ffdaedb29e5bd512bae",
+      "archive_sha256": "a3093438a918635c620db8a335aa19749b131d2aa90d8ffdaedb29e5bd512bae",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/config/prompts/scenes/video.md",
+      "category": "AI智能体",
+      "bytes": 1152,
+      "source_sha256": "dd45c69437aa62883e2e35c8d804f3b6b29fd5586ae7cf4d6b41f8c683479e4f",
+      "archive_sha256": "dd45c69437aa62883e2e35c8d804f3b6b29fd5586ae7cf4d6b41f8c683479e4f",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/config/prompts/system_prompt.md",
+      "category": "AI智能体",
+      "bytes": 11475,
+      "source_sha256": "3fa7421726f29fb9ade21b9b6e37604ce4d9234ff37bc5d7870bc8ed74dcdc7b",
+      "archive_sha256": "3fa7421726f29fb9ade21b9b6e37604ce4d9234ff37bc5d7870bc8ed74dcdc7b",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/config/settings.py",
+      "category": "AI智能体",
+      "bytes": 2355,
+      "source_sha256": "a01749dc7841a187d4d2a5b76a3b4455e450309c7ece31f7635fd00030b16f98",
+      "archive_sha256": "a01749dc7841a187d4d2a5b76a3b4455e450309c7ece31f7635fd00030b16f98",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/core/__init__.py",
+      "category": "AI智能体",
+      "bytes": 0,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "archive_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/core/llm_client.py",
+      "category": "AI智能体",
+      "bytes": 4569,
+      "source_sha256": "5a80656e73dda2958f58ca1a9dafdae30c73fe6c7a309ecff15228c0c200f2d9",
+      "archive_sha256": "5a80656e73dda2958f58ca1a9dafdae30c73fe6c7a309ecff15228c0c200f2d9",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/core/prompt_loader.py",
+      "category": "AI智能体",
+      "bytes": 1262,
+      "source_sha256": "f522a62f6ca2f01325bb02654044247082b2c5f96b6ca406bc9ead4211cbe6f8",
+      "archive_sha256": "f522a62f6ca2f01325bb02654044247082b2c5f96b6ca406bc9ead4211cbe6f8",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/core/task_agent.py",
+      "category": "AI智能体",
+      "bytes": 12639,
+      "source_sha256": "f19853494c549adec6b27c48c888c65245ce271f263d37d1b2e8347b817e7f57",
+      "archive_sha256": "f19853494c549adec6b27c48c888c65245ce271f263d37d1b2e8347b817e7f57",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/main.py",
+      "category": "AI智能体",
+      "bytes": 18340,
+      "source_sha256": "b4aad92efa003fab1ea0a99280ecd2f0c38779d6e94bc6f7c82a7c57ce1b70e7",
+      "archive_sha256": "b4aad92efa003fab1ea0a99280ecd2f0c38779d6e94bc6f7c82a7c57ce1b70e7",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/memory/__init__.py",
+      "category": "AI智能体",
+      "bytes": 0,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "archive_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/memory/long_term.py",
+      "category": "AI智能体",
+      "bytes": 9657,
+      "source_sha256": "e3fb7c609f4dc3e9d012db0b7d78bc05476ec70afe0fa33838d589923f52d0ab",
+      "archive_sha256": "e3fb7c609f4dc3e9d012db0b7d78bc05476ec70afe0fa33838d589923f52d0ab",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/memory/manager.py",
+      "category": "AI智能体",
+      "bytes": 7400,
+      "source_sha256": "7a7eabaf7b824e59f69367249b194c809497e9349f94aa70af481ea5da366c3e",
+      "archive_sha256": "7a7eabaf7b824e59f69367249b194c809497e9349f94aa70af481ea5da366c3e",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/memory/short_term.py",
+      "category": "AI智能体",
+      "bytes": 5786,
+      "source_sha256": "b5c59c7a1816e1a6da2aff57533ab60be18d46764c9e6de5dd640978ccbc8f39",
+      "archive_sha256": "b5c59c7a1816e1a6da2aff57533ab60be18d46764c9e6de5dd640978ccbc8f39",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/requirements.txt",
+      "category": "AI智能体",
+      "bytes": 296,
+      "source_sha256": "0b22d882f007d963ecf7334ab23bc7add77bb6e50f449f126e87f9bace3b0bd5",
+      "archive_sha256": "0b22d882f007d963ecf7334ab23bc7add77bb6e50f449f126e87f9bace3b0bd5",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/test_agents.py",
+      "category": "AI智能体",
+      "bytes": 6441,
+      "source_sha256": "715c8c88f389c006b8d1a495aa991b4fc78513752e24c1c8f4b76729d02a1f3e",
+      "archive_sha256": "715c8c88f389c006b8d1a495aa991b4fc78513752e24c1c8f4b76729d02a1f3e",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/test_connection.py",
+      "category": "AI智能体",
+      "bytes": 2967,
+      "source_sha256": "ba1d9ebed96bc2fa98761249c26ad04cc129aedfa6266be9a339f68d155ed656",
+      "archive_sha256": "ba1d9ebed96bc2fa98761249c26ad04cc129aedfa6266be9a339f68d155ed656",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/test_memory.py",
+      "category": "AI智能体",
+      "bytes": 5844,
+      "source_sha256": "5a483bd0739fbaaaf798b381ac19c3021d0513d965e561474602ec7927e584a5",
+      "archive_sha256": "5a483bd0739fbaaaf798b381ac19c3021d0513d965e561474602ec7927e584a5",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/test_tools.py",
+      "category": "AI智能体",
+      "bytes": 7875,
+      "source_sha256": "316e10c7f2573ab64f4d7adc23fab6c1f7d5984a1a5002fd1d4601c64711265c",
+      "archive_sha256": "316e10c7f2573ab64f4d7adc23fab6c1f7d5984a1a5002fd1d4601c64711265c",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/test_workflow.py",
+      "category": "AI智能体",
+      "bytes": 5813,
+      "source_sha256": "bd5a7e5e82659dfe2754ca7dc0f3cf47d58760d51a5f275cd42825a2f5463fc4",
+      "archive_sha256": "bd5a7e5e82659dfe2754ca7dc0f3cf47d58760d51a5f275cd42825a2f5463fc4",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/tools/__init__.py",
+      "category": "AI智能体",
+      "bytes": 0,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "archive_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/tools/base.py",
+      "category": "AI智能体",
+      "bytes": 2157,
+      "source_sha256": "ace4d9f3ab0b2133234f302cd4798d7a1c8e353f4d94288df9706d4eacdc2913",
+      "archive_sha256": "ace4d9f3ab0b2133234f302cd4798d7a1c8e353f4d94288df9706d4eacdc2913",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/tools/code_executor.py",
+      "category": "AI智能体",
+      "bytes": 3269,
+      "source_sha256": "b0aac8d40663677f11ae6561a1f2c226b7f03ed57984bbb10c1576af9432d483",
+      "archive_sha256": "b0aac8d40663677f11ae6561a1f2c226b7f03ed57984bbb10c1576af9432d483",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/tools/doc_tools.py",
+      "category": "AI智能体",
+      "bytes": 13712,
+      "source_sha256": "6a125f452ceb9d2d7c2e6d899590a597a846b12eaa325fd7e566f5a55a40b3e8",
+      "archive_sha256": "6a125f452ceb9d2d7c2e6d899590a597a846b12eaa325fd7e566f5a55a40b3e8",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/tools/file_tools.py",
+      "category": "AI智能体",
+      "bytes": 3926,
+      "source_sha256": "ab16f52f5c6b657c519aa1a84471529d13e45beaccc44e243274b7e2aca36ba6",
+      "archive_sha256": "ab16f52f5c6b657c519aa1a84471529d13e45beaccc44e243274b7e2aca36ba6",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/tools/paper_tools.py",
+      "category": "AI智能体",
+      "bytes": 16038,
+      "source_sha256": "5af4bfcba597fa0095e51732fa805ccc0f2a25cba83e01b167bdb99fa661c022",
+      "archive_sha256": "5af4bfcba597fa0095e51732fa805ccc0f2a25cba83e01b167bdb99fa661c022",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/tools/system_tools.py",
+      "category": "AI智能体",
+      "bytes": 7427,
+      "source_sha256": "4c54ac722473bba18ece42f4d099c7353403210b56225304c18790bba8faa7f8",
+      "archive_sha256": "4c54ac722473bba18ece42f4d099c7353403210b56225304c18790bba8faa7f8",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/tools/tool_calling_agent.py",
+      "category": "AI智能体",
+      "bytes": 7102,
+      "source_sha256": "5992def2aeac6631da9ba0b57f9131e03edb3d8bf8a04ce964d92e372980cd2a",
+      "archive_sha256": "5992def2aeac6631da9ba0b57f9131e03edb3d8bf8a04ce964d92e372980cd2a",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/tools/tool_manager.py",
+      "category": "AI智能体",
+      "bytes": 3786,
+      "source_sha256": "831da08e49fbfab07d27b4b0009685a7547a9e51ca974eef5988ca1670c0e3ba",
+      "archive_sha256": "831da08e49fbfab07d27b4b0009685a7547a9e51ca974eef5988ca1670c0e3ba",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/web_app.py",
+      "category": "AI智能体",
+      "bytes": 17153,
+      "source_sha256": "af10230176528fdeeebdb764cd589e70b29b043594dba93cb0215ba78713a804",
+      "archive_sha256": "af10230176528fdeeebdb764cd589e70b29b043594dba93cb0215ba78713a804",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/workflows/__init__.py",
+      "category": "AI智能体",
+      "bytes": 0,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "archive_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/workflows/base.py",
+      "category": "AI智能体",
+      "bytes": 2237,
+      "source_sha256": "26824ad5a66af7ef58862dedb8b94b5861e9ec8017870bf8bacb124389dd7fe0",
+      "archive_sha256": "26824ad5a66af7ef58862dedb8b94b5861e9ec8017870bf8bacb124389dd7fe0",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/workflows/five_stage.py",
+      "category": "AI智能体",
+      "bytes": 10415,
+      "source_sha256": "442f027981a90afd936a84d955d47929fb10f26a59cf0949bdc74886fb9c6a1c",
+      "archive_sha256": "442f027981a90afd936a84d955d47929fb10f26a59cf0949bdc74886fb9c6a1c",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/workflows/scene_classifier.py",
+      "category": "AI智能体",
+      "bytes": 7319,
+      "source_sha256": "8d8bad821d4e78bbf838d317026181803d015854ec2218727574b56c70a10a2c",
+      "archive_sha256": "8d8bad821d4e78bbf838d317026181803d015854ec2218727574b56c70a10a2c",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/workflows/workflow_manager.py",
+      "category": "AI智能体",
+      "bytes": 3653,
+      "source_sha256": "0d6a69fb3a1fc770f7d3faef77b473cfd18f0c270246df55aa912eaa11b883fa",
+      "archive_sha256": "0d6a69fb3a1fc770f7d3faef77b473cfd18f0c270246df55aa912eaa11b883fa",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/项目代码逐文件详解.md",
+      "category": "AI智能体",
+      "bytes": 37623,
+      "source_sha256": "992f2fac79fd800db788c5edc0cd9e1b9c0f2feaee8aac5705a6a7b1fa448d9f",
+      "archive_sha256": "992f2fac79fd800db788c5edc0cd9e1b9c0f2feaee8aac5705a6a7b1fa448d9f",
+      "notes": []
+    },
+    {
+      "path": "AI智能体/agent_system/项目讲解演讲稿.md",
+      "category": "AI智能体",
+      "bytes": 11056,
+      "source_sha256": "0e1537d82fac58207c0a8761184ca09e897211fad924e70b36c50b08e27ba8e4",
+      "archive_sha256": "0e1537d82fac58207c0a8761184ca09e897211fad924e70b36c50b08e27ba8e4",
+      "notes": []
+    },
+    {
+      "path": "Jupyter入门/01.jupyter入门.ipynb",
+      "category": "NumPy与Jupyter",
+      "bytes": 1492152,
+      "source_sha256": "c3b80c523e6d96ffbe9a925fc55b152f39c1d44030054a59b7ea8853fd532a06",
+      "archive_sha256": "c3b80c523e6d96ffbe9a925fc55b152f39c1d44030054a59b7ea8853fd532a06",
+      "notes": []
+    },
+    {
+      "path": "Jupyter入门/README.md",
+      "category": "NumPy与Jupyter",
+      "bytes": 0,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "archive_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "notes": []
+    },
+    {
+      "path": "Jupyter入门/sample.ipynb",
+      "category": "NumPy与Jupyter",
+      "bytes": 1758,
+      "source_sha256": "33bf8972a253359582e096996e8bddf44a0e495af90387041637b545ab6cb5c6",
+      "archive_sha256": "33bf8972a253359582e096996e8bddf44a0e495af90387041637b545ab6cb5c6",
+      "notes": []
+    },
+    {
+      "path": "Python基础/D盘学习练习/test.py",
+      "category": "Python基础",
+      "bytes": 4728,
+      "source_sha256": "f5a95eb345fa4fef599d8d507ab9777663bd445e4eebe9c9752257c3bd0616e8",
+      "archive_sha256": "f5a95eb345fa4fef599d8d507ab9777663bd445e4eebe9c9752257c3bd0616e8",
+      "notes": []
+    },
+    {
+      "path": "Python基础/D盘学习练习/啊啊啊.py",
+      "category": "Python基础",
+      "bytes": 1138,
+      "source_sha256": "59ab3fe6262b0a22f71fd6ebf849192565e6ec17474a82a8ab5e13685904f99c",
+      "archive_sha256": "59ab3fe6262b0a22f71fd6ebf849192565e6ec17474a82a8ab5e13685904f99c",
+      "notes": []
+    },
+    {
+      "path": "Python基础/D盘学习练习/方法.py",
+      "category": "Python基础",
+      "bytes": 597,
+      "source_sha256": "f82365fe293479b7f156dbb3895676ae8a335d7381efbaf8f274d677b3bc3dba",
+      "archive_sha256": "f82365fe293479b7f156dbb3895676ae8a335d7381efbaf8f274d677b3bc3dba",
+      "notes": []
+    },
+    {
+      "path": "Python基础/D盘学习练习/笔记.py",
+      "category": "Python基础",
+      "bytes": 3141,
+      "source_sha256": "6a961ed176e1f31e63da14a691526271954fa1babe51f96a1d832083e021642b",
+      "archive_sha256": "6a961ed176e1f31e63da14a691526271954fa1babe51f96a1d832083e021642b",
+      "notes": []
+    },
+    {
+      "path": "Python基础/D盘学习练习/笔记2.py",
+      "category": "Python基础",
+      "bytes": 1662,
+      "source_sha256": "3eab47f5f0d0ec8ef73089563559e1e6d64962aaa59952a904814284c3e77948",
+      "archive_sha256": "3eab47f5f0d0ec8ef73089563559e1e6d64962aaa59952a904814284c3e77948",
+      "notes": []
+    },
+    {
+      "path": "Python基础/D盘学习练习/笔记3.py",
+      "category": "Python基础",
+      "bytes": 1076,
+      "source_sha256": "d3f3eda3c3f02bd657ed90924abbce7ea8b2a5a5f6734a59d223282770418530",
+      "archive_sha256": "d3f3eda3c3f02bd657ed90924abbce7ea8b2a5a5f6734a59d223282770418530",
+      "notes": []
+    },
+    {
+      "path": "Python基础/D盘学习练习/笔记4.py",
+      "category": "Python基础",
+      "bytes": 657,
+      "source_sha256": "1c4a689070a5f4c025e9c38219560c487a8b22e269ada674c1091c8f8578a53e",
+      "archive_sha256": "1c4a689070a5f4c025e9c38219560c487a8b22e269ada674c1091c8f8578a53e",
+      "notes": []
+    },
+    {
+      "path": "Python基础/D盘学习练习/笔记5.py",
+      "category": "Python基础",
+      "bytes": 1172,
+      "source_sha256": "0f2bc25cc1e028b8c3f68da37882a13a5daa353ee5e7b83d687697540c4d05ae",
+      "archive_sha256": "0f2bc25cc1e028b8c3f68da37882a13a5daa353ee5e7b83d687697540c4d05ae",
+      "notes": []
+    },
+    {
+      "path": "Python基础/D盘学习练习/笔记6.py",
+      "category": "Python基础",
+      "bytes": 1284,
+      "source_sha256": "f55d60ad30742a41f4a16449770e057828ec3dae79eb86268c4bd6a645e48cb3",
+      "archive_sha256": "f55d60ad30742a41f4a16449770e057828ec3dae79eb86268c4bd6a645e48cb3",
+      "notes": []
+    },
+    {
+      "path": "Python基础/D盘学习练习/笔记7.py",
+      "category": "Python基础",
+      "bytes": 2003,
+      "source_sha256": "900319c8e6c4c11c5dbdb3639051eebdb46dce469b07ff3b012f8e74afeb3c6a",
+      "archive_sha256": "900319c8e6c4c11c5dbdb3639051eebdb46dce469b07ff3b012f8e74afeb3c6a",
+      "notes": []
+    },
+    {
+      "path": "Python基础/章节练习/第一章/01.入门程序.py",
+      "category": "Python基础",
+      "bytes": 98,
+      "source_sha256": "f7c1cd730b12f95e60e4fe8b5e29769acccc248989c101a94547f1b1e823cf16",
+      "archive_sha256": "f7c1cd730b12f95e60e4fe8b5e29769acccc248989c101a94547f1b1e823cf16",
+      "notes": []
+    },
+    {
+      "path": "Python基础/章节练习/第三章/循环.py",
+      "category": "Python基础",
+      "bytes": 364,
+      "source_sha256": "4bfcbb206b328450c8a09d77d9c49df77c0f859f2d8bc115c48b9df74fbc2221",
+      "archive_sha256": "4bfcbb206b328450c8a09d77d9c49df77c0f859f2d8bc115c48b9df74fbc2221",
+      "notes": []
+    },
+    {
+      "path": "Python基础/章节练习/第三章/条件判断语句.py",
+      "category": "Python基础",
+      "bytes": 266,
+      "source_sha256": "5f5a31a4a340a53447c6e16238dbef694b553bc6a9574d0b3a94370fd3226582",
+      "archive_sha256": "5f5a31a4a340a53447c6e16238dbef694b553bc6a9574d0b3a94370fd3226582",
+      "notes": []
+    },
+    {
+      "path": "Python基础/章节练习/第二章/02.变量.py",
+      "category": "Python基础",
+      "bytes": 173,
+      "source_sha256": "8c9e6fa7d8cf8f5087d765e84f3c48b97e46b288f9aa28842bd7a9090219cbe4",
+      "archive_sha256": "8c9e6fa7d8cf8f5087d765e84f3c48b97e46b288f9aa28842bd7a9090219cbe4",
+      "notes": []
+    },
+    {
+      "path": "numpy基础/4.1创建多维数组对象.ipynb",
+      "category": "NumPy与Jupyter",
+      "bytes": 188364,
+      "source_sha256": "c02ee558ef1dc197e284db59f0fd8f78aef66e590e4ddaaa66bd906bbd4d5d64",
+      "archive_sha256": "c02ee558ef1dc197e284db59f0fd8f78aef66e590e4ddaaa66bd906bbd4d5d64",
+      "notes": []
+    },
+    {
+      "path": "个人工具/Codex启动/Launch-Codex.cmd",
+      "category": "个人工具",
+      "bytes": 121,
+      "source_sha256": "cf1a198909d3fac52b3d45b7d3c16b54c544d1697a688529e3e80aa628ebe0bd",
+      "archive_sha256": "cf1a198909d3fac52b3d45b7d3c16b54c544d1697a688529e3e80aa628ebe0bd",
+      "notes": []
+    },
+    {
+      "path": "个人工具/Codex启动/Launch-Codex.ps1",
+      "category": "个人工具",
+      "bytes": 1480,
+      "source_sha256": "46d1ad506a43bc43f84953955e676aae6bf420d6f5465094f9bdcedb5c1c2b79",
+      "archive_sha256": "46d1ad506a43bc43f84953955e676aae6bf420d6f5465094f9bdcedb5c1c2b79",
+      "notes": []
+    },
+    {
+      "path": "个人工具/Codex启动/config-before-fix.toml",
+      "category": "个人工具",
+      "bytes": 5704,
+      "source_sha256": "af2e7885d153b3996c5d7eb65458785d88990a553141e442049d4ae6f910196f",
+      "archive_sha256": "af2e7885d153b3996c5d7eb65458785d88990a553141e442049d4ae6f910196f",
+      "notes": []
+    },
+    {
+      "path": "个人工具/Codex启动/fix-actions.json",
+      "category": "个人工具",
+      "bytes": 330,
+      "source_sha256": "a5aefbbf8af3273e394b7b9c1f529075fab0ec62176094d6be1ae69cd78d5e9d",
+      "archive_sha256": "a5aefbbf8af3273e394b7b9c1f529075fab0ec62176094d6be1ae69cd78d5e9d",
+      "notes": []
+    },
+    {
+      "path": "个人工具/Codex启动/system-proxy-before.json",
+      "category": "个人工具",
+      "bytes": 282,
+      "source_sha256": "b25faaa6ffd22a22b57a3f1518239d80e6e0d0dcb55eb683df4e26fc7ea74dd8",
+      "archive_sha256": "b25faaa6ffd22a22b57a3f1518239d80e6e0d0dcb55eb683df4e26fc7ea74dd8",
+      "notes": []
+    },
+    {
+      "path": "个人工具/Codex启动/verification.json",
+      "category": "个人工具",
+      "bytes": 732,
+      "source_sha256": "11c44e85a285f7740a82546f90aabce5112441e429a19bf05f0934104fb28670",
+      "archive_sha256": "11c44e85a285f7740a82546f90aabce5112441e429a19bf05f0934104fb28670",
+      "notes": []
+    },
+    {
+      "path": "个人工具/Codex启动/使用方法.md",
+      "category": "个人工具",
+      "bytes": 1311,
+      "source_sha256": "43fae4b9a2c38d61ecd97fe7cbed42eba51f7e0afdf108946d9b48bef8a19aa3",
+      "archive_sha256": "43fae4b9a2c38d61ecd97fe7cbed42eba51f7e0afdf108946d9b48bef8a19aa3",
+      "notes": []
+    },
+    {
+      "path": "个人工具/Codex启动/修复结果.md",
+      "category": "个人工具",
+      "bytes": 1789,
+      "source_sha256": "31699c50e06c7b66fb785eac9f8566f196a644740d82da07f4378c102771f78a",
+      "archive_sha256": "31699c50e06c7b66fb785eac9f8566f196a644740d82da07f4378c102771f78a",
+      "notes": []
+    },
+    {
+      "path": "个人工具/U盘检查/.workbuddy/memory/2026-10-15.md",
+      "category": "个人工具",
+      "bytes": 1657,
+      "source_sha256": "0eae31002e0412d089a7dd83c7367bf61d906d70d707e98d68772ed65f3af6ec",
+      "archive_sha256": "0eae31002e0412d089a7dd83c7367bf61d906d70d707e98d68772ed65f3af6ec",
+      "notes": []
+    },
+    {
+      "path": "个人工具/U盘检查/.workbuddy/memory/2026-10-20.md",
+      "category": "个人工具",
+      "bytes": 5890,
+      "source_sha256": "9ef15b6d442e9be7cc2fa7b10128e5be61f1f56ac7232b3b5d9ee6900928a01a",
+      "archive_sha256": "9ef15b6d442e9be7cc2fa7b10128e5be61f1f56ac7232b3b5d9ee6900928a01a",
+      "notes": []
+    },
+    {
+      "path": "个人工具/U盘检查/FixCodexLaunch.bat",
+      "category": "个人工具",
+      "bytes": 554,
+      "source_sha256": "7ed211d50bd27b0123380eb10f5381d8736a28bc73f501f17a58798ce0c40cda",
+      "archive_sha256": "7ed211d50bd27b0123380eb10f5381d8736a28bc73f501f17a58798ce0c40cda",
+      "notes": []
+    },
+    {
+      "path": "个人工具/U盘检查/inspect_udisk.py",
+      "category": "个人工具",
+      "bytes": 1618,
+      "source_sha256": "626847b2ebb9c11051201275343cce397f900da644cb8ad9b9574bc15ed2e12f",
+      "archive_sha256": "626847b2ebb9c11051201275343cce397f900da644cb8ad9b9574bc15ed2e12f",
+      "notes": []
+    },
+    {
+      "path": "个人工具/U盘检查/quick_scan.py",
+      "category": "个人工具",
+      "bytes": 1670,
+      "source_sha256": "9a7515300c951cd2f62f1208d683941d55ada77edc5480154d8bbc8a4fcef743",
+      "archive_sha256": "9a7515300c951cd2f62f1208d683941d55ada77edc5480154d8bbc8a4fcef743",
+      "notes": []
+    },
+    {
+      "path": "个人工具/U盘检查/scan_udisk.py",
+      "category": "个人工具",
+      "bytes": 3124,
+      "source_sha256": "0d0a2065a141426aa06b97852278e5fe60851ddc7d7854b3ef4a9f27bd78b04c",
+      "archive_sha256": "0d0a2065a141426aa06b97852278e5fe60851ddc7d7854b3ef4a9f27bd78b04c",
+      "notes": []
+    },
+    {
+      "path": "个人工具/U盘检查/verify_udisk.py",
+      "category": "个人工具",
+      "bytes": 1481,
+      "source_sha256": "e9c7d00d01f3b8fa9c0c1c196f4eb47f0602ca50f92384397d7e58d8122c1e8a",
+      "archive_sha256": "e9c7d00d01f3b8fa9c0c1c196f4eb47f0602ca50f92384397d7e58d8122c1e8a",
+      "notes": []
+    },
+    {
+      "path": "个人工具/代理切换/Proxy-Control.ps1",
+      "category": "个人工具",
+      "bytes": 6032,
+      "source_sha256": "5add6ef2e3b2f53cf77a67d8fe110bf0a3e5aad876b766b4f6997e15683743fe",
+      "archive_sha256": "5add6ef2e3b2f53cf77a67d8fe110bf0a3e5aad876b766b4f6997e15683743fe",
+      "notes": []
+    },
+    {
+      "path": "个人工具/代理切换/切换与卸载结果.json",
+      "category": "个人工具",
+      "bytes": 581,
+      "source_sha256": "74693ddc5425bb5ca32fb4a5f7eb7c37388d6f9418310c0cdb7ff1fb83a0cb0a",
+      "archive_sha256": "74693ddc5425bb5ca32fb4a5f7eb7c37388d6f9418310c0cdb7ff1fb83a0cb0a",
+      "notes": []
+    },
+    {
+      "path": "个人工具/代理切换/切换前代理备份.json",
+      "category": "个人工具",
+      "bytes": 2720,
+      "source_sha256": "49aa1aa62d7a15824e4dd1049ded2cfc5be2d77bc673b163895dfcd4a649ce10",
+      "archive_sha256": "49aa1aa62d7a15824e4dd1049ded2cfc5be2d77bc673b163895dfcd4a649ce10",
+      "notes": []
+    },
+    {
+      "path": "个人工具/代理切换/切换说明.md",
+      "category": "个人工具",
+      "bytes": 2065,
+      "source_sha256": "2925d3e101ef67e988fb6e9f7b82c85d68e222893b6c235b60782d04644e268d",
+      "archive_sha256": "2925d3e101ef67e988fb6e9f7b82c85d68e222893b6c235b60782d04644e268d",
+      "notes": []
+    },
+    {
+      "path": "个人工具/代理切换/恢复原Clash代理.cmd",
+      "category": "个人工具",
+      "bytes": 158,
+      "source_sha256": "71af893ed2464c272a6306468d8c2d64ca08a0197e174b2bdffb73ba31c12005",
+      "archive_sha256": "71af893ed2464c272a6306468d8c2d64ca08a0197e174b2bdffb73ba31c12005",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/Cleaner.Core.ps1",
+      "category": "个人工具",
+      "bytes": 11646,
+      "source_sha256": "3aca5a6060d16f7f0243aa57d88dbaa88a46d155e1ac36d7ec8b168f9b618283",
+      "archive_sha256": "3aca5a6060d16f7f0243aa57d88dbaa88a46d155e1ac36d7ec8b168f9b618283",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/Cleaner.ps1",
+      "category": "个人工具",
+      "bytes": 10633,
+      "source_sha256": "a5a8a72c2dd27eb383d6e65329aa2922f12c0f6e469d8d73ea569cd1c95d71f0",
+      "archive_sha256": "a5a8a72c2dd27eb383d6e65329aa2922f12c0f6e469d8d73ea569cd1c95d71f0",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/最新检查报告.md",
+      "category": "个人工具",
+      "bytes": 886,
+      "source_sha256": "8281b0713348ff44f0441dbbd0e257e00ac9654babec724bd14b5c9c8d6fd244",
+      "archive_sha256": "8281b0713348ff44f0441dbbd0e257e00ac9654babec724bd14b5c9c8d6fd244",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111036-354-文件.csv",
+      "category": "个人工具",
+      "bytes": 1981918,
+      "source_sha256": "7f380f16fd56f3a77d968e7c49337d6356509c334d58deca0e0cf56e2d6c310b",
+      "archive_sha256": "7f380f16fd56f3a77d968e7c49337d6356509c334d58deca0e0cf56e2d6c310b",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111036-354-汇总.csv",
+      "category": "个人工具",
+      "bytes": 4135,
+      "source_sha256": "bda8f1d771f19bcddfc860b3f157d58da8355cfca4e25a3503cc815c38bbd86f",
+      "archive_sha256": "bda8f1d771f19bcddfc860b3f157d58da8355cfca4e25a3503cc815c38bbd86f",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111036-354.json",
+      "category": "个人工具",
+      "bytes": 9804,
+      "source_sha256": "4340476b080fa9844c1c40fe8219737039310d3c74c1ae342b26a0ef65a28c09",
+      "archive_sha256": "4340476b080fa9844c1c40fe8219737039310d3c74c1ae342b26a0ef65a28c09",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111036-354.md",
+      "category": "个人工具",
+      "bytes": 2499,
+      "source_sha256": "e14b37949cd9cced783e7c97bc7be46222df5f4c6d21f0f02daee7eb71bb448c",
+      "archive_sha256": "e14b37949cd9cced783e7c97bc7be46222df5f4c6d21f0f02daee7eb71bb448c",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111236-040-文件.csv",
+      "category": "个人工具",
+      "bytes": 1996578,
+      "source_sha256": "d12cc4cd642f9f0cf2fdac19a7413eebc484409c4e6a0b53f8f2162bc2ddd972",
+      "archive_sha256": "d12cc4cd642f9f0cf2fdac19a7413eebc484409c4e6a0b53f8f2162bc2ddd972",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111236-040-汇总.csv",
+      "category": "个人工具",
+      "bytes": 5014,
+      "source_sha256": "cc0f3196418f9ac08d44772fcbe7369e68c878e54bb30e1b71d522fe01b0f5b0",
+      "archive_sha256": "cc0f3196418f9ac08d44772fcbe7369e68c878e54bb30e1b71d522fe01b0f5b0",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111236-040.json",
+      "category": "个人工具",
+      "bytes": 19734,
+      "source_sha256": "0399bfc98e7df474d70a9a57afc033ccff606e3525180417b34f2124d3a3e131",
+      "archive_sha256": "0399bfc98e7df474d70a9a57afc033ccff606e3525180417b34f2124d3a3e131",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111236-040.md",
+      "category": "个人工具",
+      "bytes": 2929,
+      "source_sha256": "4428f5ebc24cfe171ce80f7329d8a4bdc2630f1ed21770b5ea30370aee5083fb",
+      "archive_sha256": "4428f5ebc24cfe171ce80f7329d8a4bdc2630f1ed21770b5ea30370aee5083fb",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111344-499-文件.csv",
+      "category": "个人工具",
+      "bytes": 1996578,
+      "source_sha256": "e420fc4148f3e85fe9665ee43673b24ada7a5cabd4746d06555931b9a7eadf81",
+      "archive_sha256": "e420fc4148f3e85fe9665ee43673b24ada7a5cabd4746d06555931b9a7eadf81",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111344-499-汇总.csv",
+      "category": "个人工具",
+      "bytes": 5014,
+      "source_sha256": "bfd6ab8ca28792e58dc0441f076b5c40b5e587f58078d80e17a89058a6fdac89",
+      "archive_sha256": "bfd6ab8ca28792e58dc0441f076b5c40b5e587f58078d80e17a89058a6fdac89",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111344-499.json",
+      "category": "个人工具",
+      "bytes": 19734,
+      "source_sha256": "c1baab8835fb3c0d6cb411ae76b22f2134d6614344a4834827804e131ba3ee70",
+      "archive_sha256": "c1baab8835fb3c0d6cb411ae76b22f2134d6614344a4834827804e131ba3ee70",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111344-499.md",
+      "category": "个人工具",
+      "bytes": 2929,
+      "source_sha256": "2c26869b46a3d7860d30cd3d5ebf0df2f9536bed9227c32b04bd1667658174c8",
+      "archive_sha256": "2c26869b46a3d7860d30cd3d5ebf0df2f9536bed9227c32b04bd1667658174c8",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111409-585-文件.csv",
+      "category": "个人工具",
+      "bytes": 1996587,
+      "source_sha256": "cd47edfdd204abd52d964cd153f9994618566334fb5b5a3b4f6547821c94e304",
+      "archive_sha256": "cd47edfdd204abd52d964cd153f9994618566334fb5b5a3b4f6547821c94e304",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111409-585-汇总.csv",
+      "category": "个人工具",
+      "bytes": 5014,
+      "source_sha256": "73fe82b6c883ef9d5d8aedbdac502cd70b94ac099bbf68e8e4b4e60be0abc85a",
+      "archive_sha256": "73fe82b6c883ef9d5d8aedbdac502cd70b94ac099bbf68e8e4b4e60be0abc85a",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111409-585.json",
+      "category": "个人工具",
+      "bytes": 19734,
+      "source_sha256": "c4ca3faa3f1ab3ad99d10d2bb05bc6bb59fc79f83ea232ffe503d8408bf31af5",
+      "archive_sha256": "c4ca3faa3f1ab3ad99d10d2bb05bc6bb59fc79f83ea232ffe503d8408bf31af5",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-111409-585.md",
+      "category": "个人工具",
+      "bytes": 2929,
+      "source_sha256": "4243afdb93fcb3ab5ebc32bfdb58c00c7e2fa1e6d7952172bcff42add84d48cd",
+      "archive_sha256": "4243afdb93fcb3ab5ebc32bfdb58c00c7e2fa1e6d7952172bcff42add84d48cd",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-200001-747-文件.csv",
+      "category": "个人工具",
+      "bytes": 55500,
+      "source_sha256": "dfb23413c0cc30597d5206875170573b2f26a5b15c033c151403a633fb2a3724",
+      "archive_sha256": "dfb23413c0cc30597d5206875170573b2f26a5b15c033c151403a633fb2a3724",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-200001-747-汇总.csv",
+      "category": "个人工具",
+      "bytes": 399,
+      "source_sha256": "ff35781f33d2599851b05a51f0312c18856f6142793f351401b8ae5072e623db",
+      "archive_sha256": "ff35781f33d2599851b05a51f0312c18856f6142793f351401b8ae5072e623db",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-200001-747.json",
+      "category": "个人工具",
+      "bytes": 1383,
+      "source_sha256": "05e230d75728d68b3ee24d109a5eb5da5e37198d006b1b50885c24c5c55816f5",
+      "archive_sha256": "05e230d75728d68b3ee24d109a5eb5da5e37198d006b1b50885c24c5c55816f5",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261011-200001-747.md",
+      "category": "个人工具",
+      "bytes": 786,
+      "source_sha256": "de19133ace01bdc0e1e92b92de5cb8ee779814d4ece82481364b8d8a3e84ab65",
+      "archive_sha256": "de19133ace01bdc0e1e92b92de5cb8ee779814d4ece82481364b8d8a3e84ab65",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261018-200001-789-文件.csv",
+      "category": "个人工具",
+      "bytes": 132900,
+      "source_sha256": "f38f8369cf63472339ce5eec2de52e863ab8e19be070cbf030cd16f683e16bc5",
+      "archive_sha256": "f38f8369cf63472339ce5eec2de52e863ab8e19be070cbf030cd16f683e16bc5",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261018-200001-789-汇总.csv",
+      "category": "个人工具",
+      "bytes": 398,
+      "source_sha256": "4bcbddf9f80e758003508a2ad68c486317e98a65652fd3c8dd3aa6e5630703e8",
+      "archive_sha256": "4bcbddf9f80e758003508a2ad68c486317e98a65652fd3c8dd3aa6e5630703e8",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261018-200001-789.json",
+      "category": "个人工具",
+      "bytes": 1382,
+      "source_sha256": "91b522bc964594b2b2a34758bd5da6fbb49c30095ebc32f8623cdef4e2c5032c",
+      "archive_sha256": "91b522bc964594b2b2a34758bd5da6fbb49c30095ebc32f8623cdef4e2c5032c",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261018-200001-789.md",
+      "category": "个人工具",
+      "bytes": 785,
+      "source_sha256": "9d74a03b9353bfece77edf3794198e40b1424c109faa186a99d3833d7a8139d9",
+      "archive_sha256": "9d74a03b9353bfece77edf3794198e40b1424c109faa186a99d3833d7a8139d9",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261025-200002-531-文件.csv",
+      "category": "个人工具",
+      "bytes": 239347,
+      "source_sha256": "f4a4ee66d7f865e18b1ef7635db5ed42494f7b0d890cc1aeb290673b65d8acfa",
+      "archive_sha256": "f4a4ee66d7f865e18b1ef7635db5ed42494f7b0d890cc1aeb290673b65d8acfa",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261025-200002-531-汇总.csv",
+      "category": "个人工具",
+      "bytes": 405,
+      "source_sha256": "2ca48655a92673e3da2db150f8792afb99327d0b31c619f7b7f2b33da7fee31b",
+      "archive_sha256": "2ca48655a92673e3da2db150f8792afb99327d0b31c619f7b7f2b33da7fee31b",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261025-200002-531.json",
+      "category": "个人工具",
+      "bytes": 1389,
+      "source_sha256": "a4a80d08af8ede693664d14af8e0e561762f899a6c213d2786b58d2d679c0387",
+      "archive_sha256": "a4a80d08af8ede693664d14af8e0e561762f899a6c213d2786b58d2d679c0387",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261025-200002-531.md",
+      "category": "个人工具",
+      "bytes": 790,
+      "source_sha256": "d71b5aa2c3b8c7581f7c64e66c360569e0e988a2b9f27bcea942ed96f4433aa0",
+      "archive_sha256": "d71b5aa2c3b8c7581f7c64e66c360569e0e988a2b9f27bcea942ed96f4433aa0",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261101-200002-212-文件.csv",
+      "category": "个人工具",
+      "bytes": 20835,
+      "source_sha256": "bcc2a1b76e7db87de3e57eeb13de9c88b6f3de79454bce98ae90677acc4f622f",
+      "archive_sha256": "bcc2a1b76e7db87de3e57eeb13de9c88b6f3de79454bce98ae90677acc4f622f",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261101-200002-212-汇总.csv",
+      "category": "个人工具",
+      "bytes": 400,
+      "source_sha256": "b38223601f0893617ea8ff2168e40885081d4a542074d94584f0ffe0a8a13d3d",
+      "archive_sha256": "b38223601f0893617ea8ff2168e40885081d4a542074d94584f0ffe0a8a13d3d",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261101-200002-212.json",
+      "category": "个人工具",
+      "bytes": 1384,
+      "source_sha256": "66f2f8854c32842afd4c031cf52ca3b8f4072bebc04802b14aa2a3e978164deb",
+      "archive_sha256": "66f2f8854c32842afd4c031cf52ca3b8f4072bebc04802b14aa2a3e978164deb",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261101-200002-212.md",
+      "category": "个人工具",
+      "bytes": 786,
+      "source_sha256": "15737bc08509bb88c7d18605251e1a010df90a1edc0838701748b42129b6b051",
+      "archive_sha256": "15737bc08509bb88c7d18605251e1a010df90a1edc0838701748b42129b6b051",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261108-200001-610-文件.csv",
+      "category": "个人工具",
+      "bytes": 140901,
+      "source_sha256": "319ebd6d4c32f80a4611c603e4100e699b905f4a7ffe155a41066641cbc5aad4",
+      "archive_sha256": "319ebd6d4c32f80a4611c603e4100e699b905f4a7ffe155a41066641cbc5aad4",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261108-200001-610-汇总.csv",
+      "category": "个人工具",
+      "bytes": 406,
+      "source_sha256": "be7d681e8f3fc5f1cc521e25026247c742008087b1eb8aadae24ab34548d0b1f",
+      "archive_sha256": "be7d681e8f3fc5f1cc521e25026247c742008087b1eb8aadae24ab34548d0b1f",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261108-200001-610.json",
+      "category": "个人工具",
+      "bytes": 1390,
+      "source_sha256": "41503d26f07ca08a9eca915835c19165ad12b58570e5797a369efd5b915a1b9c",
+      "archive_sha256": "41503d26f07ca08a9eca915835c19165ad12b58570e5797a369efd5b915a1b9c",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261108-200001-610.md",
+      "category": "个人工具",
+      "bytes": 790,
+      "source_sha256": "5548288d54bd6e0c90fa729cb913f092da0e464de188f70b617a06c511734bd0",
+      "archive_sha256": "5548288d54bd6e0c90fa729cb913f092da0e464de188f70b617a06c511734bd0",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261116-104631-300-文件.csv",
+      "category": "个人工具",
+      "bytes": 243221,
+      "source_sha256": "5a4d732c9c45f751ce301c9fc9cb24abcb54d271d3e18841960b7d0dd06487ab",
+      "archive_sha256": "5a4d732c9c45f751ce301c9fc9cb24abcb54d271d3e18841960b7d0dd06487ab",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261116-104631-300-汇总.csv",
+      "category": "个人工具",
+      "bytes": 413,
+      "source_sha256": "31f4c1573b3229bf42ab5a8309ab40620b1ad3fc63fb78292917240eab63c277",
+      "archive_sha256": "31f4c1573b3229bf42ab5a8309ab40620b1ad3fc63fb78292917240eab63c277",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261116-104631-300.json",
+      "category": "个人工具",
+      "bytes": 1397,
+      "source_sha256": "4ed002745ac4a2ecda7a5105728fb92189cf7c8185fe12c734c61a070b16f3cf",
+      "archive_sha256": "4ed002745ac4a2ecda7a5105728fb92189cf7c8185fe12c734c61a070b16f3cf",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/reports/检查-20261116-104631-300.md",
+      "category": "个人工具",
+      "bytes": 886,
+      "source_sha256": "8281b0713348ff44f0441dbbd0e257e00ac9654babec724bd14b5c9c8d6fd244",
+      "archive_sha256": "8281b0713348ff44f0441dbbd0e257e00ac9654babec724bd14b5c9c8d6fd244",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/使用说明.md",
+      "category": "个人工具",
+      "bytes": 2717,
+      "source_sha256": "50a3b19b8a93121765505fc1d48fa6c54f9ba962aea81b009747a4f56655a870",
+      "archive_sha256": "50a3b19b8a93121765505fc1d48fa6c54f9ba962aea81b009747a4f56655a870",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/关闭自动清理.cmd",
+      "category": "个人工具",
+      "bytes": 159,
+      "source_sha256": "42cee39b9c872e8dd19276c3cfbb7f1fbf58dc1d0083d3bc7017d879d920b561",
+      "archive_sha256": "42cee39b9c872e8dd19276c3cfbb7f1fbf58dc1d0083d3bc7017d879d920b561",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/只检查不清理.cmd",
+      "category": "个人工具",
+      "bytes": 149,
+      "source_sha256": "8420fdbcd9d988e7611034a0c0a316da2eda460900182c47fef54f3922b9d66e",
+      "archive_sha256": "8420fdbcd9d988e7611034a0c0a316da2eda460900182c47fef54f3922b9d66e",
+      "notes": []
+    },
+    {
+      "path": "个人工具/定时垃圾清理/启动清理程序.cmd",
+      "category": "个人工具",
+      "bytes": 169,
+      "source_sha256": "516df43518873de8dcaacab026f83677aceea3702e453a63dec8259d619f7848",
+      "archive_sha256": "516df43518873de8dcaacab026f83677aceea3702e453a63dec8259d619f7848",
+      "notes": []
+    },
+    {
+      "path": "个人工具/文件与目录/Complete-CodexStorageMigration.ps1",
+      "category": "个人工具",
+      "bytes": 7797,
+      "source_sha256": "69efc6a2be9c23d636344533d61bb8a8edea46d85a889cb495f1128cdb67a89f",
+      "archive_sha256": "69efc6a2be9c23d636344533d61bb8a8edea46d85a889cb495f1128cdb67a89f",
+      "notes": []
+    },
+    {
+      "path": "个人工具/文件与目录/find-directory-locks.ps1",
+      "category": "个人工具",
+      "bytes": 4845,
+      "source_sha256": "88bd9d33638b226ce81f1a7c7fa115e2fb15cdc3131f9e56cb7c842f5d8629da",
+      "archive_sha256": "88bd9d33638b226ce81f1a7c7fa115e2fb15cdc3131f9e56cb7c842f5d8629da",
+      "notes": []
+    },
+    {
+      "path": "个人工具/文件与目录/junction-helper.ps1",
+      "category": "个人工具",
+      "bytes": 3247,
+      "source_sha256": "61d53ab4055a76443248f4591986835ac56c298d024156d9d7d650bfc2ab6aaf",
+      "archive_sha256": "61d53ab4055a76443248f4591986835ac56c298d024156d9d7d650bfc2ab6aaf",
+      "notes": []
+    },
+    {
+      "path": "个人工具/课程资料/SKILL.md",
+      "category": "个人工具",
+      "bytes": 6577,
+      "source_sha256": "fcee8fe7841509d5868c138725ecd53d2789b7306446802345ced5264cff3e44",
+      "archive_sha256": "fcee8fe7841509d5868c138725ecd53d2789b7306446802345ced5264cff3e44",
+      "notes": []
+    },
+    {
+      "path": "个人工具/课程资料/agents/openai.yaml",
+      "category": "个人工具",
+      "bytes": 367,
+      "source_sha256": "5b748f56164c05dbbc216c852d991c8e50cc37c88a42c0887e18f238d4a50e71",
+      "archive_sha256": "5b748f56164c05dbbc216c852d991c8e50cc37c88a42c0887e18f238d4a50e71",
+      "notes": []
+    },
+    {
+      "path": "个人工具/课程资料/references/coding-courses.md",
+      "category": "个人工具",
+      "bytes": 7334,
+      "source_sha256": "135e313012d84e1680e4e4eecdc2d47c9c351ffdb5a0073384117996a0dadb80",
+      "archive_sha256": "135e313012d84e1680e4e4eecdc2d47c9c351ffdb5a0073384117996a0dadb80",
+      "notes": []
+    },
+    {
+      "path": "个人工具/课程资料/references/local-workflow.md",
+      "category": "个人工具",
+      "bytes": 3783,
+      "source_sha256": "d3671854f144d2e303f4a45548eac98eb4db08e92f562e25d4afd9ba522f1428",
+      "archive_sha256": "d3671854f144d2e303f4a45548eac98eb4db08e92f562e25d4afd9ba522f1428",
+      "notes": []
+    },
+    {
+      "path": "个人工具/课程资料/scripts/fetch_bilibili.py",
+      "category": "个人工具",
+      "bytes": 7009,
+      "source_sha256": "ff5716d9ddcf949e75002e7b7f11ac896afb6ebe3aa221991adc3213d23a85ac",
+      "archive_sha256": "ff5716d9ddcf949e75002e7b7f11ac896afb6ebe3aa221991adc3213d23a85ac",
+      "notes": []
+    },
+    {
+      "path": "个人工具/课程资料/scripts/get_edge_course.ps1",
+      "category": "个人工具",
+      "bytes": 2103,
+      "source_sha256": "2283592e9c11bcee1705a3ffc5b5ee49c437843099c64b7cfd53c24da9ef5f05",
+      "archive_sha256": "2283592e9c11bcee1705a3ffc5b5ee49c437843099c64b7cfd53c24da9ef5f05",
+      "notes": []
+    },
+    {
+      "path": "个人工具/课程资料/scripts/transcribe_local.py",
+      "category": "个人工具",
+      "bytes": 3964,
+      "source_sha256": "a53d9f7d4bef24cafdb967fee01d7bf2600fad04d91d6cc9d12eb507b378ccee",
+      "archive_sha256": "a53d9f7d4bef24cafdb967fee01d7bf2600fad04d91d6cc9d12eb507b378ccee",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/.gitignore",
+      "category": "个人项目",
+      "bytes": 824,
+      "source_sha256": "65c950beefe57952cd630bb6ae071b0302279c9b97d9ee8517ea6d2f4cd0b4f2",
+      "archive_sha256": "65c950beefe57952cd630bb6ae071b0302279c9b97d9ee8517ea6d2f4cd0b4f2",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/UPDATE_WORKFLOW.md",
+      "category": "个人项目",
+      "bytes": 3531,
+      "source_sha256": "2acac18bc76cf47ad7cc8f0fd00acc74e7f57a8c12d9c68deee023c4d5535f4b",
+      "archive_sha256": "2acac18bc76cf47ad7cc8f0fd00acc74e7f57a8c12d9c68deee023c4d5535f4b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/USAGE.md",
+      "category": "个人项目",
+      "bytes": 2581,
+      "source_sha256": "f46179ea026427b0998b98ce58f2ba255130ad5e1db74678749e813816a17a9d",
+      "archive_sha256": "f46179ea026427b0998b98ce58f2ba255130ad5e1db74678749e813816a17a9d",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/app/api/documents/route.ts",
+      "category": "个人项目",
+      "bytes": 530,
+      "source_sha256": "f02ba91654b8c2fab3342eacc1ccecbe72e56fa0a826f5f16a20545755e74dd2",
+      "archive_sha256": "f02ba91654b8c2fab3342eacc1ccecbe72e56fa0a826f5f16a20545755e74dd2",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/app/api/import/route.ts",
+      "category": "个人项目",
+      "bytes": 3279,
+      "source_sha256": "f3649786ce1e530c46a60bf7db706c6a806f10fbbc4dcf10e8e8435fdd753a15",
+      "archive_sha256": "f3649786ce1e530c46a60bf7db706c6a806f10fbbc4dcf10e8e8435fdd753a15",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/app/api/refresh/route.ts",
+      "category": "个人项目",
+      "bytes": 753,
+      "source_sha256": "94ac84f465f81ab9c50101e4cada68aa280597928327e119b3526eefc006a9db",
+      "archive_sha256": "94ac84f465f81ab9c50101e4cada68aa280597928327e119b3526eefc006a9db",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/app/api/schedule/route.ts",
+      "category": "个人项目",
+      "bytes": 1034,
+      "source_sha256": "953e0709698f53a0fbf521c44ae65a8892d439c6f0bfdca25b7012a0c53fa7d7",
+      "archive_sha256": "953e0709698f53a0fbf521c44ae65a8892d439c6f0bfdca25b7012a0c53fa7d7",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/app/chatgpt-auth.ts",
+      "category": "个人项目",
+      "bytes": 2550,
+      "source_sha256": "4265a2e7c2dcb3a6f4b7026f762bf5b6e4caec76cc13c0a45987ee9a9f2e42cc",
+      "archive_sha256": "4265a2e7c2dcb3a6f4b7026f762bf5b6e4caec76cc13c0a45987ee9a9f2e42cc",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/app/globals.css",
+      "category": "个人项目",
+      "bytes": 21390,
+      "source_sha256": "7cf3b1abf645d91ab33034c301c388e5d6ff3a57573c0f05f3edd388b9db0e7b",
+      "archive_sha256": "7cf3b1abf645d91ab33034c301c388e5d6ff3a57573c0f05f3edd388b9db0e7b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/app/layout.tsx",
+      "category": "个人项目",
+      "bytes": 576,
+      "source_sha256": "47e754f8ca6a28d3b4b70c11af637ae003dae11b0a4d37cddcbb266f35110c21",
+      "archive_sha256": "47e754f8ca6a28d3b4b70c11af637ae003dae11b0a4d37cddcbb266f35110c21",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/app/page.tsx",
+      "category": "个人项目",
+      "bytes": 21979,
+      "source_sha256": "17eb9cbff886207ddbcac81f9432feb210af977afff5ccc8b4402272f8953437",
+      "archive_sha256": "17eb9cbff886207ddbcac81f9432feb210af977afff5ccc8b4402272f8953437",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/cloudflare-env.d.ts",
+      "category": "个人项目",
+      "bytes": 99,
+      "source_sha256": "8b0eca84aa3364cc7ccc43cc3af6beb88dd34ebd410de08690bf094ce39fbcb0",
+      "archive_sha256": "8b0eca84aa3364cc7ccc43cc3af6beb88dd34ebd410de08690bf094ce39fbcb0",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components.json",
+      "category": "个人项目",
+      "bytes": 420,
+      "source_sha256": "31f4ca67a4a62572571003d3d5aac85ee6fbfca67a192924bac6b168d95e98fd",
+      "archive_sha256": "31f4ca67a4a62572571003d3d5aac85ee6fbfca67a192924bac6b168d95e98fd",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/connector-error.tsx",
+      "category": "个人项目",
+      "bytes": 1082,
+      "source_sha256": "2d0d04559952ce9c9a327cca499f4b99f35d885cccfce375230e116695d3f155",
+      "archive_sha256": "2d0d04559952ce9c9a327cca499f4b99f35d885cccfce375230e116695d3f155",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/accordion.tsx",
+      "category": "个人项目",
+      "bytes": 2048,
+      "source_sha256": "a4f153089ba886dfcf73fac26b5c01ca933fa12fbe88df6fb723912bfffdfbb0",
+      "archive_sha256": "a4f153089ba886dfcf73fac26b5c01ca933fa12fbe88df6fb723912bfffdfbb0",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/alert-dialog.tsx",
+      "category": "个人项目",
+      "bytes": 5439,
+      "source_sha256": "9a8d950f2b9b4352d5ebb762fb44d5c28c2d353aa29712071973656a8736e311",
+      "archive_sha256": "9a8d950f2b9b4352d5ebb762fb44d5c28c2d353aa29712071973656a8736e311",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/alert.tsx",
+      "category": "个人项目",
+      "bytes": 1614,
+      "source_sha256": "2cc59b5f7bda91c1670884b1bf46bfc8a2a6f226cef184f5762acc037188885b",
+      "archive_sha256": "2cc59b5f7bda91c1670884b1bf46bfc8a2a6f226cef184f5762acc037188885b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/aspect-ratio.tsx",
+      "category": "个人项目",
+      "bytes": 274,
+      "source_sha256": "b1c157886236782cb92d8fbcd4749532aaf6d8aabefd6e157ca40358f902f407",
+      "archive_sha256": "b1c157886236782cb92d8fbcd4749532aaf6d8aabefd6e157ca40358f902f407",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/attachment.tsx",
+      "category": "个人项目",
+      "bytes": 6002,
+      "source_sha256": "ae8a25dd1a896d3964e3ef54d97e51221b418cde287dfd794428b89951c5c790",
+      "archive_sha256": "ae8a25dd1a896d3964e3ef54d97e51221b418cde287dfd794428b89951c5c790",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/avatar.tsx",
+      "category": "个人项目",
+      "bytes": 2916,
+      "source_sha256": "58a846bf1617b94b9681921db9b8461d0145f311424663d11678a06b6153cb34",
+      "archive_sha256": "58a846bf1617b94b9681921db9b8461d0145f311424663d11678a06b6153cb34",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/badge.tsx",
+      "category": "个人项目",
+      "bytes": 1776,
+      "source_sha256": "46a0de5224f6a5d5d63d45246534288518dce888f031064bff925bbc7fe6ad97",
+      "archive_sha256": "46a0de5224f6a5d5d63d45246534288518dce888f031064bff925bbc7fe6ad97",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/breadcrumb.tsx",
+      "category": "个人项目",
+      "bytes": 2350,
+      "source_sha256": "d4c0831bba2212e778248f54a6ace6ef378df8bba4616d1abf27787a31eabae5",
+      "archive_sha256": "d4c0831bba2212e778248f54a6ace6ef378df8bba4616d1abf27787a31eabae5",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/bubble.tsx",
+      "category": "个人项目",
+      "bytes": 4699,
+      "source_sha256": "870cc0c5cfc8a515053f7e41e706a6bd017a909b45f1305fd3b164a52cc4483b",
+      "archive_sha256": "870cc0c5cfc8a515053f7e41e706a6bd017a909b45f1305fd3b164a52cc4483b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/button-group.tsx",
+      "category": "个人项目",
+      "bytes": 2202,
+      "source_sha256": "784c89d8ee683e1bc972ae69e6ea8225a7f63abe22aa1b5fc3423ae8a2a399c0",
+      "archive_sha256": "784c89d8ee683e1bc972ae69e6ea8225a7f63abe22aa1b5fc3423ae8a2a399c0",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/button.tsx",
+      "category": "个人项目",
+      "bytes": 2392,
+      "source_sha256": "cc36af0f8b5019c33cc039fbf03bb952a513072b15b55b53c592b78af3e5f4c4",
+      "archive_sha256": "cc36af0f8b5019c33cc039fbf03bb952a513072b15b55b53c592b78af3e5f4c4",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/calendar.tsx",
+      "category": "个人项目",
+      "bytes": 7832,
+      "source_sha256": "3855fbe0d3f8ad3a4b93071f98b76a9f6782d46ec8b05f5d2ddbee1e4e39bc84",
+      "archive_sha256": "3855fbe0d3f8ad3a4b93071f98b76a9f6782d46ec8b05f5d2ddbee1e4e39bc84",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/card.tsx",
+      "category": "个人项目",
+      "bytes": 1987,
+      "source_sha256": "c48dd3b96be90a7066f1aebf294f0af9d00ebcdc367d5d4aca55429ade570c1c",
+      "archive_sha256": "c48dd3b96be90a7066f1aebf294f0af9d00ebcdc367d5d4aca55429ade570c1c",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/carousel.tsx",
+      "category": "个人项目",
+      "bytes": 5556,
+      "source_sha256": "b7ea0dda3903d972c186f739e23da61f547bc83b5a0bf13b16856577846d5fc3",
+      "archive_sha256": "b7ea0dda3903d972c186f739e23da61f547bc83b5a0bf13b16856577846d5fc3",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/chart.tsx",
+      "category": "个人项目",
+      "bytes": 10614,
+      "source_sha256": "45aa5ea4a386f4fb5b8869ff4bab3a08cf89255190ee322043baf84c3e950b6a",
+      "archive_sha256": "45aa5ea4a386f4fb5b8869ff4bab3a08cf89255190ee322043baf84c3e950b6a",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/checkbox.tsx",
+      "category": "个人项目",
+      "bytes": 1214,
+      "source_sha256": "b23ab9d4deeedf2ac8f512c368361ede681aa383437ef48563a6f9b7dbe95f27",
+      "archive_sha256": "b23ab9d4deeedf2ac8f512c368361ede681aa383437ef48563a6f9b7dbe95f27",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/collapsible.tsx",
+      "category": "个人项目",
+      "bytes": 795,
+      "source_sha256": "c6598e5584f4258b5d9fefadbc5ad6a66888ad58729f4b634a0bb2d9c513188b",
+      "archive_sha256": "c6598e5584f4258b5d9fefadbc5ad6a66888ad58729f4b634a0bb2d9c513188b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/combobox.tsx",
+      "category": "个人项目",
+      "bytes": 9158,
+      "source_sha256": "2d68e78b2dc7e38a085f222dede60a80b4f8229a6e91732c484605e204d46735",
+      "archive_sha256": "2d68e78b2dc7e38a085f222dede60a80b4f8229a6e91732c484605e204d46735",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/command.tsx",
+      "category": "个人项目",
+      "bytes": 4818,
+      "source_sha256": "361193df1e3d64a9e9b5048f045264782fcb387aab3f00f2b805fdcbf538b16a",
+      "archive_sha256": "361193df1e3d64a9e9b5048f045264782fcb387aab3f00f2b805fdcbf538b16a",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/context-menu.tsx",
+      "category": "个人项目",
+      "bytes": 8268,
+      "source_sha256": "2cf1fcf59df0649a3e2a126d1df2f639145f6b6bf5689ee54af1f40ab1245017",
+      "archive_sha256": "2cf1fcf59df0649a3e2a126d1df2f639145f6b6bf5689ee54af1f40ab1245017",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/dialog.tsx",
+      "category": "个人项目",
+      "bytes": 4303,
+      "source_sha256": "dce39c6adc47d997bd2567f8b7a72f466b0134715105cd42f9194007b8ecdb14",
+      "archive_sha256": "dce39c6adc47d997bd2567f8b7a72f466b0134715105cd42f9194007b8ecdb14",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/direction.tsx",
+      "category": "个人项目",
+      "bytes": 506,
+      "source_sha256": "84ae2ad658207f0e0f367978e5508cd8027cd00c29c41d3d13db21a708c3d1e6",
+      "archive_sha256": "84ae2ad658207f0e0f367978e5508cd8027cd00c29c41d3d13db21a708c3d1e6",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/drawer.tsx",
+      "category": "个人项目",
+      "bytes": 4255,
+      "source_sha256": "cb6eaf58eb0757ca91af284e5d925b89a42ad7eb19cb3f44c575a3487aa9350f",
+      "archive_sha256": "cb6eaf58eb0757ca91af284e5d925b89a42ad7eb19cb3f44c575a3487aa9350f",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/dropdown-menu.tsx",
+      "category": "个人项目",
+      "bytes": 8418,
+      "source_sha256": "98f0dcdae38225b73734aceeb9213dd751fea2c72ea520df31003cd133deac8a",
+      "archive_sha256": "98f0dcdae38225b73734aceeb9213dd751fea2c72ea520df31003cd133deac8a",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/empty.tsx",
+      "category": "个人项目",
+      "bytes": 2396,
+      "source_sha256": "ae95bdcf367a076ae02e7925f14522a148798f72d9651749c6d55497dba584c0",
+      "archive_sha256": "ae95bdcf367a076ae02e7925f14522a148798f72d9651749c6d55497dba584c0",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/field.tsx",
+      "category": "个人项目",
+      "bytes": 6159,
+      "source_sha256": "ba67d76f017ac059fc86cf8c344e0b2991c4322d3619e125498c19b87f6eefbd",
+      "archive_sha256": "ba67d76f017ac059fc86cf8c344e0b2991c4322d3619e125498c19b87f6eefbd",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/form.tsx",
+      "category": "个人项目",
+      "bytes": 3757,
+      "source_sha256": "315b46bb75ab7d1c6061b5d750aa4bedf6e7a455e15e2d7f9182f053d5972b1e",
+      "archive_sha256": "315b46bb75ab7d1c6061b5d750aa4bedf6e7a455e15e2d7f9182f053d5972b1e",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/hover-card.tsx",
+      "category": "个人项目",
+      "bytes": 1526,
+      "source_sha256": "f5d8df42c59370ec14d61bcc54f7d68e9bb7dfa0d6a872b2f7cffc2aafbf23b8",
+      "archive_sha256": "f5d8df42c59370ec14d61bcc54f7d68e9bb7dfa0d6a872b2f7cffc2aafbf23b8",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/input-group.tsx",
+      "category": "个人项目",
+      "bytes": 5065,
+      "source_sha256": "6afbd58fea4c438e6252dc4568bddc122e84ababead4ad5cee50ace01100c9a0",
+      "archive_sha256": "6afbd58fea4c438e6252dc4568bddc122e84ababead4ad5cee50ace01100c9a0",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/input-otp.tsx",
+      "category": "个人项目",
+      "bytes": 2254,
+      "source_sha256": "161946daa89f0eda2575b9271c0494e35807c4ffb55598a49f67160c17fec299",
+      "archive_sha256": "161946daa89f0eda2575b9271c0494e35807c4ffb55598a49f67160c17fec299",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/input.tsx",
+      "category": "个人项目",
+      "bytes": 962,
+      "source_sha256": "8c4612a7c41319ac5049daa3b34b080f9784b6245c17780eb87c127e58e473db",
+      "archive_sha256": "8c4612a7c41319ac5049daa3b34b080f9784b6245c17780eb87c127e58e473db",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/item.tsx",
+      "category": "个人项目",
+      "bytes": 4486,
+      "source_sha256": "6e2144d6d87142dbbe56d568810bf546318c8aa661447ebb0d76ebbf382cb45f",
+      "archive_sha256": "6e2144d6d87142dbbe56d568810bf546318c8aa661447ebb0d76ebbf382cb45f",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/kbd.tsx",
+      "category": "个人项目",
+      "bytes": 862,
+      "source_sha256": "6088c3a5432338b1719c17e9b5d0e1fa74fd1f66060f248fc88909d33a82cd13",
+      "archive_sha256": "6088c3a5432338b1719c17e9b5d0e1fa74fd1f66060f248fc88909d33a82cd13",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/label.tsx",
+      "category": "个人项目",
+      "bytes": 606,
+      "source_sha256": "a476e41f08b9de5bd447de66a33d8bc2ad18f2fa6b96c064778bab4b6f439f4c",
+      "archive_sha256": "a476e41f08b9de5bd447de66a33d8bc2ad18f2fa6b96c064778bab4b6f439f4c",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/marker.tsx",
+      "category": "个人项目",
+      "bytes": 1864,
+      "source_sha256": "3d798763f094b2bb5e7ade2d5cd1b9bab498bc8ca7fd4cfaf4e5835bdedc34a0",
+      "archive_sha256": "3d798763f094b2bb5e7ade2d5cd1b9bab498bc8ca7fd4cfaf4e5835bdedc34a0",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/menubar.tsx",
+      "category": "个人项目",
+      "bytes": 8389,
+      "source_sha256": "9243af8afcea03703398ccd1c2a8c0a87ad6cbaf2bd272fb609f5b79fe46aebb",
+      "archive_sha256": "9243af8afcea03703398ccd1c2a8c0a87ad6cbaf2bd272fb609f5b79fe46aebb",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/message-scroller.tsx",
+      "category": "个人项目",
+      "bytes": 3992,
+      "source_sha256": "bb7660a248e4e9589c3816c7c1c199ea1381a70d2c8476ae895b567a7a4d86cf",
+      "archive_sha256": "bb7660a248e4e9589c3816c7c1c199ea1381a70d2c8476ae895b567a7a4d86cf",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/message.tsx",
+      "category": "个人项目",
+      "bytes": 2232,
+      "source_sha256": "9d2952bf3b641081f09aa2739535e6bbd1be0a4946789752a2c20d8aaef43185",
+      "archive_sha256": "9d2952bf3b641081f09aa2739535e6bbd1be0a4946789752a2c20d8aaef43185",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/native-select.tsx",
+      "category": "个人项目",
+      "bytes": 1995,
+      "source_sha256": "007516b111fca8c98a6c40c94ab91bb68cc5b52afce1ed1f5e510c3d86e7347c",
+      "archive_sha256": "007516b111fca8c98a6c40c94ab91bb68cc5b52afce1ed1f5e510c3d86e7347c",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/navigation-menu.tsx",
+      "category": "个人项目",
+      "bytes": 6658,
+      "source_sha256": "889d358a77de88e9cb6f39ea4895ea4c76eaf01d731b74e44f1c41e97a78a044",
+      "archive_sha256": "889d358a77de88e9cb6f39ea4895ea4c76eaf01d731b74e44f1c41e97a78a044",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/pagination.tsx",
+      "category": "个人项目",
+      "bytes": 2717,
+      "source_sha256": "374ad135c3d4ff3ec080a0009cd9745cdd0e12faa89d2b0e86074f11e5127fd1",
+      "archive_sha256": "374ad135c3d4ff3ec080a0009cd9745cdd0e12faa89d2b0e86074f11e5127fd1",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/popover.tsx",
+      "category": "个人项目",
+      "bytes": 2357,
+      "source_sha256": "31c350309ff5d3034e6ecf1b0eda75ba8855bdbf987fc7ad6d71f0ef07c5a447",
+      "archive_sha256": "31c350309ff5d3034e6ecf1b0eda75ba8855bdbf987fc7ad6d71f0ef07c5a447",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/progress.tsx",
+      "category": "个人项目",
+      "bytes": 755,
+      "source_sha256": "c8c26e8f5f041c3cdf4915347dc1d9c022f9448f149990fadcaf303e952fa57d",
+      "archive_sha256": "c8c26e8f5f041c3cdf4915347dc1d9c022f9448f149990fadcaf303e952fa57d",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/radio-group.tsx",
+      "category": "个人项目",
+      "bytes": 1460,
+      "source_sha256": "fe5ce39636d0818c2bf9c4eebddff893d1225fa2c81b5fa4bb8cbb39a8c913ce",
+      "archive_sha256": "fe5ce39636d0818c2bf9c4eebddff893d1225fa2c81b5fa4bb8cbb39a8c913ce",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/resizable.tsx",
+      "category": "个人项目",
+      "bytes": 1815,
+      "source_sha256": "bc63958467aa00557c551bb0d96a5ae4c965c1e1ba2380e595949d933b132f7c",
+      "archive_sha256": "bc63958467aa00557c551bb0d96a5ae4c965c1e1ba2380e595949d933b132f7c",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/scroll-area.tsx",
+      "category": "个人项目",
+      "bytes": 1639,
+      "source_sha256": "8bd9d986b2844c9a87de825c6de4787b6739b36c3dc9a05ccf3eb107160e4043",
+      "archive_sha256": "8bd9d986b2844c9a87de825c6de4787b6739b36c3dc9a05ccf3eb107160e4043",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/select.tsx",
+      "category": "个人项目",
+      "bytes": 6353,
+      "source_sha256": "0b796a108a4eb5ba52d9ad938b7aea36dc56ae66c703a6d0a23dbc24f96daff3",
+      "archive_sha256": "0b796a108a4eb5ba52d9ad938b7aea36dc56ae66c703a6d0a23dbc24f96daff3",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/separator.tsx",
+      "category": "个人项目",
+      "bytes": 694,
+      "source_sha256": "6da346505c8629a4668420d2a5ca48891383bbe0b0ceb14163537c671879427e",
+      "archive_sha256": "6da346505c8629a4668420d2a5ca48891383bbe0b0ceb14163537c671879427e",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/sheet.tsx",
+      "category": "个人项目",
+      "bytes": 4188,
+      "source_sha256": "63863cf2df8f8973e52b3459ac9bdbf81be1262dbc70eb53d5271ffb03488e16",
+      "archive_sha256": "63863cf2df8f8973e52b3459ac9bdbf81be1262dbc70eb53d5271ffb03488e16",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/sidebar.tsx",
+      "category": "个人项目",
+      "bytes": 21526,
+      "source_sha256": "4a8d73e7730a2b1fcecfca31299ed26db65c2307b84197a59c6ec7c01c7ad28e",
+      "archive_sha256": "4a8d73e7730a2b1fcecfca31299ed26db65c2307b84197a59c6ec7c01c7ad28e",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/skeleton.tsx",
+      "category": "个人项目",
+      "bytes": 276,
+      "source_sha256": "ba48dd5be5a6a1378bd4e011028654b5bf419f1e7d20ee4b9f8330c1264e7239",
+      "archive_sha256": "ba48dd5be5a6a1378bd4e011028654b5bf419f1e7d20ee4b9f8330c1264e7239",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/slider.tsx",
+      "category": "个人项目",
+      "bytes": 1991,
+      "source_sha256": "0e37484f4b416e79ac18c655cac961aefacf6e67085cfc2b320ea8af545635a3",
+      "archive_sha256": "0e37484f4b416e79ac18c655cac961aefacf6e67085cfc2b320ea8af545635a3",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/sonner.tsx",
+      "category": "个人项目",
+      "bytes": 1034,
+      "source_sha256": "13ccc9b0fe4248e622f83a1d3b2f0566b72b5e04162d7d0c8db8945ecc71b55f",
+      "archive_sha256": "13ccc9b0fe4248e622f83a1d3b2f0566b72b5e04162d7d0c8db8945ecc71b55f",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/spinner.tsx",
+      "category": "个人项目",
+      "bytes": 331,
+      "source_sha256": "3e6e6e8d37fb4069f8e43e55318f8db06fbc36e6c8be0096da3c9337c1c798b9",
+      "archive_sha256": "3e6e6e8d37fb4069f8e43e55318f8db06fbc36e6c8be0096da3c9337c1c798b9",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/switch.tsx",
+      "category": "个人项目",
+      "bytes": 1408,
+      "source_sha256": "386d4d4deb39f34126f9700fe9bf5393d238485dd94018bba9d154dda84c62ae",
+      "archive_sha256": "386d4d4deb39f34126f9700fe9bf5393d238485dd94018bba9d154dda84c62ae",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/table.tsx",
+      "category": "个人项目",
+      "bytes": 2478,
+      "source_sha256": "20e5a7f224959c6b75802995706a97e9da171f693d4b6b1b436388fcd9df96f3",
+      "archive_sha256": "20e5a7f224959c6b75802995706a97e9da171f693d4b6b1b436388fcd9df96f3",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/tabs.tsx",
+      "category": "个人项目",
+      "bytes": 3782,
+      "source_sha256": "865d0194331b9b2be36723fa79d3575dc83078b4cb941cafee87cb72fc2cff46",
+      "archive_sha256": "865d0194331b9b2be36723fa79d3575dc83078b4cb941cafee87cb72fc2cff46",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/textarea.tsx",
+      "category": "个人项目",
+      "bytes": 759,
+      "source_sha256": "253cdeb487c73beaaccdf47fc163e36e7d5b7ae6ddf09a4f64998a109a112979",
+      "archive_sha256": "253cdeb487c73beaaccdf47fc163e36e7d5b7ae6ddf09a4f64998a109a112979",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/toggle-group.tsx",
+      "category": "个人项目",
+      "bytes": 2308,
+      "source_sha256": "69f643e889e933f05c1439084480d8646f66a161c7d1cf0730ee926382ade35e",
+      "archive_sha256": "69f643e889e933f05c1439084480d8646f66a161c7d1cf0730ee926382ade35e",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/toggle.tsx",
+      "category": "个人项目",
+      "bytes": 1565,
+      "source_sha256": "ba4d0b0a2b2fee75dc36dfc19e32082e721024b919050c97fd5dc70faa924e16",
+      "archive_sha256": "ba4d0b0a2b2fee75dc36dfc19e32082e721024b919050c97fd5dc70faa924e16",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/components/ui/tooltip.tsx",
+      "category": "个人项目",
+      "bytes": 1830,
+      "source_sha256": "a0784eb77831a799fad7991df4f1b666f876201565a80175e1aa68733574a2e4",
+      "archive_sha256": "a0784eb77831a799fad7991df4f1b666f876201565a80175e1aa68733574a2e4",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/db/index.ts",
+      "category": "个人项目",
+      "bytes": 423,
+      "source_sha256": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd",
+      "archive_sha256": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/db/schema.ts",
+      "category": "个人项目",
+      "bytes": 522,
+      "source_sha256": "9aef6c1f6e32c29d4566dee5eac19da459452f1fd17fbcb113e91b7c585aae2e",
+      "archive_sha256": "9aef6c1f6e32c29d4566dee5eac19da459452f1fd17fbcb113e91b7c585aae2e",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/drizzle.config.ts",
+      "category": "个人项目",
+      "bytes": 148,
+      "source_sha256": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b",
+      "archive_sha256": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/drizzle/0000_wandering_vampiro.sql",
+      "category": "个人项目",
+      "bytes": 235,
+      "source_sha256": "c3ed01e10915c060c9398dae0e9da6b8c4179ade0b2ef209ab97430f695a1d73",
+      "archive_sha256": "c3ed01e10915c060c9398dae0e9da6b8c4179ade0b2ef209ab97430f695a1d73",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/drizzle/meta/0000_snapshot.json",
+      "category": "个人项目",
+      "bytes": 1627,
+      "source_sha256": "ad8a9bcf4d7ae493c71cc3b86d9fa0228e08d425128a775f8f64373cc14d3b13",
+      "archive_sha256": "ad8a9bcf4d7ae493c71cc3b86d9fa0228e08d425128a775f8f64373cc14d3b13",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/drizzle/meta/_journal.json",
+      "category": "个人项目",
+      "bytes": 207,
+      "source_sha256": "39d10ca97dc987b3235a184aec27396ce14bc9c83aa864c85fd1b6968949e222",
+      "archive_sha256": "39d10ca97dc987b3235a184aec27396ce14bc9c83aa864c85fd1b6968949e222",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/eslint.config.mjs",
+      "category": "个人项目",
+      "bytes": 846,
+      "source_sha256": "f22a254df7d934bbf9be499d3c969a13abb7f7f64c03f5967d0095cad81dfe06",
+      "archive_sha256": "f22a254df7d934bbf9be499d3c969a13abb7f7f64c03f5967d0095cad81dfe06",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/examples/d1/app/api/notes/route.ts",
+      "category": "个人项目",
+      "bytes": 1700,
+      "source_sha256": "a3d4a74fd53b7bf53e2df41f169d9d9d44a8b22aeb6d92f4e754956079af8909",
+      "archive_sha256": "a3d4a74fd53b7bf53e2df41f169d9d9d44a8b22aeb6d92f4e754956079af8909",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/examples/d1/db/schema.ts",
+      "category": "个人项目",
+      "bytes": 370,
+      "source_sha256": "d89eabd95716ce404f5f7ca2a254220435be8ddce7c899d7ef461ff22ec80454",
+      "archive_sha256": "d89eabd95716ce404f5f7ca2a254220435be8ddce7c899d7ef461ff22ec80454",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/hooks/use-mobile.ts",
+      "category": "个人项目",
+      "bytes": 565,
+      "source_sha256": "ad0936f84f1df79d3697bfbff9c18f8ad58431c1cbaf2359c6a853b0fcc9f28b",
+      "archive_sha256": "ad0936f84f1df79d3697bfbff9c18f8ad58431c1cbaf2359c6a853b0fcc9f28b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/lib/catalog.ts",
+      "category": "个人项目",
+      "bytes": 11276,
+      "source_sha256": "10331dcce0238fcd82d7e87bfcdf7a1bc890798b61cb32abf1e888aa4657318d",
+      "archive_sha256": "10331dcce0238fcd82d7e87bfcdf7a1bc890798b61cb32abf1e888aa4657318d",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/lib/collector.ts",
+      "category": "个人项目",
+      "bytes": 9119,
+      "source_sha256": "95feee14e8681032c19bb9419979508ce9f1d017adfc480afd04c4161b3b8856",
+      "archive_sha256": "95feee14e8681032c19bb9419979508ce9f1d017adfc480afd04c4161b3b8856",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/lib/connector-context.ts",
+      "category": "个人项目",
+      "bytes": 612,
+      "source_sha256": "bbddff68689cb0f6926fecd4b8b96f12f2054277c296e97b0df07d4ad5ece24e",
+      "archive_sha256": "bbddff68689cb0f6926fecd4b8b96f12f2054277c296e97b0df07d4ad5ece24e",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/lib/connector-preview.d.ts",
+      "category": "个人项目",
+      "bytes": 433,
+      "source_sha256": "abd69a94f7f61f1359063bb557574faae35e8ff5a028cc4c04b9ee248ef52642",
+      "archive_sha256": "abd69a94f7f61f1359063bb557574faae35e8ff5a028cc4c04b9ee248ef52642",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/lib/connectors.ts",
+      "category": "个人项目",
+      "bytes": 416,
+      "source_sha256": "1c93d747e384c8e17e3e3dd5361b24412babf5eba2a11d2ae7a75f4e0924112c",
+      "archive_sha256": "1c93d747e384c8e17e3e3dd5361b24412babf5eba2a11d2ae7a75f4e0924112c",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/lib/utils.ts",
+      "category": "个人项目",
+      "bytes": 177,
+      "source_sha256": "53f3d3d070f0a9082934da25b875f9499855c2b0693868dd28be8c23d8730f68",
+      "archive_sha256": "53f3d3d070f0a9082934da25b875f9499855c2b0693868dd28be8c23d8730f68",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/next.config.ts",
+      "category": "个人项目",
+      "bytes": 133,
+      "source_sha256": "614bce25b089c3f19b1e17a6346c74b858034040154c6621e7d35303004767cc",
+      "archive_sha256": "614bce25b089c3f19b1e17a6346c74b858034040154c6621e7d35303004767cc",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/package-lock.json",
+      "category": "个人项目",
+      "bytes": 504152,
+      "source_sha256": "eedaeab6870c0f70f9db869fcaa24abae9b0f945cbc9acb8a43b6e7ed6bcbfca",
+      "archive_sha256": "eedaeab6870c0f70f9db869fcaa24abae9b0f945cbc9acb8a43b6e7ed6bcbfca",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/package.json",
+      "category": "个人项目",
+      "bytes": 2102,
+      "source_sha256": "eb7b53ec5bdce1db5a8576b2ffc3b63ddd8c5fdee0f97dcb341674abbf69843a",
+      "archive_sha256": "eb7b53ec5bdce1db5a8576b2ffc3b63ddd8c5fdee0f97dcb341674abbf69843a",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/postcss.config.mjs",
+      "category": "个人项目",
+      "bytes": 94,
+      "source_sha256": "dfac7ac2d86d326a0e5adb024e7943c181393ed17a5fcb8f0315b24c7da6ddde",
+      "archive_sha256": "dfac7ac2d86d326a0e5adb024e7943c181393ed17a5fcb8f0315b24c7da6ddde",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/public/favicon.svg",
+      "category": "个人项目",
+      "bytes": 712,
+      "source_sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7",
+      "archive_sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/public/file.svg",
+      "category": "个人项目",
+      "bytes": 392,
+      "source_sha256": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307",
+      "archive_sha256": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/public/globe.svg",
+      "category": "个人项目",
+      "bytes": 1036,
+      "source_sha256": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9",
+      "archive_sha256": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/public/window.svg",
+      "category": "个人项目",
+      "bytes": 386,
+      "source_sha256": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66",
+      "archive_sha256": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/scripts/build-verified.sh",
+      "category": "个人项目",
+      "bytes": 661,
+      "source_sha256": "2ae5329ac860076070c9217a43106a15cb5ecf907a0f7baeb9ef903f76b53c68",
+      "archive_sha256": "2ae5329ac860076070c9217a43106a15cb5ecf907a0f7baeb9ef903f76b53c68",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/scripts/connector-preview/connector-preview-session.mjs",
+      "category": "个人项目",
+      "bytes": 6855,
+      "source_sha256": "57224ad185a25115a14fccc68d3217e55b199260c3dd98a2c807beffec1a0a9b",
+      "archive_sha256": "57224ad185a25115a14fccc68d3217e55b199260c3dd98a2c807beffec1a0a9b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/scripts/connector-preview/host-binding.mjs",
+      "category": "个人项目",
+      "bytes": 7793,
+      "source_sha256": "9e44ab6864133a5c82f834a5904ebb7d6104cb783c24efba3c0fe1a161182cea",
+      "archive_sha256": "9e44ab6864133a5c82f834a5904ebb7d6104cb783c24efba3c0fe1a161182cea",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/scripts/connector-preview/protocol.mjs",
+      "category": "个人项目",
+      "bytes": 1781,
+      "source_sha256": "111e062ebf08d3f180130f5bc3dcb3c1414c1d7be3c032c9d675a61c0c7513a8",
+      "archive_sha256": "111e062ebf08d3f180130f5bc3dcb3c1414c1d7be3c032c9d675a61c0c7513a8",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/scripts/execution-profile.mjs",
+      "category": "个人项目",
+      "bytes": 624,
+      "source_sha256": "2e71116f4d2b70cff8bb70436f8dd5c709ec7ff62893424530f404e0193d3630",
+      "archive_sha256": "2e71116f4d2b70cff8bb70436f8dd5c709ec7ff62893424530f404e0193d3630",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/scripts/install-ci.mjs",
+      "category": "个人项目",
+      "bytes": 1685,
+      "source_sha256": "4a5a92d60a08d0ba54effd8373da2da06284312c55b767287c68a0bec7200da7",
+      "archive_sha256": "4a5a92d60a08d0ba54effd8373da2da06284312c55b767287c68a0bec7200da7",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/scripts/install-ci.sh",
+      "category": "个人项目",
+      "bytes": 6783,
+      "source_sha256": "10d8764a61be50351dc3496e13588270de7956f0aa5f1189c49cabb2d89fe5c0",
+      "archive_sha256": "10d8764a61be50351dc3496e13588270de7956f0aa5f1189c49cabb2d89fe5c0",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/scripts/install-pnpm.sh",
+      "category": "个人项目",
+      "bytes": 9015,
+      "source_sha256": "a684c02c2b493dfbf262a66252a5cd36f81ca995a4024761728662ae63aa40c0",
+      "archive_sha256": "a684c02c2b493dfbf262a66252a5cd36f81ca995a4024761728662ae63aa40c0",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/scripts/npm-install.mjs",
+      "category": "个人项目",
+      "bytes": 7025,
+      "source_sha256": "9715c6a32d1d4a0289ef6376a0e819c3b6a6416b8a9877733d9fb4339ce626b6",
+      "archive_sha256": "9715c6a32d1d4a0289ef6376a0e819c3b6a6416b8a9877733d9fb4339ce626b6",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/scripts/pnpm-install.mjs",
+      "category": "个人项目",
+      "bytes": 10633,
+      "source_sha256": "a83164e344c1947053def83b546be8115deaa827314bbaead7afe6b6451c5cdf",
+      "archive_sha256": "a83164e344c1947053def83b546be8115deaa827314bbaead7afe6b6451c5cdf",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/scripts/run-framework.mjs",
+      "category": "个人项目",
+      "bytes": 993,
+      "source_sha256": "9bf9f41a29314cabe0238b8e9c540ec3f7b5a6adafc7c8fb6c3940722d061dca",
+      "archive_sha256": "9bf9f41a29314cabe0238b8e9c540ec3f7b5a6adafc7c8fb6c3940722d061dca",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/scripts/sites-env.mjs",
+      "category": "个人项目",
+      "bytes": 906,
+      "source_sha256": "5de99d6806b01f0ee0b941af3684d75dcf1afbbcff22cb95bfa2e584c5dafa88",
+      "archive_sha256": "5de99d6806b01f0ee0b941af3684d75dcf1afbbcff22cb95bfa2e584c5dafa88",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/scripts/sites-env.sh",
+      "category": "个人项目",
+      "bytes": 1530,
+      "source_sha256": "df86ebfc27d2f00860036658e933ac0ddd7b5f6879aa5d51218f0863c7e1fb60",
+      "archive_sha256": "df86ebfc27d2f00860036658e933ac0ddd7b5f6879aa5d51218f0863c7e1fb60",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/tsconfig.json",
+      "category": "个人项目",
+      "bytes": 800,
+      "source_sha256": "7199c6e4e400921e8049729840165a39f1476fa97901bed00239e7697bfe8da4",
+      "archive_sha256": "7199c6e4e400921e8049729840165a39f1476fa97901bed00239e7697bfe8da4",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/vendor/shadcn-tailwind-4.13.0.LICENSE.md",
+      "category": "个人项目",
+      "bytes": 1063,
+      "source_sha256": "1564074e13439397221ffd522e2e504d56561994a23d371aa5e3ad43e4f5423f",
+      "archive_sha256": "1564074e13439397221ffd522e2e504d56561994a23d371aa5e3ad43e4f5423f",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/vendor/shadcn-tailwind-4.13.0.css",
+      "category": "个人项目",
+      "bytes": 16041,
+      "source_sha256": "bc7d83425702955b4cb67cb14ede9d603f9d912376d57a2d81d661094d2a782a",
+      "archive_sha256": "bc7d83425702955b4cb67cb14ede9d603f9d912376d57a2d81d661094d2a782a",
+      "notes": []
+    },
+    {
+      "path": "个人项目/daily-brief/vite.config.ts",
+      "category": "个人项目",
+      "bytes": 3115,
+      "source_sha256": "6f6d890794fbe23f3e35cceb327f49d5977432a5aaf715e040a6408932da395b",
+      "archive_sha256": "6f6d890794fbe23f3e35cceb327f49d5977432a5aaf715e040a6408932da395b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/site/dist/app.js",
+      "category": "个人项目",
+      "bytes": 41025,
+      "source_sha256": "d4526cd32b47655e8c1cedc77e90d18a6b6bc2bd0253c84056d7077ba5e6435d",
+      "archive_sha256": "d4526cd32b47655e8c1cedc77e90d18a6b6bc2bd0253c84056d7077ba5e6435d",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/site/dist/engine.js",
+      "category": "个人项目",
+      "bytes": 21944,
+      "source_sha256": "c3604d8e38732ca8d44ce0ebacef615dc2793c39e20ca98d369a490c8f66a97b",
+      "archive_sha256": "c3604d8e38732ca8d44ce0ebacef615dc2793c39e20ca98d369a490c8f66a97b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/site/dist/index.html",
+      "category": "个人项目",
+      "bytes": 4158,
+      "source_sha256": "caffde84fbc3d9ef90ddf8ef0b861d2d6a4e6a15f521bfc5ab32cb64b9e4e057",
+      "archive_sha256": "caffde84fbc3d9ef90ddf8ef0b861d2d6a4e6a15f521bfc5ab32cb64b9e4e057",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/site/dist/mark.svg",
+      "category": "个人项目",
+      "bytes": 343,
+      "source_sha256": "6cea53f1e52d237f498f3ba7f0af314c3e614911b8435fc973d3a7e959843c06",
+      "archive_sha256": "6cea53f1e52d237f498f3ba7f0af314c3e614911b8435fc973d3a7e959843c06",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/site/dist/scenarios.js",
+      "category": "个人项目",
+      "bytes": 5569,
+      "source_sha256": "8cbf663350bebf8cf9f5bd7576b4f6129c3a1e5566f76d13297924435e0bf911",
+      "archive_sha256": "8cbf663350bebf8cf9f5bd7576b4f6129c3a1e5566f76d13297924435e0bf911",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/site/dist/styles.css",
+      "category": "个人项目",
+      "bytes": 22311,
+      "source_sha256": "d6b804db62018422c41aebab76efe4167595905ac0edabeb61ff560a179567e8",
+      "archive_sha256": "d6b804db62018422c41aebab76efe4167595905ac0edabeb61ff560a179567e8",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/制作过程记录.md",
+      "category": "个人项目",
+      "bytes": 1981,
+      "source_sha256": "b6039ef14186e49b79e379a63083c7d86b3cc32549962b95638b1ec71c639542",
+      "archive_sha256": "b6039ef14186e49b79e379a63083c7d86b3cc32549962b95638b1ec71c639542",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/开发复核/README.md",
+      "category": "个人项目",
+      "bytes": 535,
+      "source_sha256": "e963cadcc2f99ba59a4bffc808051f1709e899d84dcc20392c9c219707132b15",
+      "archive_sha256": "e963cadcc2f99ba59a4bffc808051f1709e899d84dcc20392c9c219707132b15",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/开发复核/engine-check.cjs",
+      "category": "个人项目",
+      "bytes": 6030,
+      "source_sha256": "46b47eb5b14ecbc475a8e7e4d2bdfdf90218f23b6ac6dab120291a4f2c0d7d09",
+      "archive_sha256": "46b47eb5b14ecbc475a8e7e4d2bdfdf90218f23b6ac6dab120291a4f2c0d7d09",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/开始使用.md",
+      "category": "个人项目",
+      "bytes": 3727,
+      "source_sha256": "859474afda746a6738a67a8ae750dfd2ee4a888a77a8fb0d291653306fcbc3f5",
+      "archive_sha256": "859474afda746a6738a67a8ae750dfd2ee4a888a77a8fb0d291653306fcbc3f5",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/文件清单SHA256.json",
+      "category": "个人项目",
+      "bytes": 7848,
+      "source_sha256": "2c790a7d55474a763c0af90fa61b8dbec61ba9f75bbaa932c35646e92d1541fb",
+      "archive_sha256": "2c790a7d55474a763c0af90fa61b8dbec61ba9f75bbaa932c35646e92d1541fb",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/示例约束/ceramic.json",
+      "category": "个人项目",
+      "bytes": 2572,
+      "source_sha256": "0937103b8952aab258b31ba845b5b0c9d773a0a42c095fc9e397ec95b2cd107c",
+      "archive_sha256": "0937103b8952aab258b31ba845b5b0c9d773a0a42c095fc9e397ec95b2cd107c",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/示例约束/leather.json",
+      "category": "个人项目",
+      "bytes": 2770,
+      "source_sha256": "8bffdd90bfbe6642131398e3849ee41c431529cf052628faacd1f2d456af04c7",
+      "archive_sha256": "8bffdd90bfbe6642131398e3849ee41c431529cf052628faacd1f2d456af04c7",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/示例约束/print.json",
+      "category": "个人项目",
+      "bytes": 2404,
+      "source_sha256": "5e329cf970d4a3f80c58ff7b81b792ebbde8a5092236a2a6a323847597785471",
+      "archive_sha256": "5e329cf970d4a3f80c58ff7b81b792ebbde8a5092236a2a6a323847597785471",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/自动演示.html",
+      "category": "个人项目",
+      "bytes": 364,
+      "source_sha256": "98eea9522918cc2a3aeb8257eef0cc9b71be2ac7a2704650b16feedc461283a4",
+      "archive_sha256": "98eea9522918cc2a3aeb8257eef0cc9b71be2ac7a2704650b16feedc461283a4",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/设计与实现说明.md",
+      "category": "个人项目",
+      "bytes": 2821,
+      "source_sha256": "f564e89a0168994130c27d2dd52bec4d01e6394438e998172658b1675b015905",
+      "archive_sha256": "f564e89a0168994130c27d2dd52bec4d01e6394438e998172658b1675b015905",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/一单之变/预览图.png",
+      "category": "个人项目",
+      "bytes": 116157,
+      "source_sha256": "2c4936db17ad48bb47b7df776835f315e85fc6bde016421a8d0ac0a6f1c18afd",
+      "archive_sha256": "2c4936db17ad48bb47b7df776835f315e85fc6bde016421a8d0ac0a6f1c18afd",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/作品/app.js",
+      "category": "个人项目",
+      "bytes": 34534,
+      "source_sha256": "74911a58b59ad31bc5fee5e4878ab68454911de088ae6fe5cc3beff15ba68204",
+      "archive_sha256": "74911a58b59ad31bc5fee5e4878ab68454911de088ae6fe5cc3beff15ba68204",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/作品/content.js",
+      "category": "个人项目",
+      "bytes": 8878,
+      "source_sha256": "d165adbe3d07826c108ad8c3161347af2a65df267a51252c81e3246180315a05",
+      "archive_sha256": "d165adbe3d07826c108ad8c3161347af2a65df267a51252c81e3246180315a05",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/作品/engine.js",
+      "category": "个人项目",
+      "bytes": 7352,
+      "source_sha256": "e9bec5fbca7dcdac4bdaf58f56e78a5b597a9cd1c2f1baad6c77bd9716489b65",
+      "archive_sha256": "e9bec5fbca7dcdac4bdaf58f56e78a5b597a9cd1c2f1baad6c77bd9716489b65",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/作品/index.html",
+      "category": "个人项目",
+      "bytes": 4290,
+      "source_sha256": "8f36d259326d93f8d8862ce97a3bde2f407faa716d7afb9aa1c75f2be1104e8d",
+      "archive_sha256": "8f36d259326d93f8d8862ce97a3bde2f407faa716d7afb9aa1c75f2be1104e8d",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/作品/mark.svg",
+      "category": "个人项目",
+      "bytes": 262,
+      "source_sha256": "ff64e04665dcd0b19de721bbb4ef681879726a45505c8a832620f14049aecedc",
+      "archive_sha256": "ff64e04665dcd0b19de721bbb4ef681879726a45505c8a832620f14049aecedc",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/作品/micro.js",
+      "category": "个人项目",
+      "bytes": 8745,
+      "source_sha256": "825f9a15189c155c497c904c2c9eed012f2f827a1585813283553869f58de1e4",
+      "archive_sha256": "825f9a15189c155c497c904c2c9eed012f2f827a1585813283553869f58de1e4",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/作品/scene.js",
+      "category": "个人项目",
+      "bytes": 16183,
+      "source_sha256": "be39fbb57cfdc722c05f57f5c49b50a5ca86d741f92e1eedeabfa0d7c0e1b53a",
+      "archive_sha256": "be39fbb57cfdc722c05f57f5c49b50a5ca86d741f92e1eedeabfa0d7c0e1b53a",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/作品/styles.css",
+      "category": "个人项目",
+      "bytes": 19767,
+      "source_sha256": "465f19ecab1b72319a9e8a90c167ab4ef8deb5530010cb0d968a72c3b9b14312",
+      "archive_sha256": "465f19ecab1b72319a9e8a90c167ab4ef8deb5530010cb0d968a72c3b9b14312",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/作品/vendor/THREE-LICENSE.txt",
+      "category": "个人项目",
+      "bytes": 1081,
+      "source_sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d",
+      "archive_sha256": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/作品/vendor/three.min.js",
+      "category": "个人项目",
+      "bytes": 669884,
+      "source_sha256": "170c6789f43217c96b3170f4b42fafe135de7f7cd48497a4218f9757ee1d49fa",
+      "archive_sha256": "170c6789f43217c96b3170f4b42fafe135de7f7cd48497a4218f9757ee1d49fa",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/制作记录_助手实际完成.md",
+      "category": "个人项目",
+      "bytes": 1992,
+      "source_sha256": "b792d1bdc0efbc599463438b0b5954a832fbaf90fc05ddff52560b1adefdb30f",
+      "archive_sha256": "b792d1bdc0efbc599463438b0b5954a832fbaf90fc05ddff52560b1adefdb30f",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/开发复核/README.md",
+      "category": "个人项目",
+      "bytes": 806,
+      "source_sha256": "e53970fda09051acbd56f594b4e3b385387f3b7864c9548e3317a074e258e971",
+      "archive_sha256": "e53970fda09051acbd56f594b4e3b385387f3b7864c9548e3317a074e258e971",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/开发复核/engine-check.cjs",
+      "category": "个人项目",
+      "bytes": 3210,
+      "source_sha256": "e109de4446d156ac01be0d2691132f133f7ca504df0bb2c4a3cb1cd6142cfd80",
+      "archive_sha256": "e109de4446d156ac01be0d2691132f133f7ca504df0bb2c4a3cb1cd6142cfd80",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/开始使用.md",
+      "category": "个人项目",
+      "bytes": 3440,
+      "source_sha256": "3acac8fa0fa40b3fa0dc77f2dd289972c685e1233700d2d955764da9f7ecd9aa",
+      "archive_sha256": "3acac8fa0fa40b3fa0dc77f2dd289972c685e1233700d2d955764da9f7ecd9aa",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/打开作品.html",
+      "category": "个人项目",
+      "bytes": 374,
+      "source_sha256": "ea085af8e7978f4d08498c2d7a22fea5e51fdb84888524430fb1643513bb4a2b",
+      "archive_sha256": "ea085af8e7978f4d08498c2d7a22fea5e51fdb84888524430fb1643513bb4a2b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/文件校验清单.json",
+      "category": "个人项目",
+      "bytes": 7906,
+      "source_sha256": "070f02d4d635e13a3225802825baf0e77684572e9586a8e615991f1a53d20339",
+      "archive_sha256": "070f02d4d635e13a3225802825baf0e77684572e9586a8e615991f1a53d20339",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/正式提交_先读我.md",
+      "category": "个人项目",
+      "bytes": 1587,
+      "source_sha256": "0164727c125511bb6ee5e1c5c065a3a219c30d4f3796f90034f4f672a7ff6a41",
+      "archive_sha256": "0164727c125511bb6ee5e1c5c065a3a219c30d4f3796f90034f4f672a7ff6a41",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/现在你应该做什么.md",
+      "category": "个人项目",
+      "bytes": 5074,
+      "source_sha256": "db60c97fbe3186e5fec3a755ad91a99c73741d5de4656be49477f74e6f32e23f",
+      "archive_sha256": "db60c97fbe3186e5fec3a755ad91a99c73741d5de4656be49477f74e6f32e23f",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/云上之尺/真实审阅与贡献记录.md",
+      "category": "个人项目",
+      "bytes": 1481,
+      "source_sha256": "52948d0ff1470d468bd8c0d2890d0f7fd2c70eca1406b5120ead4ca6ca68f544",
+      "archive_sha256": "52948d0ff1470d468bd8c0d2890d0f7fd2c70eca1406b5120ead4ca6ca68f544",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/小店数伴/app.py",
+      "category": "个人项目",
+      "bytes": 12058,
+      "source_sha256": "73140646f4a36be0112ee589886fcd4774c6e9da4b9b2187e19584477983c1ae",
+      "archive_sha256": "73140646f4a36be0112ee589886fcd4774c6e9da4b9b2187e19584477983c1ae",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/小店数伴/data/source.json",
+      "category": "个人项目",
+      "bytes": 1279,
+      "source_sha256": "8c64235737da83f4bb1c75231916d0291abca9914cc6e88a32cb90f114b20ba7",
+      "archive_sha256": "8c64235737da83f4bb1c75231916d0291abca9914cc6e88a32cb90f114b20ba7",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/小店数伴/data/来源与许可.txt",
+      "category": "个人项目",
+      "bytes": 960,
+      "source_sha256": "a439a4aec0dd86d154175018dc54a90db997b3326e053b5a6af25188ac8e25de",
+      "archive_sha256": "a439a4aec0dd86d154175018dc54a90db997b3326e053b5a6af25188ac8e25de",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/小店数伴/engine.py",
+      "category": "个人项目",
+      "bytes": 18381,
+      "source_sha256": "fdd9e612fd1954aa1a89917c47aba0dc9ddaca92fffa98d2e31ba0b94f576043",
+      "archive_sha256": "fdd9e612fd1954aa1a89917c47aba0dc9ddaca92fffa98d2e31ba0b94f576043",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/小店数伴/requirements.txt",
+      "category": "个人项目",
+      "bytes": 32,
+      "source_sha256": "bae9687ffa8b3f05177a689708286371571f3b3aac7e5fb546453e5f803ecd30",
+      "archive_sha256": "bae9687ffa8b3f05177a689708286371571f3b3aac7e5fb546453e5f803ecd30",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/小店数伴/tests/test_engine.py",
+      "category": "个人项目",
+      "bytes": 6272,
+      "source_sha256": "ba2b172883f7ce0920465b114ac74dbaa254d1013d3bb0d0c403a6579f4e14bd",
+      "archive_sha256": "ba2b172883f7ce0920465b114ac74dbaa254d1013d3bb0d0c403a6579f4e14bd",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/小店数伴/web/app.js",
+      "category": "个人项目",
+      "bytes": 35070,
+      "source_sha256": "cd789a2cea3589e83f97ad1003e49c9348c89bc7fbb5840a7682fa8d4b68a66b",
+      "archive_sha256": "cd789a2cea3589e83f97ad1003e49c9348c89bc7fbb5840a7682fa8d4b68a66b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/小店数伴/web/index.html",
+      "category": "个人项目",
+      "bytes": 4855,
+      "source_sha256": "a75eea52b3fd2c4ede7ebe1555ca1b8ab9a5b34bbfe7cddaeffcfcb344522347",
+      "archive_sha256": "a75eea52b3fd2c4ede7ebe1555ca1b8ab9a5b34bbfe7cddaeffcfcb344522347",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/小店数伴/web/style.css",
+      "category": "个人项目",
+      "bytes": 25523,
+      "source_sha256": "4b70f2970844a89b809e691b078ec70a56172f857f08fc8da711ab89a8aa978c",
+      "archive_sha256": "4b70f2970844a89b809e691b078ec70a56172f857f08fc8da711ab89a8aa978c",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/小店数伴/启动小店数伴.cmd",
+      "category": "个人项目",
+      "bytes": 200,
+      "source_sha256": "77f5675d167376b27b40b210416974799b34d7aee7526b8461bbb5691ec16df5",
+      "archive_sha256": "77f5675d167376b27b40b210416974799b34d7aee7526b8461bbb5691ec16df5",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/小店数伴/开发复核/复核分析凭据.py",
+      "category": "个人项目",
+      "bytes": 1912,
+      "source_sha256": "71940359d4537cd2b40bfb133a6b38260e00f1ca550a96bd2e963d8981ddbe94",
+      "archive_sha256": "71940359d4537cd2b40bfb133a6b38260e00f1ca550a96bd2e963d8981ddbe94",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/小店数伴/开发复核/重建示例数据.py",
+      "category": "个人项目",
+      "bytes": 2077,
+      "source_sha256": "45bcd21d57e9bcdcc51ffa83cb6758c843a61c3121bdf2b5a91497ab8964c81a",
+      "archive_sha256": "45bcd21d57e9bcdcc51ffa83cb6758c843a61c3121bdf2b5a91497ab8964c81a",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/小店数伴/开始使用.md",
+      "category": "个人项目",
+      "bytes": 3074,
+      "source_sha256": "1035a6e2ae8c955732179d106209424de5fc3e386336d502ac525edc08635da8",
+      "archive_sha256": "1035a6e2ae8c955732179d106209424de5fc3e386336d502ac525edc08635da8",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/小店数伴/文件清单SHA256.json",
+      "category": "个人项目",
+      "bytes": 5246,
+      "source_sha256": "a2715a82a6473ec85397d5baea1b7723ac766eaa0ad577c49a96fe1ee8010301",
+      "archive_sha256": "a2715a82a6473ec85397d5baea1b7723ac766eaa0ad577c49a96fe1ee8010301",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/site/.gitignore",
+      "category": "个人项目",
+      "bytes": 30,
+      "source_sha256": "8ffe9de56bd30c1a95cd945262d6e3ac355ada4111551dde41f67851b9f1fc55",
+      "archive_sha256": "8ffe9de56bd30c1a95cd945262d6e3ac355ada4111551dde41f67851b9f1fc55",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/site/dist/app.js",
+      "category": "个人项目",
+      "bytes": 36719,
+      "source_sha256": "91739fb5fac0b60562bf2f944bbef9de98e0f63b943b876509d2c061b413c0a5",
+      "archive_sha256": "91739fb5fac0b60562bf2f944bbef9de98e0f63b943b876509d2c061b413c0a5",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/site/dist/data.js",
+      "category": "个人项目",
+      "bytes": 4243,
+      "source_sha256": "ec9acf3c4cdb791287e4213ffc931c6e46479ca2a5362a344d476020979d2d08",
+      "archive_sha256": "ec9acf3c4cdb791287e4213ffc931c6e46479ca2a5362a344d476020979d2d08",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/site/dist/engine.js",
+      "category": "个人项目",
+      "bytes": 5790,
+      "source_sha256": "8ded4e30bed000a6e56ee1564279d078e7cb5257a88b39568c40077fd2f83222",
+      "archive_sha256": "8ded4e30bed000a6e56ee1564279d078e7cb5257a88b39568c40077fd2f83222",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/site/dist/index.html",
+      "category": "个人项目",
+      "bytes": 3090,
+      "source_sha256": "50c9e891c4fb28a1b0a3d4a96c8ad6bceae9dd5c1b6aed66f4c5fe079bf09921",
+      "archive_sha256": "50c9e891c4fb28a1b0a3d4a96c8ad6bceae9dd5c1b6aed66f4c5fe079bf09921",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/site/dist/mark.svg",
+      "category": "个人项目",
+      "bytes": 286,
+      "source_sha256": "54002d4dc35d554c7afec4d2bcad3e3965bf985df115c5e7643c1823488b500c",
+      "archive_sha256": "54002d4dc35d554c7afec4d2bcad3e3965bf985df115c5e7643c1823488b500c",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/site/dist/styles.css",
+      "category": "个人项目",
+      "bytes": 20547,
+      "source_sha256": "294a07b27a260a68f57023b4065ff0ea286dbe813e29a6119b19b66c6a9c5a66",
+      "archive_sha256": "294a07b27a260a68f57023b4065ff0ea286dbe813e29a6119b19b66c6a9c5a66",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/site/package.json",
+      "category": "个人项目",
+      "bytes": 269,
+      "source_sha256": "7186f0cbb0c55a9ad836156e343df4d9764dd3b3f53ebf10da768505d397730b",
+      "archive_sha256": "7186f0cbb0c55a9ad836156e343df4d9764dd3b3f53ebf10da768505d397730b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/开发复核/README.md",
+      "category": "个人项目",
+      "bytes": 330,
+      "source_sha256": "5d5d730ba24647374af8dca6dccaecee756196ec62dbd8fefbbdaed2c40435da",
+      "archive_sha256": "5d5d730ba24647374af8dca6dccaecee756196ec62dbd8fefbbdaed2c40435da",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/开发复核/engine-check.cjs",
+      "category": "个人项目",
+      "bytes": 4446,
+      "source_sha256": "0bc5df47fd91bba36a91f1794d8abb0343be9c989e6943fdd7a9f05793843293",
+      "archive_sha256": "0bc5df47fd91bba36a91f1794d8abb0343be9c989e6943fdd7a9f05793843293",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/开始使用.md",
+      "category": "个人项目",
+      "bytes": 3228,
+      "source_sha256": "0c5950a15f7a7200ce9259267aa043605be0f87cc58591ab43563c40dcea0f0a",
+      "archive_sha256": "0c5950a15f7a7200ce9259267aa043605be0f87cc58591ab43563c40dcea0f0a",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/打开作品.html",
+      "category": "个人项目",
+      "bytes": 306,
+      "source_sha256": "56e949c23ca8cab4f3d07bda3137ee5b8b86906d829497275c89f76f60459c54",
+      "archive_sha256": "56e949c23ca8cab4f3d07bda3137ee5b8b86906d829497275c89f76f60459c54",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/教学数据/1_learning.csv",
+      "category": "个人项目",
+      "bytes": 127,
+      "source_sha256": "f067ffceb8cb3843da29799c778418ac2da7a49b46e089e99b9ddcab84db6805",
+      "archive_sha256": "f067ffceb8cb3843da29799c778418ac2da7a49b46e089e99b9ddcab84db6805",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/教学数据/2_berkeley.csv",
+      "category": "个人项目",
+      "bytes": 287,
+      "source_sha256": "e5748c59d4e5d4b07ebd5e8b749149f2137517e62445d9fa2c8209e1a9f4bc65",
+      "archive_sha256": "e5748c59d4e5d4b07ebd5e8b749149f2137517e62445d9fa2c8209e1a9f4bc65",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/教学数据/3_service.csv",
+      "category": "个人项目",
+      "bytes": 130,
+      "source_sha256": "5eacf0161d3ff4435c0313e6be976cd649e61d3de6a374ddd78c54c587140b1d",
+      "archive_sha256": "5eacf0161d3ff4435c0313e6be976cd649e61d3de6a374ddd78c54c587140b1d",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/教学数据/来源与范围.md",
+      "category": "个人项目",
+      "bytes": 1173,
+      "source_sha256": "1a401ab9cb017a2245973922f63fb50e50218d81c0a724d7b167a1fad326814a",
+      "archive_sha256": "1a401ab9cb017a2245973922f63fb50e50218d81c0a724d7b167a1fad326814a",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见分母/文件校验清单.json",
+      "category": "个人项目",
+      "bytes": 6753,
+      "source_sha256": "b3202a7706617dc3fe94e1293b72341ce49c34265b22ed27e86d76e131782306",
+      "archive_sha256": "b3202a7706617dc3fe94e1293b72341ce49c34265b22ed27e86d76e131782306",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/app/app.js",
+      "category": "个人项目",
+      "bytes": 39471,
+      "source_sha256": "9eaf41414011a61cae31b56fc54ff44870c430362221698bc4d3a2ddf82217cb",
+      "archive_sha256": "9eaf41414011a61cae31b56fc54ff44870c430362221698bc4d3a2ddf82217cb",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/app/data.js",
+      "category": "个人项目",
+      "bytes": 5176,
+      "source_sha256": "5635492329baaf5fd764124e9be6abf27f8e59d925e53ceb22794d10984261f4",
+      "archive_sha256": "5635492329baaf5fd764124e9be6abf27f8e59d925e53ceb22794d10984261f4",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/app/engine.js",
+      "category": "个人项目",
+      "bytes": 10322,
+      "source_sha256": "17ba06647b2a62d84530c8fc1e0deddb063402e1e9088a665b265365b89a11c1",
+      "archive_sha256": "17ba06647b2a62d84530c8fc1e0deddb063402e1e9088a665b265365b89a11c1",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/app/index.html",
+      "category": "个人项目",
+      "bytes": 2380,
+      "source_sha256": "894b1553e173eda70ebf0b24200a7d7f43150237a1b7af0890c55285195960ce",
+      "archive_sha256": "894b1553e173eda70ebf0b24200a7d7f43150237a1b7af0890c55285195960ce",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/app/mark.svg",
+      "category": "个人项目",
+      "bytes": 271,
+      "source_sha256": "b65166c1f4ae50b3014f77800e5239d032ce66fc225acf9f61e8edea3d929f93",
+      "archive_sha256": "b65166c1f4ae50b3014f77800e5239d032ce66fc225acf9f61e8edea3d929f93",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/app/styles.css",
+      "category": "个人项目",
+      "bytes": 21144,
+      "source_sha256": "840d61965c34fb4bb0d8db4c23e3c3953478264cfa1d80463286b47f597436fd",
+      "archive_sha256": "840d61965c34fb4bb0d8db4c23e3c3953478264cfa1d80463286b47f597436fd",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/制作过程记录.md",
+      "category": "个人项目",
+      "bytes": 3253,
+      "source_sha256": "19944c14089b7f0d7d743a1e4e3177b33c29d2593a055d58f054df8ed67b7f07",
+      "archive_sha256": "19944c14089b7f0d7d743a1e4e3177b33c29d2593a055d58f054df8ed67b7f07",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/开始使用.md",
+      "category": "个人项目",
+      "bytes": 4824,
+      "source_sha256": "1b7289a832eaacce95de089bab0ccd6cafe0d3d8f3219df6236a7d9db2b9ce9c",
+      "archive_sha256": "1b7289a832eaacce95de089bab0ccd6cafe0d3d8f3219df6236a7d9db2b9ce9c",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/教师引导卡.md",
+      "category": "个人项目",
+      "bytes": 2205,
+      "source_sha256": "09adedbb24bda50ceaa851da82e635f01f01c280b5de6417f0d5229316ff3619",
+      "archive_sha256": "09adedbb24bda50ceaa851da82e635f01f01c280b5de6417f0d5229316ff3619",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/文件校验清单.json",
+      "category": "个人项目",
+      "bytes": 7265,
+      "source_sha256": "d642bfdf03ea3d200973ab8b64f8eb8aaa8ffcd82603f9f2d04aaf33e115298f",
+      "archive_sha256": "d642bfdf03ea3d200973ab8b64f8eb8aaa8ffcd82603f9f2d04aaf33e115298f",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/试用材料/01_试用说明与主持流程.md",
+      "category": "个人项目",
+      "bytes": 6734,
+      "source_sha256": "a6ae0771e9e601d9c77554b8529628db6df8586c346b677b46b841b5509e6958",
+      "archive_sha256": "a6ae0771e9e601d9c77554b8529628db6df8586c346b677b46b841b5509e6958",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/试用材料/02_前后测题本.md",
+      "category": "个人项目",
+      "bytes": 3117,
+      "source_sha256": "e35ab005fcdc5386f8a7a56ebcd07689924f0797bf187745c418e03178610173",
+      "archive_sha256": "e35ab005fcdc5386f8a7a56ebcd07689924f0797bf187745c418e03178610173",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/试用材料/03_评分与记录规则_主持人专用.md",
+      "category": "个人项目",
+      "bytes": 5519,
+      "source_sha256": "ae02c310e766cc4615628beef58162d5013c856f69923ef55b4de0d6d202cc1b",
+      "archive_sha256": "ae02c310e766cc4615628beef58162d5013c856f69923ef55b4de0d6d202cc1b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/试用材料/04_匿名原始记录空表.md",
+      "category": "个人项目",
+      "bytes": 5338,
+      "source_sha256": "83be7a37c639f12a04a8a4de57648a7d308960fffecad685116a5c058c718ae0",
+      "archive_sha256": "83be7a37c639f12a04a8a4de57648a7d308960fffecad685116a5c058c718ae0",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/试用材料/05_发现修改复查与结果报告空表.md",
+      "category": "个人项目",
+      "bytes": 5367,
+      "source_sha256": "2f77a0a14994785eae29528f8ea1ac365b008d48fd791d1690c5c516151f790d",
+      "archive_sha256": "2f77a0a14994785eae29528f8ea1ac365b008d48fd791d1690c5c516151f790d",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/看见排序/试用材料/06_教师与活动引导卡.md",
+      "category": "个人项目",
+      "bytes": 2792,
+      "source_sha256": "c4063be3ea27c40441f9f2d5f7210abdc670d9fbe5b07b08ef96879568b9a94b",
+      "archive_sha256": "c4063be3ea27c40441f9f2d5f7210abdc670d9fbe5b07b08ef96879568b9a94b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/背上的花/site/dist/app.js",
+      "category": "个人项目",
+      "bytes": 23034,
+      "source_sha256": "bc4132088293153419a35d690ccfd137fab25b7c17e619ad24b022ca3cea0b18",
+      "archive_sha256": "bc4132088293153419a35d690ccfd137fab25b7c17e619ad24b022ca3cea0b18",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/背上的花/site/dist/assets/care-scene.png",
+      "category": "个人项目",
+      "bytes": 1909915,
+      "source_sha256": "37e6c172784e6fa332019c1e378f7e494fc05a1bd53825e916094fe75d23a1b0",
+      "archive_sha256": "37e6c172784e6fa332019c1e378f7e494fc05a1bd53825e916094fe75d23a1b0",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/背上的花/site/dist/assets/textile-macro.png",
+      "category": "个人项目",
+      "bytes": 3080640,
+      "source_sha256": "1be0f3a44ad73d447d228cc56429df03c4615219e0b096029b8a3ff307ce734b",
+      "archive_sha256": "1be0f3a44ad73d447d228cc56429df03c4615219e0b096029b8a3ff307ce734b",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/背上的花/site/dist/engine.js",
+      "category": "个人项目",
+      "bytes": 3241,
+      "source_sha256": "dee3a351eebf2a4c449d454b082f22612817fcc0d604c2dcaed2dad74a33012c",
+      "archive_sha256": "dee3a351eebf2a4c449d454b082f22612817fcc0d604c2dcaed2dad74a33012c",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/背上的花/site/dist/index.html",
+      "category": "个人项目",
+      "bytes": 3624,
+      "source_sha256": "362bc0931e5f7e20384b7c4d7ebea8b213b6b0f8e10f2b32dc3686612cc51310",
+      "archive_sha256": "362bc0931e5f7e20384b7c4d7ebea8b213b6b0f8e10f2b32dc3686612cc51310",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/背上的花/site/dist/mark.svg",
+      "category": "个人项目",
+      "bytes": 272,
+      "source_sha256": "e8d5da70adfd0ee5d884552dacb6b34c7ff2a4b73a9c104b38524d20e508c0f3",
+      "archive_sha256": "e8d5da70adfd0ee5d884552dacb6b34c7ff2a4b73a9c104b38524d20e508c0f3",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/背上的花/site/dist/renderer.js",
+      "category": "个人项目",
+      "bytes": 10286,
+      "source_sha256": "aec60f7528dba20834114e8af0c04e2a1d95811860912751b866e2060a9df52c",
+      "archive_sha256": "aec60f7528dba20834114e8af0c04e2a1d95811860912751b866e2060a9df52c",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/背上的花/site/dist/styles.css",
+      "category": "个人项目",
+      "bytes": 15107,
+      "source_sha256": "f3a1ebfd37d90be998a1fab3612d915601245ae1284d63fb0a09aaffd448077f",
+      "archive_sha256": "f3a1ebfd37d90be998a1fab3612d915601245ae1284d63fb0a09aaffd448077f",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/背上的花/开发复核/README.md",
+      "category": "个人项目",
+      "bytes": 229,
+      "source_sha256": "bed1979911d4b505c17c02c49ca88d9e186df945cf89a2352f90c6468f5119ac",
+      "archive_sha256": "bed1979911d4b505c17c02c49ca88d9e186df945cf89a2352f90c6468f5119ac",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/背上的花/开发复核/engine-check.cjs",
+      "category": "个人项目",
+      "bytes": 1983,
+      "source_sha256": "826ff3c3d60a2a518a2d978b302bccb67bd494c7160fe69343f3ee1c59ff0a17",
+      "archive_sha256": "826ff3c3d60a2a518a2d978b302bccb67bd494c7160fe69343f3ee1c59ff0a17",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/背上的花/开始使用.md",
+      "category": "个人项目",
+      "bytes": 2904,
+      "source_sha256": "a3b1dac6b27a43aedd785e9de3ca76b5a03d2626999b91de10a469b8d520a549",
+      "archive_sha256": "a3b1dac6b27a43aedd785e9de3ca76b5a03d2626999b91de10a469b8d520a549",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/背上的花/打开作品.html",
+      "category": "个人项目",
+      "bytes": 450,
+      "source_sha256": "2e47b649416377c0d4e5c7a091d2cffd7aab28af888f37beded892b1dfe3e3c0",
+      "archive_sha256": "2e47b649416377c0d4e5c7a091d2cffd7aab28af888f37beded892b1dfe3e3c0",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/背上的花/文件校验清单.json",
+      "category": "个人项目",
+      "bytes": 7200,
+      "source_sha256": "491a45dbb378c08564c57da518ed8f51d744584e09bc5568160d38ab290253a4",
+      "archive_sha256": "491a45dbb378c08564c57da518ed8f51d744584e09bc5568160d38ab290253a4",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/背上的花/正式提交_先读我.md",
+      "category": "个人项目",
+      "bytes": 776,
+      "source_sha256": "8d12f3390d86086312d87e5a9c11ef7d56453a63c64324ed91c0f9cf8f4ee355",
+      "archive_sha256": "8d12f3390d86086312d87e5a9c11ef7d56453a63c64324ed91c0f9cf8f4ee355",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/黔数有据/data/seed.json",
+      "category": "个人项目",
+      "bytes": 49925,
+      "source_sha256": "893be227c6090907ced9a6fc1d67fc7be3c918fe8ff7292a4ae1771893ac3f56",
+      "archive_sha256": "893be227c6090907ced9a6fc1d67fc7be3c918fe8ff7292a4ae1771893ac3f56",
+      "notes": []
+    },
+    {
+      "path": "个人项目/数媒比赛/黔数有据/server.py",
+      "category": "个人项目",
+      "bytes": 23449,
+      "source_sha256": "2a38d3a9b2466710337308aed1e05d7122c8fb38092d01d94924643790cc3a01",
+      "archive_sha256": "2a38d3a9b2466710337308aed1e05d7122c8fb38092d01d94924643790cc3a01",
+      "notes": []
+    },
+    {
+      "path": "人工智能与机器学习/6.1机器学习的基础.ipynb",
+      "category": "人工智能与机器学习",
+      "bytes": 117606,
+      "source_sha256": "72cc40186b2d34894f647ce5f9614d4ebd20e713a0ecb9ccc6684f9e79afa3fc",
+      "archive_sha256": "72cc40186b2d34894f647ce5f9614d4ebd20e713a0ecb9ccc6684f9e79afa3fc",
+      "notes": []
+    },
+    {
+      "path": "人工智能与机器学习/6.2分类与回归.ipynb",
+      "category": "人工智能与机器学习",
+      "bytes": 615,
+      "source_sha256": "99bc47f08c0632c323d2b132dcd4da29e3d058b60bad9e01318c5ebb671a41e6",
+      "archive_sha256": "99bc47f08c0632c323d2b132dcd4da29e3d058b60bad9e01318c5ebb671a41e6",
+      "notes": []
+    },
+    {
+      "path": "人工智能与机器学习/6.3-6.4k近邻分类算法及其实现.ipynb",
+      "category": "人工智能与机器学习",
+      "bytes": 163605,
+      "source_sha256": "dcf1862274b0c8fa9f42a518e24fd6b32ef416213fcbd29f488870392647f010",
+      "archive_sha256": "dcf1862274b0c8fa9f42a518e24fd6b32ef416213fcbd29f488870392647f010",
+      "notes": []
+    },
+    {
+      "path": "人工智能与机器学习/6.5聚类k均值聚类算法实现.ipynb",
+      "category": "人工智能与机器学习",
+      "bytes": 79718,
+      "source_sha256": "2abb780eb49f14114f80177df70015557b62befbcb07001d88e4bbe377eb14ff",
+      "archive_sha256": "2abb780eb49f14114f80177df70015557b62befbcb07001d88e4bbe377eb14ff",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/Python脚本/BERT+CNN.py",
+      "category": "历史Python脚本",
+      "bytes": 8078,
+      "source_sha256": "8ba3a5c2b9caab5fe4815bc2b2153837a87721bef729a29cf3459f2d5c255787",
+      "archive_sha256": "8ba3a5c2b9caab5fe4815bc2b2153837a87721bef729a29cf3459f2d5c255787",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/Python脚本/BERT+LSTM.py",
+      "category": "历史Python脚本",
+      "bytes": 6313,
+      "source_sha256": "f327ce4ec51967ceafae188f673ca915571f90df49428885b25ad267086bf07f",
+      "archive_sha256": "f327ce4ec51967ceafae188f673ca915571f90df49428885b25ad267086bf07f",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/Python脚本/generate_report.py",
+      "category": "历史Python脚本",
+      "bytes": 592,
+      "source_sha256": "76ad338b4aeb2433f528c334a7e9d2a3d66f2be9a2f1d9b2a2d93a5dea669fb7",
+      "archive_sha256": "76ad338b4aeb2433f528c334a7e9d2a3d66f2be9a2f1d9b2a2d93a5dea669fb7",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/Python脚本/langconv.py",
+      "category": "历史Python脚本",
+      "bytes": 7961,
+      "source_sha256": "3dc557b35d349883677d6aad72600c50eae36abb327f9b741c8332a9df3d0f22",
+      "archive_sha256": "3dc557b35d349883677d6aad72600c50eae36abb327f9b741c8332a9df3d0f22",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/Python脚本/utils.py",
+      "category": "历史Python脚本",
+      "bytes": 2478,
+      "source_sha256": "770f81561df4ab71d49a302a2a34e460f8e173db744168bec53326db0597ac62",
+      "archive_sha256": "770f81561df4ab71d49a302a2a34e460f8e173db744168bec53326db0597ac62",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/Python脚本/zh_wiki.py",
+      "category": "历史Python脚本",
+      "bytes": 143019,
+      "source_sha256": "9216667dbc755b2e5ed7c3b89bdccf9bb13bfeee1bf1fcc1460450e94ecc0e00",
+      "archive_sha256": "9216667dbc755b2e5ed7c3b89bdccf9bb13bfeee1bf1fcc1460450e94ecc0e00",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/Python脚本/折线图.py",
+      "category": "历史Python脚本",
+      "bytes": 1051,
+      "source_sha256": "e422a9a7b22c3c0d18553d75074e2f13a669eb7e773f0989419b6fca81483980",
+      "archive_sha256": "e422a9a7b22c3c0d18553d75074e2f13a669eb7e773f0989419b6fca81483980",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/Python脚本/最小二乘实验.py",
+      "category": "历史Python脚本",
+      "bytes": 7467,
+      "source_sha256": "409d8c7e641a643fe9979a790396d8fbc6500013ab43d7cf3a06682b3318470b",
+      "archive_sha256": "409d8c7e641a643fe9979a790396d8fbc6500013ab43d7cf3a06682b3318470b",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/Python脚本/柱状图.py",
+      "category": "历史Python脚本",
+      "bytes": 821,
+      "source_sha256": "6bbf6ab2d2e9cbafe763b6176d778e4780eb377bd32100497d50a5f507dddb76",
+      "archive_sha256": "6bbf6ab2d2e9cbafe763b6176d778e4780eb377bd32100497d50a5f507dddb76",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/Python脚本/词频统计.py",
+      "category": "历史Python脚本",
+      "bytes": 3489,
+      "source_sha256": "f344c2966ec1c034bd5244cf79346abb9d8e04cdac29c313b180d949761acced",
+      "archive_sha256": "f344c2966ec1c034bd5244cf79346abb9d8e04cdac29c313b180d949761acced",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/Python脚本/闪点图.py",
+      "category": "历史Python脚本",
+      "bytes": 1019,
+      "source_sha256": "30c2b0e18ea1a9bd5ae9aa430de785ece4d6461c95805b57913aa8164a0b8a94",
+      "archive_sha256": "30c2b0e18ea1a9bd5ae9aa430de785ece4d6461c95805b57913aa8164a0b8a94",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/20250320.ipynb",
+      "category": "历史笔记本",
+      "bytes": 165545,
+      "source_sha256": "30560d2f34ec141fcf5c2c833feb549eb3d48959aaf4d2fcccebb60f9e5528cd",
+      "archive_sha256": "30560d2f34ec141fcf5c2c833feb549eb3d48959aaf4d2fcccebb60f9e5528cd",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/20250326.ipynb",
+      "category": "历史笔记本",
+      "bytes": 238397,
+      "source_sha256": "8d380f965d4396b35cf5608ee29bdedb43a7266fc060ff89688166ee931329b2",
+      "archive_sha256": "8d380f965d4396b35cf5608ee29bdedb43a7266fc060ff89688166ee931329b2",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/20250327.ipynb",
+      "category": "历史笔记本",
+      "bytes": 687544,
+      "source_sha256": "44a8961ef45136b1bba64264df8701d02b48f54836a90fcada5caf6146dd5b69",
+      "archive_sha256": "44a8961ef45136b1bba64264df8701d02b48f54836a90fcada5caf6146dd5b69",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/20250425 (1).ipynb",
+      "category": "历史笔记本",
+      "bytes": 2961569,
+      "source_sha256": "7668e1094045eb7f07b2665a6a032c7babb8aa7d058f522c8f2d45b07587fdce",
+      "archive_sha256": "7668e1094045eb7f07b2665a6a032c7babb8aa7d058f522c8f2d45b07587fdce",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/59田洪友.ipynb",
+      "category": "历史笔记本",
+      "bytes": 5407,
+      "source_sha256": "82c549a5bdc182ff7625b259a380af7bd9397d01069501fed1997c927b7345f3",
+      "archive_sha256": "82c549a5bdc182ff7625b259a380af7bd9397d01069501fed1997c927b7345f3",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/BERT+CNN.ipynb",
+      "category": "历史笔记本",
+      "bytes": 98310,
+      "source_sha256": "8c0690d9826bf6d99eb97bb02937f054c144b0810bebbcea4e0d6e2a7ee28150",
+      "archive_sha256": "8c0690d9826bf6d99eb97bb02937f054c144b0810bebbcea4e0d6e2a7ee28150",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/BERT+CNN与LSTM+CNN模型性能对比分析.ipynb",
+      "category": "历史笔记本",
+      "bytes": 213156,
+      "source_sha256": "16e6867ce487cd4e518a4ad975d39c323c7b50c96850d3dc94b80cf35a883ebd",
+      "archive_sha256": "16e6867ce487cd4e518a4ad975d39c323c7b50c96850d3dc94b80cf35a883ebd",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/LSTM+CNN.ipynb",
+      "category": "历史笔记本",
+      "bytes": 1829,
+      "source_sha256": "b5266bcf216347c2bd53b30075f57cdb3cb440e83aba5a05fcb1c27185ec70d6",
+      "archive_sha256": "b5266bcf216347c2bd53b30075f57cdb3cb440e83aba5a05fcb1c27185ec70d6",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Lesson1_python_exercises.ipynb",
+      "category": "历史笔记本",
+      "bytes": 7182,
+      "source_sha256": "03cbcf1a767ec64013ee4c2c4a8af80522de9468134c567583e09976ee97d467",
+      "archive_sha256": "03cbcf1a767ec64013ee4c2c4a8af80522de9468134c567583e09976ee97d467",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Python创建工程.lnk.ipynb",
+      "category": "历史笔记本",
+      "bytes": 1364,
+      "source_sha256": "0eb6f96fb06edf661e6f81e8a1307fd23b90aa7e1e3c5459f806133ce6494d8d",
+      "archive_sha256": "0eb6f96fb06edf661e6f81e8a1307fd23b90aa7e1e3c5459f806133ce6494d8d",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled.ipynb",
+      "category": "历史笔记本",
+      "bytes": 67452,
+      "source_sha256": "951af4b23dc90aa16f187c3c7ce7f5be61d9db991444cefabeb66d3619339016",
+      "archive_sha256": "951af4b23dc90aa16f187c3c7ce7f5be61d9db991444cefabeb66d3619339016",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled1.ipynb",
+      "category": "历史笔记本",
+      "bytes": 568,
+      "source_sha256": "48638f0cac00269d62fefd632b6ab8ffa63ce48c2861bde5c3ee9822a0a421d3",
+      "archive_sha256": "48638f0cac00269d62fefd632b6ab8ffa63ce48c2861bde5c3ee9822a0a421d3",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled10.ipynb",
+      "category": "历史笔记本",
+      "bytes": 72,
+      "source_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "archive_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled11.ipynb",
+      "category": "历史笔记本",
+      "bytes": 1378,
+      "source_sha256": "09862866503207b1456c1fa327d0407f33bfc586d3698edd42614dc266e317b0",
+      "archive_sha256": "09862866503207b1456c1fa327d0407f33bfc586d3698edd42614dc266e317b0",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled12.ipynb",
+      "category": "历史笔记本",
+      "bytes": 3063,
+      "source_sha256": "5a4842450173d23a832cbd3e05ad6b333dad7c7e33e136f7c267837f6cba958d",
+      "archive_sha256": "5a4842450173d23a832cbd3e05ad6b333dad7c7e33e136f7c267837f6cba958d",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled13.ipynb",
+      "category": "历史笔记本",
+      "bytes": 698,
+      "source_sha256": "ed2983a7ee94dd64cd8e23c32c0139209b60b3d8975afb8f903c6a50b2cfc85d",
+      "archive_sha256": "ed2983a7ee94dd64cd8e23c32c0139209b60b3d8975afb8f903c6a50b2cfc85d",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled14.ipynb",
+      "category": "历史笔记本",
+      "bytes": 832,
+      "source_sha256": "0b313a9997656f859736bfbacee7ac03ffee7a462d9498914a57d5600f6e2251",
+      "archive_sha256": "0b313a9997656f859736bfbacee7ac03ffee7a462d9498914a57d5600f6e2251",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled15.ipynb",
+      "category": "历史笔记本",
+      "bytes": 72,
+      "source_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "archive_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled16.ipynb",
+      "category": "历史笔记本",
+      "bytes": 332814,
+      "source_sha256": "5b30f09e8f0ad291803e60cef40a8e83ee23cc92c759c74b8e1f9ad83a1f15c0",
+      "archive_sha256": "5b30f09e8f0ad291803e60cef40a8e83ee23cc92c759c74b8e1f9ad83a1f15c0",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled17.ipynb",
+      "category": "历史笔记本",
+      "bytes": 72,
+      "source_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "archive_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled18.ipynb",
+      "category": "历史笔记本",
+      "bytes": 72,
+      "source_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "archive_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled19.ipynb",
+      "category": "历史笔记本",
+      "bytes": 72,
+      "source_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "archive_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled2.ipynb",
+      "category": "历史笔记本",
+      "bytes": 254948,
+      "source_sha256": "f063621fb96f04b65e24d3d7f2650c8c231451f20ce94af6c2d422eba2db6557",
+      "archive_sha256": "f063621fb96f04b65e24d3d7f2650c8c231451f20ce94af6c2d422eba2db6557",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled20.ipynb",
+      "category": "历史笔记本",
+      "bytes": 6652,
+      "source_sha256": "73c890f586d09b04b6eb9f4315803728d18f0e5caf11759d837a23e98ad1d864",
+      "archive_sha256": "73c890f586d09b04b6eb9f4315803728d18f0e5caf11759d837a23e98ad1d864",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled21.ipynb",
+      "category": "历史笔记本",
+      "bytes": 6845,
+      "source_sha256": "c4f790c96d7d02254191e2436e4595f2b17479fad886b7819fee75eef93adfb1",
+      "archive_sha256": "c4f790c96d7d02254191e2436e4595f2b17479fad886b7819fee75eef93adfb1",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled22.ipynb",
+      "category": "历史笔记本",
+      "bytes": 72,
+      "source_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "archive_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled23.ipynb",
+      "category": "历史笔记本",
+      "bytes": 72,
+      "source_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "archive_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled24.ipynb",
+      "category": "历史笔记本",
+      "bytes": 288,
+      "source_sha256": "e446d912c8e960391b91b2e25cbc5388a13463cdb18b2e7bc9b1093538084bdb",
+      "archive_sha256": "e446d912c8e960391b91b2e25cbc5388a13463cdb18b2e7bc9b1093538084bdb",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled25.ipynb",
+      "category": "历史笔记本",
+      "bytes": 12221,
+      "source_sha256": "95d1aec885b511b7351b1e10a39745a19c13ef8ff0e1f178816422d2708e8e99",
+      "archive_sha256": "95d1aec885b511b7351b1e10a39745a19c13ef8ff0e1f178816422d2708e8e99",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled26.ipynb",
+      "category": "历史笔记本",
+      "bytes": 1882758,
+      "source_sha256": "10340387216ccab208df1fe241ca56fe7764a64415be257daf6098dab783ca55",
+      "archive_sha256": "10340387216ccab208df1fe241ca56fe7764a64415be257daf6098dab783ca55",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled27.ipynb",
+      "category": "历史笔记本",
+      "bytes": 319571,
+      "source_sha256": "1d5d8a1bede59487751e1f1c5e3fe076f470a96f3a5663292c19c7b9edd3cb45",
+      "archive_sha256": "1d5d8a1bede59487751e1f1c5e3fe076f470a96f3a5663292c19c7b9edd3cb45",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled28.ipynb",
+      "category": "历史笔记本",
+      "bytes": 14832,
+      "source_sha256": "d525a8ed3f4d07fd622b8fb84fa7cd3ab751cd219fea5fb421a2e8d4429c7eec",
+      "archive_sha256": "d525a8ed3f4d07fd622b8fb84fa7cd3ab751cd219fea5fb421a2e8d4429c7eec",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled29.ipynb",
+      "category": "历史笔记本",
+      "bytes": 16415,
+      "source_sha256": "2343e71b08bbda79c5a4cf538ccc596cae1e17a53533c5b8700b1865db992fe7",
+      "archive_sha256": "2343e71b08bbda79c5a4cf538ccc596cae1e17a53533c5b8700b1865db992fe7",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled3.ipynb",
+      "category": "历史笔记本",
+      "bytes": 65159,
+      "source_sha256": "a56ead934628a1d9b180f65d74f82f6f395add646bb827be9a14ab70ee4c23e3",
+      "archive_sha256": "a56ead934628a1d9b180f65d74f82f6f395add646bb827be9a14ab70ee4c23e3",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled30.ipynb",
+      "category": "历史笔记本",
+      "bytes": 337,
+      "source_sha256": "3f3eaebeb16b3f6b7ad14c7a1bd5c388d80afac7cf1f5977c6c4df55a19bfd2a",
+      "archive_sha256": "3f3eaebeb16b3f6b7ad14c7a1bd5c388d80afac7cf1f5977c6c4df55a19bfd2a",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled31.ipynb",
+      "category": "历史笔记本",
+      "bytes": 337,
+      "source_sha256": "dbc83aaae9720139b13b957878d487fc9602c9c78871fddef37af6459c6debed",
+      "archive_sha256": "dbc83aaae9720139b13b957878d487fc9602c9c78871fddef37af6459c6debed",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled32.ipynb",
+      "category": "历史笔记本",
+      "bytes": 610,
+      "source_sha256": "9b2d2cf51c1851a7e02dcaf0e9b324040820763645bf3bad05379c40b1cb2fd2",
+      "archive_sha256": "9b2d2cf51c1851a7e02dcaf0e9b324040820763645bf3bad05379c40b1cb2fd2",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled4.ipynb",
+      "category": "历史笔记本",
+      "bytes": 2419,
+      "source_sha256": "1b44337c105bee626aebcef3d4f4d213bb7b75100831abb9f7156d5bc9d64112",
+      "archive_sha256": "1b44337c105bee626aebcef3d4f4d213bb7b75100831abb9f7156d5bc9d64112",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled5.ipynb",
+      "category": "历史笔记本",
+      "bytes": 45213,
+      "source_sha256": "eb090ebdfd17905c9b800db3f0f372478257b2badada54c3cceba75bbc359a86",
+      "archive_sha256": "eb090ebdfd17905c9b800db3f0f372478257b2badada54c3cceba75bbc359a86",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled6.ipynb",
+      "category": "历史笔记本",
+      "bytes": 72,
+      "source_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "archive_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled7.ipynb",
+      "category": "历史笔记本",
+      "bytes": 3190,
+      "source_sha256": "b7b78c55a7f4bfd1e105fdde23614b920e1208c5e03014024905334f51389c5a",
+      "archive_sha256": "b7b78c55a7f4bfd1e105fdde23614b920e1208c5e03014024905334f51389c5a",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled8.ipynb",
+      "category": "历史笔记本",
+      "bytes": 1378,
+      "source_sha256": "76bbd6bf0fb93201bb53d59e49f9d7ac36658bdec14ad98f8d8f2b587b228a75",
+      "archive_sha256": "76bbd6bf0fb93201bb53d59e49f9d7ac36658bdec14ad98f8d8f2b587b228a75",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Untitled9.ipynb",
+      "category": "历史笔记本",
+      "bytes": 2632,
+      "source_sha256": "c657e007778260fc992f1ae6851aaff9e1435c84797a8ac05b7ce4ad50e04bf0",
+      "archive_sha256": "c657e007778260fc992f1ae6851aaff9e1435c84797a8ac05b7ce4ad50e04bf0",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/Utils.py.ipynb",
+      "category": "历史笔记本",
+      "bytes": 3926,
+      "source_sha256": "865299e8f58c86c9ddac5895b0ee8fdf62aaa293a52556a15d084c7fedd2c602",
+      "archive_sha256": "865299e8f58c86c9ddac5895b0ee8fdf62aaa293a52556a15d084c7fedd2c602",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/machine_translate.ipynb",
+      "category": "历史笔记本",
+      "bytes": 1649983,
+      "source_sha256": "acf5c9e9bb66ca55691223a88edbba8533392c12336f01db6601e0dfb5b86906",
+      "archive_sha256": "acf5c9e9bb66ca55691223a88edbba8533392c12336f01db6601e0dfb5b86906",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/numpy.ipynb",
+      "category": "历史笔记本",
+      "bytes": 610,
+      "source_sha256": "fe507557492e24ba7ba5396e1788370bc0d8aeccffd9eecfe27f1e1cd0ceadf5",
+      "archive_sha256": "fe507557492e24ba7ba5396e1788370bc0d8aeccffd9eecfe27f1e1cd0ceadf5",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/python学习.ipynb",
+      "category": "历史笔记本",
+      "bytes": 2936308,
+      "source_sha256": "b0a887750a386987c6229d45b4d6124404cee09a528b8ec0fb95f0a5d74777c5",
+      "archive_sha256": "b0a887750a386987c6229d45b4d6124404cee09a528b8ec0fb95f0a5d74777c5",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/sds1.ipynb",
+      "category": "历史笔记本",
+      "bytes": 321616,
+      "source_sha256": "aa797a2b5da59de48ede2f85a68116d016c85a8321323a092ebd3161c782459f",
+      "archive_sha256": "aa797a2b5da59de48ede2f85a68116d016c85a8321323a092ebd3161c782459f",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/st.ipynb",
+      "category": "历史笔记本",
+      "bytes": 412244,
+      "source_sha256": "c795453e99b1f5d062180959d1effbf5b1d36c3955ee7b950e8eefd9a545d795",
+      "archive_sha256": "c795453e99b1f5d062180959d1effbf5b1d36c3955ee7b950e8eefd9a545d795",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/visualization_matplotlib_basic_3.ipynb",
+      "category": "历史笔记本",
+      "bytes": 173425,
+      "source_sha256": "ed07067a2aa59091f0686af75a30649d42cb764cd4fcbac7c07e6d87eef2f64c",
+      "archive_sha256": "ed07067a2aa59091f0686af75a30649d42cb764cd4fcbac7c07e6d87eef2f64c",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/visualization_matplotlib_case_4.ipynb",
+      "category": "历史笔记本",
+      "bytes": 800336,
+      "source_sha256": "f57f5aa7521e42788c526d412b253b77447fad370f0fde3b47a21a0ac3671346",
+      "archive_sha256": "f57f5aa7521e42788c526d412b253b77447fad370f0fde3b47a21a0ac3671346",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/visulization_matplotlib_exercise_5.ipynb",
+      "category": "历史笔记本",
+      "bytes": 16214,
+      "source_sha256": "1b313cd61e7364405431a39e27331058ac4041a7efa0210ac77e9eab901b6c90",
+      "archive_sha256": "1b313cd61e7364405431a39e27331058ac4041a7efa0210ac77e9eab901b6c90",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/实验三.ipynb",
+      "category": "历史笔记本",
+      "bytes": 3929136,
+      "source_sha256": "0ecfbec5cac4c71eb5739a91859335e76eec1b33063ab8b246dd696a6d3a733c",
+      "archive_sha256": "0ecfbec5cac4c71eb5739a91859335e76eec1b33063ab8b246dd696a6d3a733c",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/实验三3.ipynb",
+      "category": "历史笔记本",
+      "bytes": 193268,
+      "source_sha256": "2c964307afab6a3eae59ec6d5e0352a8c8ed8ade02b431f0e64cdd7af3d967a0",
+      "archive_sha256": "2c964307afab6a3eae59ec6d5e0352a8c8ed8ade02b431f0e64cdd7af3d967a0",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/实验三4.ipynb",
+      "category": "历史笔记本",
+      "bytes": 6797504,
+      "source_sha256": "c6fc9b99c249af49b4722628d3e5f9706cfa25a553e13767908fcacbf57659d9",
+      "archive_sha256": "c6fc9b99c249af49b4722628d3e5f9706cfa25a553e13767908fcacbf57659d9",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/折线图.ipynb",
+      "category": "历史笔记本",
+      "bytes": 52079,
+      "source_sha256": "ec05f40c22db85d2a38b00a3bcee5b175e92ab02c44dcd13df237acd0d2ce681",
+      "archive_sha256": "ec05f40c22db85d2a38b00a3bcee5b175e92ab02c44dcd13df237acd0d2ce681",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/数据仓库实验.ipynb",
+      "category": "历史笔记本",
+      "bytes": 1332975,
+      "source_sha256": "3cc097ab8d134113ae7085ac13627dabbf4d1d9b04900b9ef1b45f125070f3fd",
+      "archive_sha256": "3cc097ab8d134113ae7085ac13627dabbf4d1d9b04900b9ef1b45f125070f3fd",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/数据爬取.ipynb",
+      "category": "历史笔记本",
+      "bytes": 564,
+      "source_sha256": "2c0f67d08e2a46fb9898a871064a564f73036a21fd68a6202d2d2afe678da243",
+      "archive_sha256": "2c0f67d08e2a46fb9898a871064a564f73036a21fd68a6202d2d2afe678da243",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/数据爬虫.ipynb",
+      "category": "历史笔记本",
+      "bytes": 4502,
+      "source_sha256": "13b65af9c3f9de61f2804dc4ac60d8ca20885f1e4abe646d8f002ef5973fc5a6",
+      "archive_sha256": "13b65af9c3f9de61f2804dc4ac60d8ca20885f1e4abe646d8f002ef5973fc5a6",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/最终版.ipynb",
+      "category": "历史笔记本",
+      "bytes": 2349574,
+      "source_sha256": "406bdc94b6b288b84aad52239667747c085f6c650e5b6a122878dbd758ef2eb1",
+      "archive_sha256": "406bdc94b6b288b84aad52239667747c085f6c650e5b6a122878dbd758ef2eb1",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/未命名.ipynb",
+      "category": "历史笔记本",
+      "bytes": 34776,
+      "source_sha256": "f131bd3521e63271725cf739d1ca117684708feafdd8ac9afc6103dc6e536052",
+      "archive_sha256": "f131bd3521e63271725cf739d1ca117684708feafdd8ac9afc6103dc6e536052",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/未命名1.ipynb",
+      "category": "历史笔记本",
+      "bytes": 583,
+      "source_sha256": "775f74bc655ba88a71e4387e6a7bcfcbafcfb69571fbe9fb9a4c0cb3ad63967a",
+      "archive_sha256": "775f74bc655ba88a71e4387e6a7bcfcbafcfb69571fbe9fb9a4c0cb3ad63967a",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/未命名2.ipynb",
+      "category": "历史笔记本",
+      "bytes": 62498,
+      "source_sha256": "1e86da5b8a9fa87b458c1c72785fc18ab6f6ec27d8fff8a1541acf6eeaf5e1a4",
+      "archive_sha256": "1e86da5b8a9fa87b458c1c72785fc18ab6f6ec27d8fff8a1541acf6eeaf5e1a4",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/未命名3.ipynb",
+      "category": "历史笔记本",
+      "bytes": 19433,
+      "source_sha256": "d3754e70433b3dd65def4a3c607f25e2d870506c5ed5a0c0d82e831549e1f656",
+      "archive_sha256": "d3754e70433b3dd65def4a3c607f25e2d870506c5ed5a0c0d82e831549e1f656",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/未命名4.ipynb",
+      "category": "历史笔记本",
+      "bytes": 72,
+      "source_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "archive_sha256": "188143f20ba64ead32853235735c589180056b6c7c47541744479767de696e37",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/机器翻译.ipynb",
+      "category": "历史笔记本",
+      "bytes": 330132,
+      "source_sha256": "e482ba18183aa072590b51fa28066ba85c4bc962c8a058a5c4e8df6f2795d7c1",
+      "archive_sha256": "e482ba18183aa072590b51fa28066ba85c4bc962c8a058a5c4e8df6f2795d7c1",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/柱状图.ipynb",
+      "category": "历史笔记本",
+      "bytes": 31374,
+      "source_sha256": "728f7dba11e05544c836c8edd2d015db92504347bc910a86529124be5192e4df",
+      "archive_sha256": "728f7dba11e05544c836c8edd2d015db92504347bc910a86529124be5192e4df",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/毕业设计.ipynb",
+      "category": "历史笔记本",
+      "bytes": 357171,
+      "source_sha256": "a387d69ab84bf77ee6037ef54ef24d03dfd9cc1bc9d833706d0858ea12cfee5d",
+      "archive_sha256": "a387d69ab84bf77ee6037ef54ef24d03dfd9cc1bc9d833706d0858ea12cfee5d",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/词频统计.ipynb",
+      "category": "历史笔记本",
+      "bytes": 7651,
+      "source_sha256": "ae173fd5ab96b9a79d4bf49293f6ce8979cec365bab6682cec0eb20899f513bb",
+      "archive_sha256": "ae173fd5ab96b9a79d4bf49293f6ce8979cec365bab6682cec0eb20899f513bb",
+      "notes": []
+    },
+    {
+      "path": "历史学习代码/笔记本/闪点图.ipynb",
+      "category": "历史笔记本",
+      "bytes": 39032,
+      "source_sha256": "94143f4c9c982bf2ee4d31c9ce78950c5b149b268f2b8b972f9465f16d3acb13",
+      "archive_sha256": "94143f4c9c982bf2ee4d31c9ce78950c5b149b268f2b8b972f9465f16d3acb13",
+      "notes": []
+    },
+    {
+      "path": "历史项目/make_paper_figures.py",
+      "category": "历史项目",
+      "bytes": 6995,
+      "source_sha256": "42b87a41dade4c405f6a1747cc786a3cd342b6f59cc23f3ad53c00d0c2b38295",
+      "archive_sha256": "42b87a41dade4c405f6a1747cc786a3cd342b6f59cc23f3ad53c00d0c2b38295",
+      "notes": []
+    },
+    {
+      "path": "历史项目/make_paper_figures_notebook.py",
+      "category": "历史项目",
+      "bytes": 8586,
+      "source_sha256": "1abb2c3accd0b0be4281bdf707c6ee01652b229123635ae38df7d4eb935d0c81",
+      "archive_sha256": "1abb2c3accd0b0be4281bdf707c6ee01652b229123635ae38df7d4eb935d0c81",
+      "notes": []
+    },
+    {
+      "path": "历史项目/make_paper_figures_notebook_autosearch.py",
+      "category": "历史项目",
+      "bytes": 8321,
+      "source_sha256": "ca051614d89a24b2d0341c7159fb1112ac410bddbac4138ad50f6b2f9bc1e422",
+      "archive_sha256": "ca051614d89a24b2d0341c7159fb1112ac410bddbac4138ad50f6b2f9bc1e422",
+      "notes": []
+    },
+    {
+      "path": "历史项目/代码.py",
+      "category": "历史项目",
+      "bytes": 26505,
+      "source_sha256": "3f76c84d1c4c4b402e2fd6252c51faf8a3fb7d30bcc5876dc7dd1a44d331e245",
+      "archive_sha256": "3f76c84d1c4c4b402e2fd6252c51faf8a3fb7d30bcc5876dc7dd1a44d331e245",
+      "notes": []
+    },
+    {
+      "path": "历史项目/最终版 (1).html",
+      "category": "历史项目",
+      "bytes": 988785,
+      "source_sha256": "1afe56a7e202cbbe346f7b44d979df18de8f5c66431e51c8c5db7b9508a36736",
+      "archive_sha256": "1afe56a7e202cbbe346f7b44d979df18de8f5c66431e51c8c5db7b9508a36736",
+      "notes": []
+    },
+    {
+      "path": "历史项目/第二版.py",
+      "category": "历史项目",
+      "bytes": 8620,
+      "source_sha256": "4b19d8b0308fbbd4bba5152937707c7d0acc7118f897f6ff05e1941bb9f7c5ae",
+      "archive_sha256": "4b19d8b0308fbbd4bba5152937707c7d0acc7118f897f6ff05e1941bb9f7c5ae",
+      "notes": [
+        "source_has_python_syntax_error_preserved"
+      ]
+    },
+    {
+      "path": "参考示例/课堂笔记本/57颜宇5.29.ipynb",
+      "category": "历史笔记本",
+      "bytes": 379037,
+      "source_sha256": "d3a4a01430f453e1357475e2c410ea572607f870cfdf5fef0bb1104020ceca45",
+      "archive_sha256": "d3a4a01430f453e1357475e2c410ea572607f870cfdf5fef0bb1104020ceca45",
+      "notes": []
+    },
+    {
+      "path": "参考示例/课堂笔记本/visulization_matplotlib_exercise_5(ref).ipynb",
+      "category": "历史笔记本",
+      "bytes": 803420,
+      "source_sha256": "1f242fa47b40c77b9b0edd3146fa55dd91abb87c00d5f8a6441e65e3df1f730d",
+      "archive_sha256": "1f242fa47b40c77b9b0edd3146fa55dd91abb87c00d5f8a6441e65e3df1f730d",
+      "notes": []
+    },
+    {
+      "path": "数据科学基础/第一章数据科学基础/1.1数据科学概述.ipynb",
+      "category": "数据科学基础",
+      "bytes": 2445,
+      "source_sha256": "22c2bbd5dd0d9f05318ff2c7fae794a6c5d6d4e80c62e98dcddb8be9a601b9b9",
+      "archive_sha256": "22c2bbd5dd0d9f05318ff2c7fae794a6c5d6d4e80c62e98dcddb8be9a601b9b9",
+      "notes": []
+    },
+    {
+      "path": "数据科学基础/第二章数据组织和科学运算/numpy的学习.ipynb",
+      "category": "数据科学基础",
+      "bytes": 1057,
+      "source_sha256": "bb28b46a27b5ad7e274657eece965c3821fd99e5633010010558adb2278ea661",
+      "archive_sha256": "bb28b46a27b5ad7e274657eece965c3821fd99e5633010010558adb2278ea661",
+      "notes": []
+    },
+    {
+      "path": "数据科学基础/第五章网络爬虫和信息提取/hotnews.txt",
+      "category": "数据科学基础",
+      "bytes": 1350,
+      "source_sha256": "bb7ff455c5ca8e6181f6173590d1ab8ec4a81a9e9ca4cbf5c46025082aacbce5",
+      "archive_sha256": "bb7ff455c5ca8e6181f6173590d1ab8ec4a81a9e9ca4cbf5c46025082aacbce5",
+      "notes": []
+    },
+    {
+      "path": "数据科学基础/第五章网络爬虫和信息提取/网络爬取.py",
+      "category": "数据科学基础",
+      "bytes": 0,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "archive_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "notes": []
+    },
+    {
+      "path": "数据科学基础/第五章网络爬虫和信息提取/网络爬虫.ipynb",
+      "category": "数据科学基础",
+      "bytes": 627207,
+      "source_sha256": "e74760b139424fdd8414fa7e29266b6db6c18ab8f027c30b710c09ecd910079e",
+      "archive_sha256": "e74760b139424fdd8414fa7e29266b6db6c18ab8f027c30b710c09ecd910079e",
+      "notes": []
+    },
+    {
+      "path": "机器学习脚本/K均值聚类/第六章_K均值聚类_kMeans算法.py",
+      "category": "机器学习脚本",
+      "bytes": 5879,
+      "source_sha256": "3a3224a3e461eb677186a187e9e4295eecfb750ce61aa0a0d476b496b01149f7",
+      "archive_sha256": "3a3224a3e461eb677186a187e9e4295eecfb750ce61aa0a0d476b496b01149f7",
+      "notes": []
+    },
+    {
+      "path": "机器学习脚本/K均值聚类/第六章_K均值聚类_二维散点图.py",
+      "category": "机器学习脚本",
+      "bytes": 3389,
+      "source_sha256": "5669b67eed9fbe7fb59dab60de2cd896dbdaf41913dae102036a20fdbca938ef",
+      "archive_sha256": "5669b67eed9fbe7fb59dab60de2cd896dbdaf41913dae102036a20fdbca938ef",
+      "notes": []
+    },
+    {
+      "path": "读书练习/利用Python进行数据分析/Python数据分析2版_自编练习_柱状图方向.png",
+      "category": "读书练习",
+      "bytes": 31457,
+      "source_sha256": "e24844264947c2f64025a52b6199190da30fa9a9b21e2a97b926171d6bcfee71",
+      "archive_sha256": "e24844264947c2f64025a52b6199190da30fa9a9b21e2a97b926171d6bcfee71",
+      "notes": []
+    },
+    {
+      "path": "读书练习/利用Python进行数据分析/读书练习_非原文.py",
+      "category": "读书练习",
+      "bytes": 4442,
+      "source_sha256": "de6a7fa7ae2cc536c400cb5d522f6ec4f5118af167381cc2431ee7ec6f9a4e3d",
+      "archive_sha256": "de6a7fa7ae2cc536c400cb5d522f6ec4f5118af167381cc2431ee7ec6f9a4e3d",
+      "notes": []
+    },
+    {
+      "path": "读书练习/利用Python进行数据分析/运行结果.json",
+      "category": "读书练习",
+      "bytes": 693,
+      "source_sha256": "55bb720fc3ed46e595ca45bf1a32de26e4c6b707e9b2a568ff7fce500d0fe654",
+      "archive_sha256": "55bb720fc3ed46e595ca45bf1a32de26e4c6b707e9b2a568ff7fce500d0fe654",
+      "notes": []
+    },
+    {
+      "path": "读书练习/数据科学基础/已核对示例/01_PDF024_角度与正弦.py",
+      "category": "读书练习",
+      "bytes": 369,
+      "source_sha256": "cabbaa8e54d3976d5206197b858fda800cc77697d1b054699369bb5486c21cd5",
+      "archive_sha256": "cabbaa8e54d3976d5206197b858fda800cc77697d1b054699369bb5486c21cd5",
+      "notes": []
+    },
+    {
+      "path": "读书练习/数据科学基础/已核对示例/01_PDF025_一元二次方程.py",
+      "category": "读书练习",
+      "bytes": 649,
+      "source_sha256": "800a41fd4fd0c353a03671393eb2640c2743d568a849901d2a02f1232a04d1e7",
+      "archive_sha256": "800a41fd4fd0c353a03671393eb2640c2743d568a849901d2a02f1232a04d1e7",
+      "notes": []
+    },
+    {
+      "path": "读书练习/数据科学基础/已核对示例/05_PDF181-182_例5_1_新闻标题与链接.py",
+      "category": "读书练习",
+      "bytes": 956,
+      "source_sha256": "051a34ffb9082f0a593f3d5419f5a3ae792e938b66d7b72fc3c841fc6f587e38",
+      "archive_sha256": "051a34ffb9082f0a593f3d5419f5a3ae792e938b66d7b72fc3c841fc6f587e38",
+      "notes": []
+    },
+    {
+      "path": "读书练习/数据科学基础/已核对示例/05_PDF184_例5_2_获取网页HTML.py",
+      "category": "读书练习",
+      "bytes": 505,
+      "source_sha256": "7b6777b3369d488139c2eba2ef787739990baf1e2833b47dadc640dc7acf302b",
+      "archive_sha256": "7b6777b3369d488139c2eba2ef787739990baf1e2833b47dadc640dc7acf302b",
+      "notes": []
+    },
+    {
+      "path": "读书练习/数据科学基础/已核对示例/05_例5_1_离线可运行练习_非原文.py",
+      "category": "读书练习",
+      "bytes": 1032,
+      "source_sha256": "cf0a6874b116b926b1b002c31a4599b3479a62fa91d55771696019b8aebd11ad",
+      "archive_sha256": "cf0a6874b116b926b1b002c31a4599b3479a62fa91d55771696019b8aebd11ad",
+      "notes": []
+    },
+    {
+      "path": "读书练习/数据科学基础/已核对示例/fixtures/新闻示例.html",
+      "category": "读书练习",
+      "bytes": 479,
+      "source_sha256": "0e08209993bd1cbfbab2c43db8477571ed87c2751bd39449ee2a81490dd51a2b",
+      "archive_sha256": "0e08209993bd1cbfbab2c43db8477571ed87c2751bd39449ee2a81490dd51a2b",
+      "notes": []
+    },
+    {
+      "path": "读书练习/数据科学基础/已核对示例/requirements.txt",
+      "category": "读书练习",
+      "bytes": 26,
+      "source_sha256": "e688a38fbf40d4a7676503b836c738ae674b68bc15f722629d8ec3350decc253",
+      "archive_sha256": "e688a38fbf40d4a7676503b836c738ae674b68bc15f722629d8ec3350decc253",
+      "notes": []
+    },
+    {
+      "path": "读书练习/数据科学基础/已核对示例/运行结果/新闻结果.txt",
+      "category": "读书练习",
+      "bytes": 325,
+      "source_sha256": "2cfeaaeccf4f4f064faf80cf3e9eabd1d9a325250e5e1e3674c7ae794159e354",
+      "archive_sha256": "2cfeaaeccf4f4f064faf80cf3e9eabd1d9a325250e5e1e3674c7ae794159e354",
+      "notes": []
+    },
+    {
+      "path": "读书练习/数据科学基础/数据科学基础第五六章学习练习.ipynb",
+      "category": "读书练习",
+      "bytes": 18459,
+      "source_sha256": "0e4aaa0d1a9f893b8c094328b8a30d4080cd73d20a33884f1a836d5d3d1fc7a6",
+      "archive_sha256": "0e4aaa0d1a9f893b8c094328b8a30d4080cd73d20a33884f1a836d5d3d1fc7a6",
+      "notes": []
+    },
+    {
+      "path": "读书练习/深度学习的数学/最小二乘实验.py",
+      "category": "读书练习",
+      "bytes": 7468,
+      "source_sha256": "9fb2ea8c76907283a77034dd473762455a845c0d8002a778ac56091c89a82aa4",
+      "archive_sha256": "9fb2ea8c76907283a77034dd473762455a845c0d8002a778ac56091c89a82aa4",
+      "notes": []
+    },
+    {
+      "path": "课程实操/BV1U2WmzfEqp/P014-init-noargs/classroom_car.py",
+      "category": "课程实操",
+      "bytes": 833,
+      "source_sha256": "55f76ab80f25a9c44e12e8318eeafbaacdd17d1e6e5988ecb0692f2674314b55",
+      "archive_sha256": "55f76ab80f25a9c44e12e8318eeafbaacdd17d1e6e5988ecb0692f2674314b55",
+      "notes": []
+    },
+    {
+      "path": "课程实验/数据仓库/启动Spyder.cmd",
+      "category": "课程实验",
+      "bytes": 143,
+      "source_sha256": "35090e6f1e994d22e71d4c9a8866516bd8f695bc57b99ef61e8aedb499944d67",
+      "archive_sha256": "35090e6f1e994d22e71d4c9a8866516bd8f695bc57b99ef61e8aedb499944d67",
+      "notes": []
+    },
+    {
+      "path": "课程实验/数据仓库/实验5_Python数据变换与离散化.ipynb",
+      "category": "课程实验",
+      "bytes": 43080,
+      "source_sha256": "d1c6900e7516bc3b0e3b450e2efc85661fd15d451d147bbd114b031838d26f8c",
+      "archive_sha256": "d1c6900e7516bc3b0e3b450e2efc85661fd15d451d147bbd114b031838d26f8c",
+      "notes": []
+    },
+    {
+      "path": "课程实验/数据仓库/实验6_利用sklearn进行数据预处理.ipynb",
+      "category": "课程实验",
+      "bytes": 31337,
+      "source_sha256": "4786838e25e12c2d08049abf699c6a861c7cbca59b246e97d97c4779b8d58b97",
+      "archive_sha256": "4786838e25e12c2d08049abf699c6a861c7cbca59b246e97d97c4779b8d58b97",
+      "notes": []
+    },
+    {
+      "path": "课程实验/数据仓库/实验三_利用Pandas进行数据清洗.ipynb",
+      "category": "课程实验",
+      "bytes": 40774,
+      "source_sha256": "64042963666395cb450915af9fabb9586f1d503828d45095796ceda91ed81144",
+      "archive_sha256": "64042963666395cb450915af9fabb9586f1d503828d45095796ceda91ed81144",
+      "notes": []
+    },
+    {
+      "path": "课程实验/数据仓库/实验四.ipynb",
+      "category": "课程实验",
+      "bytes": 45064,
+      "source_sha256": "33f6e64764e1070ada5569b45d77fceb363f0d2e9530c5c01069b24b2f9fb6de",
+      "archive_sha256": "33f6e64764e1070ada5569b45d77fceb363f0d2e9530c5c01069b24b2f9fb6de",
+      "notes": []
+    }
+  ]
+}

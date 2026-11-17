@@ -1,0 +1,4 @@
+interface:
+  display_name: "学一课，记一节"
+  short_description: "整理概念课与编程实操课，关联视频时间点、代码文件、运行结果和学习记录"
+  default_prompt: "用 $course-study 整理当前课程，概念课记录重点，编程课关联代码、运行结果与报错，写入视频课程仓库并保留我的学习记录。"

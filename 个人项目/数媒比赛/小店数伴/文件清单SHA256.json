@@ -1,0 +1,153 @@
+{
+  "project": "小店数伴",
+  "version": "0.1.0",
+  "state": "本地原型；没有商户试用证据或正式报名",
+  "files": [
+    {
+      "path": "app.py",
+      "bytes": 11520,
+      "sha256": "6ad91d41793edaf96075ad8ddbbb3bfa6bbecaebc31ed34c8270a58de1b59d03"
+    },
+    {
+      "path": "data/source.json",
+      "bytes": 1279,
+      "sha256": "8c64235737da83f4bb1c75231916d0291abca9914cc6e88a32cb90f114b20ba7"
+    },
+    {
+      "path": "data/uci-retail-2011-10-11.csv.gz",
+      "bytes": 2286517,
+      "sha256": "300dd8a210a86b60524c7a6376848f1be346f456d456c048982c5f657c1b706c"
+    },
+    {
+      "path": "data/来源与许可.txt",
+      "bytes": 960,
+      "sha256": "a439a4aec0dd86d154175018dc54a90db997b3326e053b5a6af25188ac8e25de"
+    },
+    {
+      "path": "engine.py",
+      "bytes": 17493,
+      "sha256": "aef0b9b0d147a741024d90cdc61e7c1b9f99026cccf4ba89cc2105e9834d7c9b"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 32,
+      "sha256": "bae9687ffa8b3f05177a689708286371571f3b3aac7e5fb546453e5f803ecd30"
+    },
+    {
+      "path": "tests/test_engine.py",
+      "bytes": 5789,
+      "sha256": "b1ad228bf953fff5c6756666227d8f629dcf78fa452e138a0e558f14f3961d34"
+    },
+    {
+      "path": "web/app.js",
+      "bytes": 32939,
+      "sha256": "baf7e1c5876f3d7f19db105cf5624532fef9fcf0242690b8c69320df8cc9d47a"
+    },
+    {
+      "path": "web/index.html",
+      "bytes": 4467,
+      "sha256": "4558f4156edd4001352586d4bd50b3cbeda34deb7244829c30397b51e6e21f7c"
+    },
+    {
+      "path": "web/style.css",
+      "bytes": 25079,
+      "sha256": "0c0d02137fd8c77bf8424671c5e87880f4196a683ceb4605b28360c1440a62f9"
+    },
+    {
+      "path": "参赛材料/AI使用与第三方资源说明_初稿.md",
+      "bytes": 2163,
+      "sha256": "aa730aa59f450c376ffa1e1b5ddec9fc484c3624431a4caf6fb7eb3e29162c60"
+    },
+    {
+      "path": "参赛材料/OPC创新实践说明_初稿.md",
+      "bytes": 4866,
+      "sha256": "27d14f9db392dc7ead7d0ea48a35703bae12df796c89542cf7281a7239bc9ef3"
+    },
+    {
+      "path": "参赛材料/真实参与与试用记录模板.md",
+      "bytes": 1957,
+      "sha256": "db5c465ad784f30e0d3668e2b77e16e459a475dcdf262c0250beac47261793de"
+    },
+    {
+      "path": "参赛材料/评审视频讲解提纲_待录制.md",
+      "bytes": 1823,
+      "sha256": "84873dd925f3af6929821a7795fdbb789939f1b2c3e57e73036624b720fe93a6"
+    },
+    {
+      "path": "启动小店数伴.cmd",
+      "bytes": 200,
+      "sha256": "77f5675d167376b27b40b210416974799b34d7aee7526b8461bbb5691ec16df5"
+    },
+    {
+      "path": "开发复核/重建示例数据.py",
+      "bytes": 2077,
+      "sha256": "45bcd21d57e9bcdcc51ffa83cb6758c843a61c3121bdf2b5a91497ab8964c81a"
+    },
+    {
+      "path": "开始使用.md",
+      "bytes": 3074,
+      "sha256": "1035a6e2ae8c955732179d106209424de5fc3e386336d502ac525edc08635da8"
+    },
+    {
+      "path": "验收截图/01-经营概览.png",
+      "bytes": 186958,
+      "sha256": "253034fb931d2ef2aecfbf126ef898feaa1a76ebe1fad1e45f45fabb5ee2992f"
+    },
+    {
+      "path": "验收截图/02-数据体检.png",
+      "bytes": 242032,
+      "sha256": "ad59dd0489d31eccc12a13245bfa2833cfacdb1002f8060cc159248e6a3c67d3"
+    },
+    {
+      "path": "验收截图/03-商品洞察.png",
+      "bytes": 494383,
+      "sha256": "6904b5232b7691ea46081e878fdd09f14d3059a22877464681ed83607a5f95c7"
+    },
+    {
+      "path": "验收截图/04-行动清单.png",
+      "bytes": 126919,
+      "sha256": "ff3aa685153a6a25960e4425deda6e3437f0cf6b33b7b4396f35520e3157ae85"
+    },
+    {
+      "path": "验收截图/05-来源与方法.png",
+      "bytes": 185130,
+      "sha256": "90bbd8df09aaf7b5502969c223c7bd353ba4c481f969c3b66c292a20150e8775"
+    },
+    {
+      "path": "验收截图/06-导入功能核查样例.png",
+      "bytes": 133345,
+      "sha256": "4baee7396b193630319796bd86bb5ad0da71c9c85bd3f837c4007421ae99cd03"
+    },
+    {
+      "path": "验收截图/07-手机布局.png",
+      "bytes": 141332,
+      "sha256": "0d61462b19a3e24635496929b59c164ea52b93524bd152cb341f07fb86659adb"
+    },
+    {
+      "path": "验收材料/公开数据与指标核查.json",
+      "bytes": 854,
+      "sha256": "eb360a951a97de9b00c4514d0852682a82e376aba49928076804612d0d791f62"
+    },
+    {
+      "path": "验收材料/核查说明.md",
+      "bytes": 2163,
+      "sha256": "302361d96bd959461c4ea0e842e84ac41e595818c71fd634b7651a4d23f1c858"
+    },
+    {
+      "path": "验收材料/浏览器核查结果.json",
+      "bytes": 1103,
+      "sha256": "9a98496a615d9ddffdd9c13911404442ef6e4b076369dc93e703892c8a540492"
+    },
+    {
+      "path": "验收材料/自动化导出样本/分析报告_自动化生成.html",
+      "bytes": 5994,
+      "sha256": "2a0d8dae4e3c48d9bd7e4a2c3c26930bf45dd96864975ed8f5bfc7a77f11008e"
+    },
+    {
+      "path": "验收材料/自动化导出样本/核查记录_自动化功能测试.json",
+      "bytes": 3365,
+      "sha256": "14049dda81776250c5220d01d3f91b5921cb330f75723bd22130417db5978378"
+    }
+  ],
+  "note": "本清单不包含自身；哈希用于核对文件一致性，不是第三方签名。"
+}

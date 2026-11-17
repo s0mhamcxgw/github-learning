@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#183e39">
+  <meta name="description" content="看汇总、拆分母、换权重、审结论：一个可离线运行的数据比较交互作品。">
+  <title>看见分母 · 数据比较的交互取证台</title>
+  <link rel="icon" href="mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="data.js" defer></script>
+  <script src="engine.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">跳到作品内容</a>
+  <aside class="rail">
+    <a class="brand" href="#overview" aria-label="看见分母首页"><img src="mark.svg" width="44" height="44" alt=""><span>看见分母<small>DENOMINATOR STUDIO</small></span></a>
+    <div class="rail-caption">一份数据，怎样才算公平比较？</div>
+    <nav id="nav" aria-label="实验步骤"></nav>
+    <div class="rail-bottom"><span class="live-dot"></span>在本机计算 · 数据不上传<p>先看见分母，<br>再说出结论。</p><button class="text-link" data-action="sources">资料与方法 ↗</button><span class="edition">INTERACTIVE ESSAY / 01<br>2026 · 可复算的统计叙事</span></div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><div class="breadcrumb">数据素养实验 <span>/</span> <strong id="view-label">看汇总</strong></div><div class="top-actions"><button class="quiet" data-action="tour" title="开始导览会重置当前实验并切换案例">▷ 自动导览</button><button class="quiet" data-action="reset">重置实验</button><button class="solid" data-action="report">导出取证报告 <span>↗</span></button></div></header>
+    <div class="contextbar"><label for="dataset-select">当前案例</label><select id="dataset-select"></select><span id="dataset-kind" class="badge"></span><span class="context-note" id="dataset-note"></span></div>
+    <main id="main" tabindex="-1"></main>
+    <footer class="footer"><span>看见分母 / 数据比较的交互取证台</span><span>汇总有关联，分层有条件，因果需更多证据。</span></footer>
+  </div>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <dialog id="sources-dialog"><div class="dialog-head"><span class="eyebrow">SOURCE & METHOD</span><button data-action="close-dialog" aria-label="关闭资料窗口">×</button></div><h2>每一个数字，都有来处。</h2><div id="source-content"></div><button class="solid" data-action="close-dialog">返回实验</button></dialog>
+  <div id="tourbar" hidden><div><span class="eyebrow">GUIDED WALKTHROUGH</span><strong id="tour-title"></strong><p id="tour-copy"></p></div><div class="tour-actions"><button data-action="tour-prev" aria-label="上一步">←</button><span id="tour-count"></span><button data-action="tour-pause">暂停</button><button data-action="tour-next" aria-label="下一步">→</button><button data-action="tour-end">结束</button></div></div>
+</body>
+</html>
